@@ -1,0 +1,6 @@
+measure,value
+naive member vs non-member,0.522802820407003
+pre-existing gap (selection),0.2829902721386246
+DiD programme effect,0.18691688742786283
+DiD lo,0.16731243631606296
+DiD hi,0.20685058587005867

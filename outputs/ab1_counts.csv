@@ -1,0 +1,7 @@
+ab_test,ab_variant,device,sessions,viewed_product,added_to_cart,began_checkout,entered_payment,purchased,users
+AB1_one_page_checkout,control,desktop,282115,200051,45177,28107,22533,19899,182066
+AB1_one_page_checkout,control,mobile,424876,260053,47211,24945,17457,14352,259487
+AB1_one_page_checkout,control,tablet,59996,38407,7530,4225,3103,2641,40884
+AB1_one_page_checkout,treatment,desktop,281074,199415,45172,28107,22407,19779,182087
+AB1_one_page_checkout,treatment,mobile,422158,258689,47068,24720,17981,14961,258496
+AB1_one_page_checkout,treatment,tablet,59889,38234,7432,4206,3203,2756,40929

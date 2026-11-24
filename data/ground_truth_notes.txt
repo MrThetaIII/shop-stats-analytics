@@ -1,0 +1,3 @@
+seed=20261123 scale=2.0
+defective_product_id=385
+sessions=23876905 users=3322191 orders=1179166 order_items=1826468

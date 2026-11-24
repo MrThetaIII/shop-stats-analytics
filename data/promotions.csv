@@ -1,0 +1,13 @@
+promo_id,name,start_date,end_date,categories,discount_pct,type,audience
+P01,Black Friday / Cyber Week 2024,2024-11-29,2024-12-02,All,0.25,sitewide % off,All
+P02,Spring Sale 2025,2025-03-20,2025-03-26,Fashion; Home & Garden,0.15,category % off,All
+P03,Summer Clearance 2025,2025-07-10,2025-07-20,Fashion,0.3,category % off,All
+P04,Back to School 2025,2025-08-18,2025-08-31,Electronics; Books & Media,0.1,category % off,All
+P05,LOYAL20 Member Flash Sale,2025-09-18,2025-09-21,All,0.2,member code % off,Loyalty members
+P06,Free Shipping Weekend (Oct 2025),2025-10-24,2025-10-26,All,0.0,free shipping,All
+P07,Black Friday / Cyber Week 2025,2025-11-28,2025-12-01,All,0.25,sitewide % off,All
+P08,Beauty BOGO Week,2026-02-09,2026-02-15,Beauty,0.5,buy one get one,All
+P09,Spring Sale 2026,2026-03-19,2026-03-25,Fashion; Home & Garden,0.15,category % off,All
+P10,Free Shipping Weekend (May 2026),2026-05-15,2026-05-17,All,0.0,free shipping,All
+P11,Summer Clearance 2026,2026-07-09,2026-07-19,Fashion,0.3,category % off,All
+P12,Back to School 2026,2026-08-17,2026-08-30,Electronics; Books & Media,0.1,category % off,All

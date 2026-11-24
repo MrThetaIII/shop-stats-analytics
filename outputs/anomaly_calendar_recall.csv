@@ -1,0 +1,37 @@
+id,name,origin,kind,status,first_flag_lag_days,metrics_flagged,strongest_signals
+P01,Black Friday / Cyber Week 2024,internal,promotion,not scored (detector warm-up),,0,
+P02,Spring Sale 2025,internal,promotion,detected,0.0,18,product views · Electronics +39% (z=+9); product views · Fashion +40% (z=+8); product views · Home & Garden +42% (z=+7)
+P03,Summer Clearance 2025,internal,promotion,detected,-1.0,16,view→cart · Fashion +35% (z=+11); sessions · Email +48% (z=+7); sessions · Social +32% (z=+5)
+P04,Back to School 2025,internal,promotion,detected,2.0,1,view→cart · Electronics +14% (z=+3)
+P05,LOYAL20 Member Flash Sale,internal,promotion,detected,0.0,2,sessions · Email +125% (z=+10); orders +31% (z=+3)
+P06,Free Shipping Weekend (Oct 2025),internal,promotion,detected,0.0,3,cart→checkout · mobile +13% (z=+5); product views · Electronics +21% (z=+5); sessions · Email +46% (z=+5)
+P07,Black Friday / Cyber Week 2025,internal,promotion,detected,-1.0,29,product views · Electronics +119% (z=+19); product views · Toys & Games +368% (z=+18); product views · Fashion +116% (z=+18)
+P08,Beauty BOGO Week,internal,promotion,detected,-1.0,1,units per order +10% (z=+7)
+P09,Spring Sale 2026,internal,promotion,detected,0.0,18,sessions · Email +87% (z=+7); view→cart · Fashion +21% (z=+7); sessions · Social +42% (z=+5)
+P10,Free Shipping Weekend (May 2026),internal,promotion,detected,0.0,3,cart→checkout · desktop +9% (z=+5); conversion (visit→purchase) +16% (z=+4); cart→checkout · mobile +10% (z=+3)
+P11,Summer Clearance 2026,internal,promotion,detected,-1.0,18,view→cart · Fashion +34% (z=+9); sessions · Email +46% (z=+6); sessions · Social +23% (z=+4)
+P12,Back to School 2026,internal,promotion,missed,,0,
+E01,Site outage (6 hours),internal,incident,detected,0.0,9,product views · Electronics -31% (z=-10); product views · Fashion -33% (z=-10); product views · Beauty -32% (z=-8)
+E02,Loyalty program launch,internal,product change,not expected (gradual / single entity / experiment),,0,
+E03,Competitor electronics campaign,external,competition,detected,0.0,2,view→cart · Electronics -23% (z=-5); sessions · Paid Search -20% (z=-3)
+E04,Mobile checkout bug,internal,incident,detected,0.0,5,payment→purchase · mobile -44% (z=-9); payment success · wallet -37% (z=-8); payment success · card -13% (z=-5)
+E05,Pet Supplies category launch,internal,assortment,not expected (gradual / single entity / experiment),,0,
+E06,Viral social media mention,external,traffic shock,detected,0.0,16,sessions · Social +461% (z=+20); visit→view · mobile -14% (z=-17); visit→view · desktop -12% (z=-15)
+E07,Electronics price increase (+8%),internal,pricing,missed,,0,
+E08,Desktop add-to-cart tracking bug,internal,data quality,detected,0.0,8,view→cart · desktop -70% (z=-29); view→cart · Fashion -31% (z=-9); view→cart · Beauty -31% (z=-7)
+E09,Bot traffic wave,external,traffic shock,detected,0.0,5,visit→view · desktop -50% (z=-57); zero-engagement share +19967% (z=+30); sessions · Direct +249% (z=+18)
+E10,Carrier strike (Germany),external,logistics,detected,-1.0,2,delivery days · DE +143% (z=+49); cancellation rate · DE +370% (z=+3)
+E11,Paid search budget cut,internal,marketing,detected,0.0,1,sessions · Paid Search -55% (z=-5)
+E12,Macro slowdown / weak consumer confidence,external,macro,not expected (gradual / single entity / experiment),,0,
+E13,Defective batch of one electronics SKU,internal,product quality,not expected (gradual / single entity / experiment),,0,
+E14,A/B test 1: one-page checkout,internal,experiment,not expected (gradual / single entity / experiment),,0,
+E15,One-page checkout rolled out to 100%,internal,product change,missed,,0,
+E16,"Payment provider outage (cards, 4 hours)",external,incident,detected,0.0,2,payment success · card -18% (z=-9); payment→purchase · desktop -11% (z=-7)
+E17,Heatwave,external,weather,detected,0.0,2,product views · Home & Garden +113% (z=+15); view→cart · Home & Garden +26% (z=+5)
+E18,A/B test 2: social-proof badge,internal,experiment,not expected (gradual / single entity / experiment),,0,
+E19,Holiday toy season 2024,external,seasonality,not scored (detector warm-up),,0,
+E20,Holiday toy season 2025,external,seasonality,detected,0.0,2,product views · Toys & Games +368% (z=+18); view→cart · Toys & Games +40% (z=+6)
+E21,Spring sports season 2025,external,seasonality,detected,0.0,1,product views · Sports & Outdoors +33% (z=+4)
+E22,Spring sports season 2026,external,seasonality,missed,,0,
+E23,Peak-season carrier congestion 2024,external,seasonality,not scored (detector warm-up),,0,
+E24,Peak-season carrier congestion 2025,external,seasonality,detected,0.0,2,delivery days · DE +143% (z=+49); delivery days · other countries +21% (z=+17)

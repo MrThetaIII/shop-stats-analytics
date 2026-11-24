@@ -1,0 +1,3001 @@
+product_id,product_name,category,base_price,unit_cost,launch_date
+1,Electronics-0001,Electronics,65.99,53.02,2024-09-13
+2,Electronics-0002,Electronics,96.99,77.84,2024-09-15
+3,Electronics-0003,Electronics,385.99,337.25,2024-05-19
+4,Electronics-0004,Electronics,30.99,24.34,2022-12-09
+5,Electronics-0005,Electronics,119.99,92.56,2023-07-14
+6,Electronics-0006,Electronics,187.99,147.24,2023-07-30
+7,Electronics-0007,Electronics,137.99,110.93,2022-06-08
+8,Electronics-0008,Electronics,111.99,91.15,2024-01-29
+9,Electronics-0009,Electronics,260.99,219.06,2023-08-08
+10,Electronics-0010,Electronics,100.99,58.99,2022-07-02
+11,Electronics-0011,Electronics,222.99,164.28,2024-07-26
+12,Electronics-0012,Electronics,205.99,156.12,2023-06-18
+13,Electronics-0013,Electronics,1059.99,822.45,2023-08-01
+14,Electronics-0014,Electronics,252.99,195.0,2022-07-23
+15,Electronics-0015,Electronics,364.99,304.58,2023-12-06
+16,Electronics-0016,Electronics,69.99,51.56,2024-07-07
+17,Electronics-0017,Electronics,408.99,327.95,2022-10-08
+18,Electronics-0018,Electronics,344.99,255.93,2024-02-10
+19,Electronics-0019,Electronics,444.99,401.41,2023-10-18
+20,Electronics-0020,Electronics,120.99,92.37,2023-12-04
+21,Electronics-0021,Electronics,72.99,63.37,2023-10-17
+22,Electronics-0022,Electronics,172.99,139.71,2023-05-08
+23,Electronics-0023,Electronics,83.99,71.54,2023-01-27
+24,Electronics-0024,Electronics,161.99,142.59,2024-10-02
+25,Electronics-0025,Electronics,258.99,201.51,2023-01-23
+26,Electronics-0026,Electronics,435.99,398.9,2023-07-29
+27,Electronics-0027,Electronics,278.99,219.79,2023-09-20
+28,Electronics-0028,Electronics,17.99,12.17,2022-06-21
+29,Electronics-0029,Electronics,244.99,195.13,2023-10-18
+30,Electronics-0030,Electronics,122.99,102.25,2023-03-27
+31,Electronics-0031,Electronics,554.99,430.68,2023-08-21
+32,Electronics-0032,Electronics,108.99,87.5,2022-05-31
+33,Electronics-0033,Electronics,290.99,253.09,2022-11-27
+34,Electronics-0034,Electronics,863.99,732.76,2022-05-27
+35,Electronics-0035,Electronics,333.99,266.18,2023-08-25
+36,Electronics-0036,Electronics,84.99,62.74,2022-09-08
+37,Electronics-0037,Electronics,690.99,500.47,2022-10-31
+38,Electronics-0038,Electronics,89.99,76.93,2022-08-04
+39,Electronics-0039,Electronics,195.99,156.08,2022-07-19
+40,Electronics-0040,Electronics,417.99,315.56,2023-11-10
+41,Electronics-0041,Electronics,751.99,602.47,2024-04-18
+42,Electronics-0042,Electronics,344.99,278.47,2024-03-28
+43,Electronics-0043,Electronics,692.99,529.22,2024-05-13
+44,Electronics-0044,Electronics,573.99,381.26,2023-02-03
+45,Electronics-0045,Electronics,197.99,163.96,2024-01-19
+46,Electronics-0046,Electronics,373.99,244.89,2022-12-14
+47,Electronics-0047,Electronics,238.99,186.7,2024-03-29
+48,Electronics-0048,Electronics,913.99,729.03,2024-01-15
+49,Electronics-0049,Electronics,447.99,312.56,2023-03-04
+50,Electronics-0050,Electronics,1540.99,1146.59,2023-05-22
+51,Electronics-0051,Electronics,47.99,43.08,2022-09-14
+52,Electronics-0052,Electronics,848.99,660.87,2022-11-15
+53,Electronics-0053,Electronics,259.99,222.43,2023-12-05
+54,Electronics-0054,Electronics,240.99,194.88,2022-11-25
+55,Electronics-0055,Electronics,399.99,292.29,2023-08-12
+56,Electronics-0056,Electronics,325.99,264.57,2022-06-03
+57,Electronics-0057,Electronics,87.99,63.36,2024-05-06
+58,Electronics-0058,Electronics,388.99,272.16,2024-07-15
+59,Electronics-0059,Electronics,477.99,375.65,2022-12-18
+60,Electronics-0060,Electronics,236.99,186.09,2024-06-03
+61,Electronics-0061,Electronics,77.99,59.57,2024-07-07
+62,Electronics-0062,Electronics,49.99,40.48,2022-06-12
+63,Electronics-0063,Electronics,350.99,253.26,2022-08-06
+64,Electronics-0064,Electronics,331.99,231.23,2024-09-20
+65,Electronics-0065,Electronics,86.99,66.77,2023-04-17
+66,Electronics-0066,Electronics,426.99,309.65,2024-05-22
+67,Electronics-0067,Electronics,45.99,38.95,2022-08-25
+68,Electronics-0068,Electronics,244.99,186.71,2022-10-27
+69,Electronics-0069,Electronics,58.99,46.23,2023-05-19
+70,Electronics-0070,Electronics,944.99,715.05,2023-08-14
+71,Electronics-0071,Electronics,313.99,247.85,2023-05-07
+72,Electronics-0072,Electronics,102.99,80.1,2024-05-23
+73,Electronics-0073,Electronics,133.99,102.14,2023-08-19
+74,Electronics-0074,Electronics,62.99,52.2,2024-06-03
+75,Electronics-0075,Electronics,414.99,356.99,2022-06-22
+76,Electronics-0076,Electronics,60.99,43.85,2024-09-12
+77,Electronics-0077,Electronics,168.99,128.5,2022-09-15
+78,Electronics-0078,Electronics,118.99,100.56,2024-05-14
+79,Electronics-0079,Electronics,38.99,29.66,2024-06-09
+80,Electronics-0080,Electronics,96.99,87.21,2022-11-13
+81,Electronics-0081,Electronics,199.99,167.1,2024-08-04
+82,Electronics-0082,Electronics,1394.99,989.9,2023-04-25
+83,Electronics-0083,Electronics,342.99,271.12,2023-10-29
+84,Electronics-0084,Electronics,161.99,120.49,2024-08-05
+85,Electronics-0085,Electronics,389.99,330.98,2023-06-28
+86,Electronics-0086,Electronics,152.99,130.1,2023-12-07
+87,Electronics-0087,Electronics,340.99,301.36,2023-11-05
+88,Electronics-0088,Electronics,122.99,106.64,2022-07-30
+89,Electronics-0089,Electronics,181.99,153.66,2022-11-12
+90,Electronics-0090,Electronics,290.99,188.66,2022-10-02
+91,Electronics-0091,Electronics,159.99,132.54,2022-09-09
+92,Electronics-0092,Electronics,69.99,57.44,2024-09-09
+93,Electronics-0093,Electronics,84.99,67.64,2022-12-09
+94,Electronics-0094,Electronics,63.99,51.04,2023-11-22
+95,Electronics-0095,Electronics,69.99,49.08,2024-09-16
+96,Electronics-0096,Electronics,142.99,119.58,2023-10-03
+97,Electronics-0097,Electronics,641.99,471.63,2024-07-14
+98,Electronics-0098,Electronics,270.99,211.3,2023-09-09
+99,Electronics-0099,Electronics,100.99,75.02,2023-12-12
+100,Electronics-0100,Electronics,92.99,74.01,2023-09-19
+101,Electronics-0101,Electronics,453.99,357.36,2023-10-22
+102,Electronics-0102,Electronics,155.99,117.04,2023-01-07
+103,Electronics-0103,Electronics,55.99,37.75,2022-10-23
+104,Electronics-0104,Electronics,114.99,93.23,2023-05-29
+105,Electronics-0105,Electronics,85.99,66.39,2024-03-01
+106,Electronics-0106,Electronics,339.99,249.23,2023-09-21
+107,Electronics-0107,Electronics,106.99,88.09,2022-12-08
+108,Electronics-0108,Electronics,106.99,82.39,2023-04-23
+109,Electronics-0109,Electronics,571.99,412.64,2023-11-15
+110,Electronics-0110,Electronics,111.99,78.46,2022-07-19
+111,Electronics-0111,Electronics,599.99,498.74,2022-12-04
+112,Electronics-0112,Electronics,53.99,42.85,2022-05-19
+113,Electronics-0113,Electronics,541.99,382.65,2023-05-13
+114,Electronics-0114,Electronics,147.99,118.0,2024-07-31
+115,Electronics-0115,Electronics,162.99,120.54,2024-01-11
+116,Electronics-0116,Electronics,41.99,35.65,2023-04-04
+117,Electronics-0117,Electronics,861.99,775.15,2024-02-24
+118,Electronics-0118,Electronics,631.99,542.56,2023-12-25
+119,Electronics-0119,Electronics,703.99,537.03,2024-03-27
+120,Electronics-0120,Electronics,516.99,415.96,2023-09-25
+121,Electronics-0121,Electronics,78.99,59.3,2024-09-17
+122,Electronics-0122,Electronics,186.99,128.34,2022-07-13
+123,Electronics-0123,Electronics,152.99,112.64,2023-07-28
+124,Electronics-0124,Electronics,170.99,136.92,2024-06-11
+125,Electronics-0125,Electronics,126.99,91.97,2023-09-12
+126,Electronics-0126,Electronics,133.99,98.2,2023-04-15
+127,Electronics-0127,Electronics,304.99,271.95,2023-01-01
+128,Electronics-0128,Electronics,230.99,150.01,2022-05-23
+129,Electronics-0129,Electronics,730.99,552.86,2023-03-09
+130,Electronics-0130,Electronics,145.99,116.88,2022-11-04
+131,Electronics-0131,Electronics,114.99,94.35,2024-07-11
+132,Electronics-0132,Electronics,246.99,222.11,2022-06-16
+133,Electronics-0133,Electronics,169.99,138.12,2022-10-15
+134,Electronics-0134,Electronics,55.99,43.18,2023-05-24
+135,Electronics-0135,Electronics,117.99,91.49,2023-08-11
+136,Electronics-0136,Electronics,423.99,359.75,2024-03-21
+137,Electronics-0137,Electronics,175.99,132.88,2023-09-20
+138,Electronics-0138,Electronics,118.99,95.72,2022-12-23
+139,Electronics-0139,Electronics,73.99,66.27,2022-11-02
+140,Electronics-0140,Electronics,197.99,121.65,2022-07-10
+141,Electronics-0141,Electronics,118.99,96.09,2023-03-23
+142,Electronics-0142,Electronics,120.99,87.12,2024-05-04
+143,Electronics-0143,Electronics,966.99,694.13,2023-02-03
+144,Electronics-0144,Electronics,54.99,44.58,2024-05-01
+145,Electronics-0145,Electronics,173.99,129.45,2024-09-01
+146,Electronics-0146,Electronics,42.99,38.26,2023-07-20
+147,Electronics-0147,Electronics,198.99,134.33,2023-12-24
+148,Electronics-0148,Electronics,112.99,74.05,2023-02-27
+149,Electronics-0149,Electronics,248.99,181.8,2023-08-15
+150,Electronics-0150,Electronics,394.99,314.74,2023-03-19
+151,Electronics-0151,Electronics,401.99,288.34,2024-03-31
+152,Electronics-0152,Electronics,160.99,136.01,2024-05-17
+153,Electronics-0153,Electronics,176.99,136.03,2022-11-23
+154,Electronics-0154,Electronics,248.99,192.54,2023-05-27
+155,Electronics-0155,Electronics,158.99,130.12,2024-02-16
+156,Electronics-0156,Electronics,49.99,44.44,2023-02-20
+157,Electronics-0157,Electronics,335.99,301.53,2024-08-08
+158,Electronics-0158,Electronics,169.99,135.44,2023-02-12
+159,Electronics-0159,Electronics,120.99,85.7,2022-06-24
+160,Electronics-0160,Electronics,89.99,68.21,2022-05-25
+161,Electronics-0161,Electronics,84.99,72.82,2023-12-04
+162,Electronics-0162,Electronics,815.99,536.38,2024-01-08
+163,Electronics-0163,Electronics,28.99,22.28,2022-10-04
+164,Electronics-0164,Electronics,294.99,221.83,2023-12-14
+165,Electronics-0165,Electronics,49.99,40.64,2024-09-18
+166,Electronics-0166,Electronics,287.99,241.73,2023-01-18
+167,Electronics-0167,Electronics,23.99,20.05,2023-04-05
+168,Electronics-0168,Electronics,85.99,67.85,2023-08-14
+169,Electronics-0169,Electronics,106.99,90.21,2023-12-01
+170,Electronics-0170,Electronics,197.99,157.06,2024-02-28
+171,Electronics-0171,Electronics,87.99,78.16,2023-07-10
+172,Electronics-0172,Electronics,957.99,724.47,2022-11-09
+173,Electronics-0173,Electronics,227.99,165.19,2022-12-31
+174,Electronics-0174,Electronics,717.99,572.63,2022-05-31
+175,Electronics-0175,Electronics,156.99,119.64,2023-12-17
+176,Electronics-0176,Electronics,56.99,44.69,2023-07-26
+177,Electronics-0177,Electronics,919.99,733.9,2023-12-04
+178,Electronics-0178,Electronics,276.99,216.14,2023-10-10
+179,Electronics-0179,Electronics,238.99,188.61,2022-06-27
+180,Electronics-0180,Electronics,252.99,176.88,2023-03-20
+181,Electronics-0181,Electronics,132.99,104.28,2023-06-30
+182,Electronics-0182,Electronics,116.99,91.87,2022-06-14
+183,Electronics-0183,Electronics,317.99,285.45,2024-07-08
+184,Electronics-0184,Electronics,261.99,207.1,2024-09-29
+185,Electronics-0185,Electronics,102.99,72.06,2023-10-26
+186,Electronics-0186,Electronics,354.99,294.52,2023-07-03
+187,Electronics-0187,Electronics,285.99,217.84,2022-11-14
+188,Electronics-0188,Electronics,115.99,93.48,2024-09-30
+189,Electronics-0189,Electronics,215.99,157.75,2022-08-10
+190,Electronics-0190,Electronics,113.99,100.04,2024-08-28
+191,Electronics-0191,Electronics,135.99,123.63,2022-08-23
+192,Electronics-0192,Electronics,604.99,466.14,2024-05-16
+193,Electronics-0193,Electronics,184.99,149.57,2023-08-23
+194,Electronics-0194,Electronics,189.99,154.14,2023-06-24
+195,Electronics-0195,Electronics,111.99,87.38,2022-09-12
+196,Electronics-0196,Electronics,109.99,78.62,2024-05-18
+197,Electronics-0197,Electronics,96.99,72.34,2023-02-20
+198,Electronics-0198,Electronics,713.99,610.51,2023-12-13
+199,Electronics-0199,Electronics,70.99,54.66,2023-07-26
+200,Electronics-0200,Electronics,175.99,123.7,2022-11-22
+201,Electronics-0201,Electronics,221.99,157.98,2024-09-16
+202,Electronics-0202,Electronics,296.99,213.85,2023-12-18
+203,Electronics-0203,Electronics,176.99,141.16,2024-02-08
+204,Electronics-0204,Electronics,118.99,85.42,2024-04-27
+205,Electronics-0205,Electronics,56.99,45.83,2022-06-15
+206,Electronics-0206,Electronics,105.99,92.81,2024-06-07
+207,Electronics-0207,Electronics,775.99,619.91,2023-07-05
+208,Electronics-0208,Electronics,447.99,309.51,2024-05-27
+209,Electronics-0209,Electronics,410.99,331.53,2022-08-26
+210,Electronics-0210,Electronics,171.99,139.98,2023-07-24
+211,Electronics-0211,Electronics,201.99,175.75,2024-03-04
+212,Electronics-0212,Electronics,518.99,456.98,2023-07-18
+213,Electronics-0213,Electronics,110.99,95.06,2023-06-25
+214,Electronics-0214,Electronics,178.99,145.02,2024-03-20
+215,Electronics-0215,Electronics,90.99,66.83,2024-04-04
+216,Electronics-0216,Electronics,71.99,51.88,2024-08-11
+217,Electronics-0217,Electronics,188.99,150.98,2022-07-14
+218,Electronics-0218,Electronics,635.99,576.52,2022-10-09
+219,Electronics-0219,Electronics,212.99,170.68,2023-02-11
+220,Electronics-0220,Electronics,60.99,49.07,2024-05-28
+221,Electronics-0221,Electronics,213.99,160.56,2022-09-15
+222,Electronics-0222,Electronics,86.99,63.15,2023-12-07
+223,Electronics-0223,Electronics,50.99,42.3,2023-05-16
+224,Electronics-0224,Electronics,119.99,85.65,2022-05-28
+225,Electronics-0225,Electronics,180.99,150.58,2023-04-08
+226,Electronics-0226,Electronics,135.99,101.82,2024-02-03
+227,Electronics-0227,Electronics,1384.99,1004.5,2023-06-25
+228,Electronics-0228,Electronics,113.99,83.3,2023-02-15
+229,Electronics-0229,Electronics,631.99,485.46,2024-09-18
+230,Electronics-0230,Electronics,283.99,249.77,2023-12-04
+231,Electronics-0231,Electronics,396.99,313.74,2023-08-25
+232,Electronics-0232,Electronics,33.99,26.67,2024-08-15
+233,Electronics-0233,Electronics,105.99,90.62,2023-09-20
+234,Electronics-0234,Electronics,61.99,53.71,2022-11-26
+235,Electronics-0235,Electronics,165.99,152.51,2024-04-16
+236,Electronics-0236,Electronics,541.99,441.07,2022-06-09
+237,Electronics-0237,Electronics,118.99,89.56,2024-04-01
+238,Electronics-0238,Electronics,172.99,143.37,2023-05-13
+239,Electronics-0239,Electronics,19.99,16.46,2024-02-02
+240,Electronics-0240,Electronics,72.99,62.0,2024-07-08
+241,Electronics-0241,Electronics,112.99,90.03,2024-08-21
+242,Electronics-0242,Electronics,316.99,220.15,2023-02-18
+243,Electronics-0243,Electronics,765.99,589.78,2023-07-13
+244,Electronics-0244,Electronics,119.99,86.69,2022-06-20
+245,Electronics-0245,Electronics,102.99,77.82,2023-12-11
+246,Electronics-0246,Electronics,85.99,59.96,2023-10-31
+247,Electronics-0247,Electronics,147.99,100.54,2023-07-01
+248,Electronics-0248,Electronics,138.99,108.77,2024-03-14
+249,Electronics-0249,Electronics,266.99,181.14,2023-01-01
+250,Electronics-0250,Electronics,167.99,132.16,2024-08-01
+251,Electronics-0251,Electronics,170.99,122.69,2024-02-05
+252,Electronics-0252,Electronics,186.99,152.71,2023-09-20
+253,Electronics-0253,Electronics,296.99,245.77,2023-02-05
+254,Electronics-0254,Electronics,129.99,96.28,2022-10-25
+255,Electronics-0255,Electronics,106.99,83.11,2024-01-19
+256,Electronics-0256,Electronics,292.99,225.28,2022-12-02
+257,Electronics-0257,Electronics,286.99,217.79,2023-12-06
+258,Electronics-0258,Electronics,99.99,67.29,2024-09-21
+259,Electronics-0259,Electronics,245.99,186.69,2023-10-13
+260,Electronics-0260,Electronics,251.99,203.28,2023-01-19
+261,Electronics-0261,Electronics,122.99,85.12,2022-08-02
+262,Electronics-0262,Electronics,645.99,559.51,2022-08-30
+263,Electronics-0263,Electronics,101.99,84.62,2024-09-01
+264,Electronics-0264,Electronics,310.99,274.51,2024-09-28
+265,Electronics-0265,Electronics,325.99,253.77,2023-01-26
+266,Electronics-0266,Electronics,645.99,555.59,2024-05-13
+267,Electronics-0267,Electronics,243.99,175.36,2023-06-03
+268,Electronics-0268,Electronics,510.99,412.78,2022-06-05
+269,Electronics-0269,Electronics,301.99,240.3,2023-09-08
+270,Electronics-0270,Electronics,139.99,111.4,2024-03-08
+271,Electronics-0271,Electronics,93.99,69.77,2024-08-08
+272,Electronics-0272,Electronics,161.99,139.54,2024-05-19
+273,Electronics-0273,Electronics,233.99,195.42,2023-04-25
+274,Electronics-0274,Electronics,624.99,522.71,2024-03-17
+275,Electronics-0275,Electronics,277.99,200.67,2023-07-23
+276,Electronics-0276,Electronics,58.99,49.26,2023-01-19
+277,Electronics-0277,Electronics,155.99,140.65,2022-05-24
+278,Electronics-0278,Electronics,169.99,120.91,2024-06-05
+279,Electronics-0279,Electronics,320.99,248.87,2023-08-25
+280,Electronics-0280,Electronics,142.99,118.24,2024-07-28
+281,Electronics-0281,Electronics,427.99,337.51,2022-06-18
+282,Electronics-0282,Electronics,193.99,142.52,2024-04-18
+283,Electronics-0283,Electronics,306.99,280.67,2022-11-25
+284,Electronics-0284,Electronics,223.99,185.92,2024-07-27
+285,Electronics-0285,Electronics,41.99,36.25,2024-08-20
+286,Electronics-0286,Electronics,774.99,569.18,2022-06-03
+287,Electronics-0287,Electronics,119.99,80.53,2022-09-06
+288,Electronics-0288,Electronics,167.99,132.43,2023-04-13
+289,Electronics-0289,Electronics,462.99,342.16,2022-07-15
+290,Electronics-0290,Electronics,103.99,82.8,2022-07-07
+291,Electronics-0291,Electronics,1399.99,1121.51,2023-09-27
+292,Electronics-0292,Electronics,91.99,63.54,2024-01-21
+293,Electronics-0293,Electronics,228.99,181.42,2024-02-24
+294,Electronics-0294,Electronics,144.99,126.82,2022-05-24
+295,Electronics-0295,Electronics,27.99,24.91,2023-12-04
+296,Electronics-0296,Electronics,190.99,142.4,2022-06-16
+297,Electronics-0297,Electronics,311.99,250.44,2024-05-08
+298,Electronics-0298,Electronics,620.99,490.29,2022-12-22
+299,Electronics-0299,Electronics,268.99,207.74,2023-11-08
+300,Electronics-0300,Electronics,360.99,273.97,2024-03-02
+301,Electronics-0301,Electronics,95.99,74.5,2022-07-03
+302,Electronics-0302,Electronics,225.99,191.02,2023-01-24
+303,Electronics-0303,Electronics,305.99,205.83,2023-07-18
+304,Electronics-0304,Electronics,55.99,44.23,2022-06-18
+305,Electronics-0305,Electronics,138.99,106.06,2024-07-28
+306,Electronics-0306,Electronics,91.99,77.34,2024-07-13
+307,Electronics-0307,Electronics,105.99,76.27,2023-11-25
+308,Electronics-0308,Electronics,123.99,100.31,2023-10-02
+309,Electronics-0309,Electronics,16.99,12.55,2024-01-15
+310,Electronics-0310,Electronics,57.99,40.14,2024-03-08
+311,Electronics-0311,Electronics,945.99,755.95,2022-09-16
+312,Electronics-0312,Electronics,162.99,143.85,2023-01-27
+313,Electronics-0313,Electronics,118.99,87.99,2024-04-03
+314,Electronics-0314,Electronics,346.99,295.86,2024-09-27
+315,Electronics-0315,Electronics,441.99,348.5,2024-01-27
+316,Electronics-0316,Electronics,40.99,32.11,2022-09-14
+317,Electronics-0317,Electronics,109.99,68.68,2024-04-02
+318,Electronics-0318,Electronics,170.99,127.72,2024-02-25
+319,Electronics-0319,Electronics,1177.99,856.54,2022-09-13
+320,Electronics-0320,Electronics,374.99,269.06,2022-11-15
+321,Electronics-0321,Electronics,188.99,164.58,2024-05-14
+322,Electronics-0322,Electronics,43.99,33.72,2023-03-20
+323,Electronics-0323,Electronics,108.99,75.8,2023-09-30
+324,Electronics-0324,Electronics,396.99,365.23,2024-09-16
+325,Electronics-0325,Electronics,279.99,244.78,2023-02-16
+326,Electronics-0326,Electronics,252.99,169.54,2024-05-10
+327,Electronics-0327,Electronics,245.99,205.24,2023-02-08
+328,Electronics-0328,Electronics,195.99,148.18,2023-10-14
+329,Electronics-0329,Electronics,598.99,500.92,2023-07-21
+330,Electronics-0330,Electronics,287.99,224.71,2022-07-23
+331,Electronics-0331,Electronics,63.99,48.94,2024-01-20
+332,Electronics-0332,Electronics,100.99,92.91,2022-12-07
+333,Electronics-0333,Electronics,230.99,177.0,2022-11-13
+334,Electronics-0334,Electronics,70.99,57.97,2022-08-23
+335,Electronics-0335,Electronics,205.99,140.79,2024-07-07
+336,Electronics-0336,Electronics,138.99,91.36,2023-02-07
+337,Electronics-0337,Electronics,160.99,124.96,2024-01-24
+338,Electronics-0338,Electronics,212.99,158.78,2023-12-30
+339,Electronics-0339,Electronics,151.99,134.17,2024-08-07
+340,Electronics-0340,Electronics,236.99,197.86,2022-05-22
+341,Electronics-0341,Electronics,146.99,109.36,2023-01-25
+342,Electronics-0342,Electronics,92.99,68.03,2023-03-31
+343,Electronics-0343,Electronics,49.99,37.42,2023-01-02
+344,Electronics-0344,Electronics,103.99,79.45,2022-06-02
+345,Electronics-0345,Electronics,299.99,272.6,2024-09-17
+346,Electronics-0346,Electronics,189.99,149.17,2024-03-09
+347,Electronics-0347,Electronics,133.99,97.86,2022-05-20
+348,Electronics-0348,Electronics,246.99,202.56,2023-09-20
+349,Electronics-0349,Electronics,150.99,109.81,2022-07-31
+350,Electronics-0350,Electronics,159.99,122.0,2022-07-11
+351,Electronics-0351,Electronics,116.99,91.72,2024-05-12
+352,Electronics-0352,Electronics,141.99,118.95,2023-09-20
+353,Electronics-0353,Electronics,271.99,197.61,2023-06-14
+354,Electronics-0354,Electronics,117.99,94.13,2024-01-29
+355,Electronics-0355,Electronics,379.99,291.99,2024-01-27
+356,Electronics-0356,Electronics,53.99,41.79,2024-08-06
+357,Electronics-0357,Electronics,116.99,84.45,2023-11-06
+358,Electronics-0358,Electronics,738.99,556.27,2022-07-04
+359,Electronics-0359,Electronics,350.99,276.79,2023-10-03
+360,Electronics-0360,Electronics,68.99,53.46,2023-01-23
+361,Electronics-0361,Electronics,174.99,146.06,2023-02-15
+362,Electronics-0362,Electronics,111.99,103.03,2024-02-25
+363,Electronics-0363,Electronics,217.99,186.25,2023-03-16
+364,Electronics-0364,Electronics,102.99,84.77,2022-05-25
+365,Electronics-0365,Electronics,51.99,47.36,2023-07-29
+366,Electronics-0366,Electronics,324.99,254.29,2023-11-10
+367,Electronics-0367,Electronics,155.99,119.51,2024-09-12
+368,Electronics-0368,Electronics,167.99,130.22,2023-09-26
+369,Electronics-0369,Electronics,139.99,105.03,2023-01-27
+370,Electronics-0370,Electronics,111.99,89.73,2024-05-22
+371,Electronics-0371,Electronics,246.99,185.18,2024-04-04
+372,Electronics-0372,Electronics,350.99,281.69,2023-07-10
+373,Electronics-0373,Electronics,297.99,228.63,2024-03-06
+374,Electronics-0374,Electronics,120.99,94.29,2023-02-05
+375,Electronics-0375,Electronics,1933.99,1692.05,2023-06-13
+376,Electronics-0376,Electronics,216.99,161.96,2022-10-14
+377,Electronics-0377,Electronics,106.99,84.53,2024-06-08
+378,Electronics-0378,Electronics,781.99,601.1,2022-11-11
+379,Electronics-0379,Electronics,619.99,433.43,2024-07-11
+380,Electronics-0380,Electronics,429.99,346.79,2024-05-28
+381,Electronics-0381,Electronics,928.99,805.06,2022-12-20
+382,Electronics-0382,Electronics,211.99,173.61,2023-05-02
+383,Electronics-0383,Electronics,437.99,343.83,2023-08-05
+384,Electronics-0384,Electronics,245.99,202.0,2023-11-02
+385,Electronics-0385,Electronics,221.99,158.38,2024-02-06
+386,Electronics-0386,Electronics,176.99,160.06,2023-12-06
+387,Electronics-0387,Electronics,165.99,127.53,2023-06-02
+388,Electronics-0388,Electronics,150.99,126.07,2024-05-04
+389,Electronics-0389,Electronics,181.99,150.81,2022-07-07
+390,Electronics-0390,Electronics,191.99,150.27,2023-07-04
+391,Electronics-0391,Electronics,403.99,311.75,2023-05-21
+392,Electronics-0392,Electronics,402.99,339.7,2023-12-20
+393,Electronics-0393,Electronics,76.99,60.27,2023-10-20
+394,Electronics-0394,Electronics,120.99,92.33,2022-08-24
+395,Electronics-0395,Electronics,72.99,49.84,2023-08-06
+396,Electronics-0396,Electronics,180.99,147.03,2023-12-04
+397,Electronics-0397,Electronics,59.99,46.09,2022-06-06
+398,Electronics-0398,Electronics,453.99,296.75,2023-04-15
+399,Electronics-0399,Electronics,214.99,174.41,2022-11-29
+400,Electronics-0400,Electronics,433.99,325.24,2024-03-23
+401,Electronics-0401,Electronics,315.99,236.28,2023-03-27
+402,Electronics-0402,Electronics,199.99,137.76,2022-09-11
+403,Electronics-0403,Electronics,146.99,118.01,2023-03-01
+404,Electronics-0404,Electronics,139.99,107.92,2022-09-12
+405,Electronics-0405,Electronics,106.99,79.07,2024-03-26
+406,Electronics-0406,Electronics,77.99,58.65,2024-01-11
+407,Electronics-0407,Electronics,373.99,282.1,2023-08-11
+408,Electronics-0408,Electronics,643.99,519.11,2023-06-05
+409,Electronics-0409,Electronics,112.99,98.58,2023-07-27
+410,Electronics-0410,Electronics,499.99,311.32,2024-05-21
+411,Electronics-0411,Electronics,716.99,521.76,2022-07-28
+412,Electronics-0412,Electronics,166.99,115.28,2024-01-13
+413,Electronics-0413,Electronics,103.99,75.78,2022-11-15
+414,Electronics-0414,Electronics,67.99,49.49,2024-01-28
+415,Electronics-0415,Electronics,70.99,57.15,2023-07-21
+416,Electronics-0416,Electronics,139.99,117.61,2023-03-27
+417,Electronics-0417,Electronics,241.99,204.91,2022-07-18
+418,Electronics-0418,Electronics,100.99,76.59,2024-02-12
+419,Electronics-0419,Electronics,95.99,83.51,2024-06-04
+420,Electronics-0420,Electronics,452.99,363.34,2022-08-10
+421,Electronics-0421,Electronics,123.99,104.53,2023-04-17
+422,Electronics-0422,Electronics,145.99,113.39,2024-04-15
+423,Electronics-0423,Electronics,203.99,141.24,2023-09-06
+424,Electronics-0424,Electronics,86.99,59.28,2023-02-14
+425,Electronics-0425,Electronics,285.99,235.03,2024-04-24
+426,Electronics-0426,Electronics,172.99,129.63,2022-06-04
+427,Electronics-0427,Electronics,782.99,601.33,2023-08-24
+428,Electronics-0428,Electronics,100.99,72.88,2022-11-05
+429,Electronics-0429,Electronics,86.99,68.47,2023-08-30
+430,Electronics-0430,Electronics,85.99,61.89,2024-01-23
+431,Electronics-0431,Electronics,271.99,218.11,2024-06-06
+432,Electronics-0432,Electronics,276.99,181.91,2023-04-13
+433,Electronics-0433,Electronics,190.99,135.94,2023-07-31
+434,Electronics-0434,Electronics,305.99,250.8,2024-04-02
+435,Electronics-0435,Electronics,215.99,139.64,2023-02-25
+436,Electronics-0436,Electronics,255.99,191.48,2022-11-09
+437,Electronics-0437,Electronics,272.99,197.86,2023-03-07
+438,Electronics-0438,Electronics,254.99,212.53,2024-09-15
+439,Electronics-0439,Electronics,58.99,50.0,2023-06-30
+440,Electronics-0440,Electronics,374.99,297.92,2023-02-23
+441,Electronics-0441,Electronics,96.99,87.27,2024-03-05
+442,Electronics-0442,Electronics,260.99,188.87,2024-05-12
+443,Electronics-0443,Electronics,83.99,72.67,2023-11-10
+444,Electronics-0444,Electronics,269.99,200.48,2024-07-17
+445,Electronics-0445,Electronics,151.99,136.08,2023-05-28
+446,Electronics-0446,Electronics,68.99,45.48,2023-05-02
+447,Electronics-0447,Electronics,235.99,197.63,2022-10-01
+448,Electronics-0448,Electronics,48.99,38.46,2024-03-11
+449,Electronics-0449,Electronics,53.99,41.95,2023-11-16
+450,Electronics-0450,Electronics,113.99,95.58,2024-07-02
+451,Fashion-0451,Fashion,45.99,22.43,2022-09-15
+452,Fashion-0452,Fashion,21.99,12.29,2024-09-25
+453,Fashion-0453,Fashion,39.99,19.3,2022-09-26
+454,Fashion-0454,Fashion,21.99,7.48,2024-08-18
+455,Fashion-0455,Fashion,57.99,27.82,2024-07-11
+456,Fashion-0456,Fashion,52.99,24.84,2022-06-06
+457,Fashion-0457,Fashion,24.99,11.7,2022-07-01
+458,Fashion-0458,Fashion,18.99,9.57,2024-03-10
+459,Fashion-0459,Fashion,57.99,24.81,2023-12-28
+460,Fashion-0460,Fashion,64.99,29.83,2022-07-19
+461,Fashion-0461,Fashion,54.99,31.99,2023-07-28
+462,Fashion-0462,Fashion,54.99,29.02,2023-04-12
+463,Fashion-0463,Fashion,40.99,18.86,2022-06-13
+464,Fashion-0464,Fashion,25.99,13.3,2023-10-20
+465,Fashion-0465,Fashion,30.99,16.03,2024-06-11
+466,Fashion-0466,Fashion,52.99,23.48,2023-06-12
+467,Fashion-0467,Fashion,71.99,36.13,2024-05-30
+468,Fashion-0468,Fashion,29.99,15.04,2023-01-11
+469,Fashion-0469,Fashion,55.99,23.81,2024-08-13
+470,Fashion-0470,Fashion,103.99,46.2,2023-08-10
+471,Fashion-0471,Fashion,24.99,11.1,2022-07-09
+472,Fashion-0472,Fashion,19.99,10.18,2024-06-18
+473,Fashion-0473,Fashion,18.99,9.63,2023-03-17
+474,Fashion-0474,Fashion,41.99,18.13,2022-09-07
+475,Fashion-0475,Fashion,48.99,23.21,2022-08-02
+476,Fashion-0476,Fashion,38.99,15.77,2023-12-28
+477,Fashion-0477,Fashion,55.99,25.26,2023-07-15
+478,Fashion-0478,Fashion,21.99,9.35,2023-04-08
+479,Fashion-0479,Fashion,30.99,12.79,2023-01-08
+480,Fashion-0480,Fashion,45.99,24.3,2022-09-17
+481,Fashion-0481,Fashion,105.99,49.1,2022-09-06
+482,Fashion-0482,Fashion,95.99,45.57,2024-04-20
+483,Fashion-0483,Fashion,39.99,14.83,2023-02-16
+484,Fashion-0484,Fashion,11.99,6.49,2023-08-01
+485,Fashion-0485,Fashion,43.99,16.47,2024-06-21
+486,Fashion-0486,Fashion,72.99,33.66,2023-06-12
+487,Fashion-0487,Fashion,67.99,34.26,2024-02-20
+488,Fashion-0488,Fashion,34.99,17.78,2024-09-18
+489,Fashion-0489,Fashion,100.99,45.77,2023-06-21
+490,Fashion-0490,Fashion,92.99,43.44,2022-10-01
+491,Fashion-0491,Fashion,116.99,44.8,2024-03-09
+492,Fashion-0492,Fashion,38.99,19.97,2023-05-12
+493,Fashion-0493,Fashion,74.99,37.14,2023-01-17
+494,Fashion-0494,Fashion,84.99,33.22,2022-07-20
+495,Fashion-0495,Fashion,47.99,23.43,2024-05-05
+496,Fashion-0496,Fashion,102.99,53.96,2024-01-12
+497,Fashion-0497,Fashion,30.99,15.59,2023-05-25
+498,Fashion-0498,Fashion,62.99,36.58,2024-02-25
+499,Fashion-0499,Fashion,61.99,27.26,2023-09-06
+500,Fashion-0500,Fashion,44.99,24.22,2022-08-29
+501,Fashion-0501,Fashion,44.99,22.14,2023-03-30
+502,Fashion-0502,Fashion,41.99,16.33,2024-06-14
+503,Fashion-0503,Fashion,55.99,24.31,2023-12-11
+504,Fashion-0504,Fashion,33.99,15.42,2023-01-04
+505,Fashion-0505,Fashion,33.99,15.46,2023-04-02
+506,Fashion-0506,Fashion,42.99,20.24,2022-10-15
+507,Fashion-0507,Fashion,35.99,19.86,2023-03-30
+508,Fashion-0508,Fashion,57.99,32.62,2023-06-09
+509,Fashion-0509,Fashion,66.99,21.17,2023-06-27
+510,Fashion-0510,Fashion,18.99,9.2,2023-08-04
+511,Fashion-0511,Fashion,53.99,28.8,2023-03-07
+512,Fashion-0512,Fashion,49.99,21.73,2023-02-19
+513,Fashion-0513,Fashion,57.99,21.73,2022-12-26
+514,Fashion-0514,Fashion,46.99,18.86,2023-09-19
+515,Fashion-0515,Fashion,67.99,28.9,2022-06-01
+516,Fashion-0516,Fashion,20.99,11.07,2022-07-03
+517,Fashion-0517,Fashion,27.99,12.6,2023-01-28
+518,Fashion-0518,Fashion,41.99,20.22,2024-06-11
+519,Fashion-0519,Fashion,39.99,16.72,2023-03-21
+520,Fashion-0520,Fashion,53.99,23.67,2023-06-18
+521,Fashion-0521,Fashion,73.99,40.25,2024-03-03
+522,Fashion-0522,Fashion,23.99,14.21,2023-09-28
+523,Fashion-0523,Fashion,17.99,9.56,2023-04-17
+524,Fashion-0524,Fashion,37.99,18.15,2022-06-08
+525,Fashion-0525,Fashion,72.99,34.23,2023-02-25
+526,Fashion-0526,Fashion,45.99,19.64,2023-03-19
+527,Fashion-0527,Fashion,80.99,33.74,2022-10-04
+528,Fashion-0528,Fashion,24.99,11.1,2024-08-08
+529,Fashion-0529,Fashion,34.99,18.09,2023-03-09
+530,Fashion-0530,Fashion,62.99,26.16,2022-07-09
+531,Fashion-0531,Fashion,21.99,11.43,2024-09-03
+532,Fashion-0532,Fashion,49.99,21.62,2023-04-13
+533,Fashion-0533,Fashion,41.99,18.62,2022-08-07
+534,Fashion-0534,Fashion,21.99,13.24,2024-04-17
+535,Fashion-0535,Fashion,26.99,15.48,2024-03-27
+536,Fashion-0536,Fashion,22.99,14.05,2024-08-27
+537,Fashion-0537,Fashion,9.99,5.41,2022-11-10
+538,Fashion-0538,Fashion,30.99,13.95,2024-05-02
+539,Fashion-0539,Fashion,45.99,26.46,2022-05-27
+540,Fashion-0540,Fashion,59.99,24.81,2024-09-18
+541,Fashion-0541,Fashion,84.99,38.52,2023-11-24
+542,Fashion-0542,Fashion,43.99,16.38,2024-04-11
+543,Fashion-0543,Fashion,53.99,26.16,2023-08-28
+544,Fashion-0544,Fashion,20.99,9.44,2023-11-18
+545,Fashion-0545,Fashion,113.99,62.99,2022-06-13
+546,Fashion-0546,Fashion,41.99,23.13,2024-09-22
+547,Fashion-0547,Fashion,73.99,36.4,2023-09-01
+548,Fashion-0548,Fashion,31.99,17.12,2023-11-01
+549,Fashion-0549,Fashion,24.99,10.55,2024-02-16
+550,Fashion-0550,Fashion,42.99,23.32,2022-06-06
+551,Fashion-0551,Fashion,50.99,27.09,2023-11-22
+552,Fashion-0552,Fashion,38.99,15.93,2023-10-23
+553,Fashion-0553,Fashion,72.99,33.57,2024-05-26
+554,Fashion-0554,Fashion,33.99,18.99,2024-07-06
+555,Fashion-0555,Fashion,51.99,29.9,2024-01-26
+556,Fashion-0556,Fashion,91.99,44.73,2024-07-05
+557,Fashion-0557,Fashion,90.99,34.49,2024-05-30
+558,Fashion-0558,Fashion,174.99,74.69,2023-01-23
+559,Fashion-0559,Fashion,31.99,12.78,2023-09-10
+560,Fashion-0560,Fashion,45.99,18.68,2022-08-22
+561,Fashion-0561,Fashion,30.99,15.35,2022-09-12
+562,Fashion-0562,Fashion,30.99,17.9,2024-05-23
+563,Fashion-0563,Fashion,56.99,24.09,2024-05-30
+564,Fashion-0564,Fashion,45.99,21.24,2023-07-31
+565,Fashion-0565,Fashion,32.99,16.94,2022-12-31
+566,Fashion-0566,Fashion,67.99,28.56,2024-04-09
+567,Fashion-0567,Fashion,30.99,13.22,2023-04-09
+568,Fashion-0568,Fashion,37.99,17.09,2024-09-01
+569,Fashion-0569,Fashion,59.99,27.28,2023-10-03
+570,Fashion-0570,Fashion,39.99,21.99,2022-09-10
+571,Fashion-0571,Fashion,51.99,31.44,2024-06-06
+572,Fashion-0572,Fashion,124.99,68.16,2024-07-15
+573,Fashion-0573,Fashion,98.99,50.76,2023-09-04
+574,Fashion-0574,Fashion,45.99,19.25,2023-06-08
+575,Fashion-0575,Fashion,14.99,6.87,2023-07-04
+576,Fashion-0576,Fashion,99.99,53.85,2024-08-20
+577,Fashion-0577,Fashion,72.99,35.31,2022-12-08
+578,Fashion-0578,Fashion,72.99,35.01,2022-07-14
+579,Fashion-0579,Fashion,59.99,33.09,2024-06-25
+580,Fashion-0580,Fashion,63.99,33.28,2022-12-05
+581,Fashion-0581,Fashion,201.99,97.38,2023-05-05
+582,Fashion-0582,Fashion,90.99,38.85,2023-01-17
+583,Fashion-0583,Fashion,125.99,58.82,2023-04-21
+584,Fashion-0584,Fashion,76.99,35.76,2024-01-07
+585,Fashion-0585,Fashion,10.99,6.85,2023-09-28
+586,Fashion-0586,Fashion,33.99,16.41,2024-01-16
+587,Fashion-0587,Fashion,40.99,17.97,2024-04-30
+588,Fashion-0588,Fashion,31.99,14.75,2023-12-30
+589,Fashion-0589,Fashion,52.99,35.07,2024-06-14
+590,Fashion-0590,Fashion,28.99,13.53,2023-11-29
+591,Fashion-0591,Fashion,114.99,41.09,2024-08-13
+592,Fashion-0592,Fashion,25.99,10.61,2023-01-12
+593,Fashion-0593,Fashion,19.99,9.89,2023-05-08
+594,Fashion-0594,Fashion,69.99,33.81,2024-02-05
+595,Fashion-0595,Fashion,26.99,12.36,2024-04-07
+596,Fashion-0596,Fashion,79.99,40.23,2024-03-24
+597,Fashion-0597,Fashion,26.99,14.14,2024-01-18
+598,Fashion-0598,Fashion,71.99,34.3,2024-07-23
+599,Fashion-0599,Fashion,22.99,11.71,2023-10-14
+600,Fashion-0600,Fashion,34.99,15.04,2023-07-01
+601,Fashion-0601,Fashion,69.99,39.15,2024-01-26
+602,Fashion-0602,Fashion,59.99,23.96,2023-01-31
+603,Fashion-0603,Fashion,43.99,21.83,2023-04-08
+604,Fashion-0604,Fashion,93.99,42.81,2023-07-19
+605,Fashion-0605,Fashion,44.99,19.41,2023-04-15
+606,Fashion-0606,Fashion,14.99,6.96,2024-09-25
+607,Fashion-0607,Fashion,65.99,28.32,2023-08-31
+608,Fashion-0608,Fashion,107.99,59.75,2024-06-10
+609,Fashion-0609,Fashion,49.99,19.27,2024-03-09
+610,Fashion-0610,Fashion,17.99,8.59,2023-09-22
+611,Fashion-0611,Fashion,29.99,14.99,2022-09-21
+612,Fashion-0612,Fashion,42.99,19.41,2023-03-14
+613,Fashion-0613,Fashion,40.99,18.96,2023-12-31
+614,Fashion-0614,Fashion,38.99,20.39,2023-04-29
+615,Fashion-0615,Fashion,32.99,14.45,2022-07-20
+616,Fashion-0616,Fashion,35.99,14.93,2024-07-25
+617,Fashion-0617,Fashion,36.99,19.8,2023-11-08
+618,Fashion-0618,Fashion,86.99,34.07,2022-05-27
+619,Fashion-0619,Fashion,49.99,28.01,2024-04-12
+620,Fashion-0620,Fashion,31.99,17.62,2024-09-03
+621,Fashion-0621,Fashion,56.99,31.45,2022-09-27
+622,Fashion-0622,Fashion,34.99,17.59,2022-08-21
+623,Fashion-0623,Fashion,16.99,8.0,2023-01-14
+624,Fashion-0624,Fashion,36.99,15.18,2024-04-21
+625,Fashion-0625,Fashion,24.99,13.9,2022-12-13
+626,Fashion-0626,Fashion,40.99,18.88,2022-11-14
+627,Fashion-0627,Fashion,40.99,18.84,2024-10-01
+628,Fashion-0628,Fashion,83.99,31.58,2022-11-15
+629,Fashion-0629,Fashion,49.99,23.08,2023-09-02
+630,Fashion-0630,Fashion,26.99,13.64,2024-01-11
+631,Fashion-0631,Fashion,35.99,17.66,2024-09-27
+632,Fashion-0632,Fashion,72.99,27.81,2023-09-07
+633,Fashion-0633,Fashion,42.99,23.1,2022-12-11
+634,Fashion-0634,Fashion,57.99,26.41,2024-06-25
+635,Fashion-0635,Fashion,64.99,37.88,2023-12-28
+636,Fashion-0636,Fashion,16.99,8.04,2024-08-25
+637,Fashion-0637,Fashion,11.99,5.89,2024-04-04
+638,Fashion-0638,Fashion,33.99,15.7,2022-12-26
+639,Fashion-0639,Fashion,35.99,18.61,2023-11-14
+640,Fashion-0640,Fashion,38.99,16.62,2023-11-23
+641,Fashion-0641,Fashion,61.99,32.1,2023-04-15
+642,Fashion-0642,Fashion,83.99,36.7,2023-10-29
+643,Fashion-0643,Fashion,40.99,19.02,2022-10-05
+644,Fashion-0644,Fashion,22.99,8.96,2023-09-18
+645,Fashion-0645,Fashion,15.99,7.96,2023-04-14
+646,Fashion-0646,Fashion,33.99,14.13,2024-05-27
+647,Fashion-0647,Fashion,43.99,18.54,2024-08-13
+648,Fashion-0648,Fashion,46.99,22.77,2022-08-15
+649,Fashion-0649,Fashion,60.99,32.58,2022-08-03
+650,Fashion-0650,Fashion,16.99,7.39,2023-03-24
+651,Fashion-0651,Fashion,16.99,7.85,2024-08-17
+652,Fashion-0652,Fashion,70.99,29.57,2024-08-25
+653,Fashion-0653,Fashion,31.99,16.76,2023-02-01
+654,Fashion-0654,Fashion,53.99,19.5,2024-04-29
+655,Fashion-0655,Fashion,37.99,16.98,2023-07-17
+656,Fashion-0656,Fashion,69.99,34.52,2024-05-19
+657,Fashion-0657,Fashion,32.99,17.53,2024-08-25
+658,Fashion-0658,Fashion,26.99,15.7,2023-10-17
+659,Fashion-0659,Fashion,45.99,20.0,2024-01-06
+660,Fashion-0660,Fashion,31.99,12.17,2024-08-02
+661,Fashion-0661,Fashion,19.99,9.87,2023-09-22
+662,Fashion-0662,Fashion,75.99,38.89,2023-01-21
+663,Fashion-0663,Fashion,24.99,11.15,2022-08-05
+664,Fashion-0664,Fashion,13.99,7.25,2023-04-09
+665,Fashion-0665,Fashion,20.99,9.31,2024-05-01
+666,Fashion-0666,Fashion,118.99,52.99,2024-07-11
+667,Fashion-0667,Fashion,95.99,35.17,2024-05-13
+668,Fashion-0668,Fashion,67.99,29.78,2023-07-06
+669,Fashion-0669,Fashion,31.99,15.16,2022-12-19
+670,Fashion-0670,Fashion,22.99,11.31,2024-08-29
+671,Fashion-0671,Fashion,41.99,17.84,2024-08-04
+672,Fashion-0672,Fashion,32.99,15.24,2022-10-19
+673,Fashion-0673,Fashion,34.99,17.15,2023-06-16
+674,Fashion-0674,Fashion,64.99,36.17,2022-05-23
+675,Fashion-0675,Fashion,54.99,26.23,2024-02-20
+676,Fashion-0676,Fashion,26.99,15.77,2023-04-28
+677,Fashion-0677,Fashion,78.99,33.44,2022-05-22
+678,Fashion-0678,Fashion,50.99,25.35,2023-02-25
+679,Fashion-0679,Fashion,129.99,66.53,2023-05-11
+680,Fashion-0680,Fashion,20.99,9.86,2024-01-10
+681,Fashion-0681,Fashion,32.99,18.72,2022-10-03
+682,Fashion-0682,Fashion,22.99,10.17,2023-08-31
+683,Fashion-0683,Fashion,57.99,23.69,2022-08-13
+684,Fashion-0684,Fashion,29.99,14.63,2022-06-02
+685,Fashion-0685,Fashion,67.99,31.08,2023-01-19
+686,Fashion-0686,Fashion,18.99,10.69,2022-07-15
+687,Fashion-0687,Fashion,48.99,22.67,2023-02-09
+688,Fashion-0688,Fashion,43.99,18.99,2024-03-08
+689,Fashion-0689,Fashion,23.99,11.93,2023-06-11
+690,Fashion-0690,Fashion,47.99,18.94,2023-08-07
+691,Fashion-0691,Fashion,58.99,29.14,2022-12-11
+692,Fashion-0692,Fashion,38.99,21.77,2022-07-01
+693,Fashion-0693,Fashion,50.99,28.69,2024-07-18
+694,Fashion-0694,Fashion,35.99,17.05,2023-11-10
+695,Fashion-0695,Fashion,88.99,36.67,2024-03-29
+696,Fashion-0696,Fashion,37.99,12.53,2023-09-21
+697,Fashion-0697,Fashion,53.99,28.8,2023-06-15
+698,Fashion-0698,Fashion,103.99,42.82,2024-08-03
+699,Fashion-0699,Fashion,36.99,19.75,2022-07-26
+700,Fashion-0700,Fashion,102.99,33.76,2023-07-16
+701,Fashion-0701,Fashion,29.99,13.76,2023-05-27
+702,Fashion-0702,Fashion,37.99,14.57,2023-12-25
+703,Fashion-0703,Fashion,84.99,40.71,2023-10-14
+704,Fashion-0704,Fashion,26.99,13.39,2022-12-12
+705,Fashion-0705,Fashion,54.99,22.43,2024-03-25
+706,Fashion-0706,Fashion,23.99,10.18,2022-06-29
+707,Fashion-0707,Fashion,50.99,22.95,2024-03-16
+708,Fashion-0708,Fashion,161.99,59.27,2022-09-08
+709,Fashion-0709,Fashion,30.99,13.57,2023-09-13
+710,Fashion-0710,Fashion,65.99,27.23,2023-03-23
+711,Fashion-0711,Fashion,44.99,16.32,2022-08-25
+712,Fashion-0712,Fashion,28.99,13.16,2023-03-09
+713,Fashion-0713,Fashion,127.99,61.55,2024-02-24
+714,Fashion-0714,Fashion,41.99,22.38,2023-08-28
+715,Fashion-0715,Fashion,36.99,19.2,2024-02-20
+716,Fashion-0716,Fashion,51.99,25.45,2024-01-20
+717,Fashion-0717,Fashion,17.99,7.44,2023-04-24
+718,Fashion-0718,Fashion,72.99,25.11,2022-07-30
+719,Fashion-0719,Fashion,15.99,7.18,2022-06-13
+720,Fashion-0720,Fashion,95.99,50.02,2024-09-15
+721,Fashion-0721,Fashion,39.99,17.34,2023-06-24
+722,Fashion-0722,Fashion,43.99,21.1,2023-03-03
+723,Fashion-0723,Fashion,37.99,18.73,2024-09-18
+724,Fashion-0724,Fashion,40.99,17.79,2023-01-17
+725,Fashion-0725,Fashion,76.99,34.02,2024-02-18
+726,Fashion-0726,Fashion,52.99,21.59,2024-02-07
+727,Fashion-0727,Fashion,30.99,15.09,2022-11-15
+728,Fashion-0728,Fashion,57.99,29.42,2024-06-15
+729,Fashion-0729,Fashion,43.99,17.83,2023-10-30
+730,Fashion-0730,Fashion,46.99,22.99,2023-11-24
+731,Fashion-0731,Fashion,31.99,15.29,2023-11-22
+732,Fashion-0732,Fashion,95.99,47.26,2022-05-22
+733,Fashion-0733,Fashion,139.99,55.67,2023-04-09
+734,Fashion-0734,Fashion,46.99,25.59,2022-05-17
+735,Fashion-0735,Fashion,42.99,20.49,2023-04-28
+736,Fashion-0736,Fashion,45.99,20.58,2022-08-08
+737,Fashion-0737,Fashion,76.99,49.46,2024-02-25
+738,Fashion-0738,Fashion,64.99,36.71,2022-11-20
+739,Fashion-0739,Fashion,46.99,22.32,2023-11-03
+740,Fashion-0740,Fashion,37.99,18.77,2024-05-31
+741,Fashion-0741,Fashion,34.99,16.26,2023-10-07
+742,Fashion-0742,Fashion,37.99,16.35,2023-09-15
+743,Fashion-0743,Fashion,10.99,5.86,2023-02-10
+744,Fashion-0744,Fashion,26.99,13.95,2023-02-18
+745,Fashion-0745,Fashion,75.99,40.8,2024-05-25
+746,Fashion-0746,Fashion,88.99,41.39,2023-03-01
+747,Fashion-0747,Fashion,41.99,15.32,2024-06-10
+748,Fashion-0748,Fashion,63.99,30.99,2024-08-03
+749,Fashion-0749,Fashion,85.99,39.12,2023-06-03
+750,Fashion-0750,Fashion,16.99,5.61,2022-10-28
+751,Fashion-0751,Fashion,50.99,26.04,2023-11-14
+752,Fashion-0752,Fashion,35.99,19.7,2024-08-17
+753,Fashion-0753,Fashion,40.99,22.7,2023-12-15
+754,Fashion-0754,Fashion,91.99,58.23,2023-07-22
+755,Fashion-0755,Fashion,11.99,6.63,2024-09-29
+756,Fashion-0756,Fashion,41.99,21.85,2023-11-29
+757,Fashion-0757,Fashion,14.99,7.64,2023-11-15
+758,Fashion-0758,Fashion,40.99,18.35,2024-01-10
+759,Fashion-0759,Fashion,69.99,39.01,2022-12-15
+760,Fashion-0760,Fashion,34.99,16.3,2022-11-27
+761,Fashion-0761,Fashion,24.99,11.25,2024-07-18
+762,Fashion-0762,Fashion,49.99,25.41,2022-07-09
+763,Fashion-0763,Fashion,42.99,23.36,2023-04-02
+764,Fashion-0764,Fashion,90.99,44.05,2024-06-03
+765,Fashion-0765,Fashion,144.99,62.48,2023-01-11
+766,Fashion-0766,Fashion,17.99,8.13,2024-03-01
+767,Fashion-0767,Fashion,152.99,67.37,2023-01-20
+768,Fashion-0768,Fashion,103.99,38.32,2023-11-30
+769,Fashion-0769,Fashion,27.99,12.19,2024-01-29
+770,Fashion-0770,Fashion,30.99,17.69,2024-08-18
+771,Fashion-0771,Fashion,71.99,36.27,2024-01-03
+772,Fashion-0772,Fashion,39.99,24.45,2024-06-30
+773,Fashion-0773,Fashion,105.99,53.35,2022-06-19
+774,Fashion-0774,Fashion,76.99,37.92,2022-08-15
+775,Fashion-0775,Fashion,51.99,28.14,2024-02-27
+776,Fashion-0776,Fashion,41.99,16.73,2023-08-23
+777,Fashion-0777,Fashion,29.99,16.96,2024-09-06
+778,Fashion-0778,Fashion,113.99,46.01,2024-05-29
+779,Fashion-0779,Fashion,7.99,4.36,2022-10-25
+780,Fashion-0780,Fashion,69.99,31.61,2024-09-03
+781,Fashion-0781,Fashion,113.99,59.23,2022-07-26
+782,Fashion-0782,Fashion,27.99,12.13,2023-08-22
+783,Fashion-0783,Fashion,33.99,11.8,2023-05-07
+784,Fashion-0784,Fashion,67.99,33.67,2024-05-30
+785,Fashion-0785,Fashion,65.99,25.88,2022-09-28
+786,Fashion-0786,Fashion,64.99,28.08,2023-10-21
+787,Fashion-0787,Fashion,92.99,44.75,2022-11-11
+788,Fashion-0788,Fashion,77.99,38.93,2023-10-24
+789,Fashion-0789,Fashion,54.99,19.67,2024-03-13
+790,Fashion-0790,Fashion,64.99,37.3,2024-05-12
+791,Fashion-0791,Fashion,58.99,27.88,2022-06-26
+792,Fashion-0792,Fashion,31.99,16.81,2024-02-19
+793,Fashion-0793,Fashion,28.99,14.12,2022-10-22
+794,Fashion-0794,Fashion,15.99,7.96,2023-03-19
+795,Fashion-0795,Fashion,52.99,23.38,2024-01-28
+796,Fashion-0796,Fashion,15.99,7.14,2023-09-18
+797,Fashion-0797,Fashion,26.99,13.15,2023-11-23
+798,Fashion-0798,Fashion,65.99,32.41,2024-01-31
+799,Fashion-0799,Fashion,24.99,10.86,2024-07-26
+800,Fashion-0800,Fashion,30.99,13.6,2024-04-27
+801,Fashion-0801,Fashion,24.99,12.43,2024-01-15
+802,Fashion-0802,Fashion,76.99,33.99,2022-10-25
+803,Fashion-0803,Fashion,90.99,39.29,2023-04-24
+804,Fashion-0804,Fashion,53.99,17.12,2023-07-30
+805,Fashion-0805,Fashion,34.99,16.47,2023-11-29
+806,Fashion-0806,Fashion,52.99,31.87,2024-02-09
+807,Fashion-0807,Fashion,26.99,12.63,2022-07-29
+808,Fashion-0808,Fashion,27.99,14.52,2023-01-13
+809,Fashion-0809,Fashion,29.99,14.6,2023-07-14
+810,Fashion-0810,Fashion,47.99,24.0,2024-05-03
+811,Fashion-0811,Fashion,10.99,5.11,2023-06-02
+812,Fashion-0812,Fashion,29.99,12.3,2023-06-15
+813,Fashion-0813,Fashion,81.99,36.79,2024-03-01
+814,Fashion-0814,Fashion,46.99,20.82,2023-02-06
+815,Fashion-0815,Fashion,45.99,19.85,2023-03-15
+816,Fashion-0816,Fashion,31.99,15.88,2022-05-17
+817,Fashion-0817,Fashion,67.99,30.82,2024-03-29
+818,Fashion-0818,Fashion,34.99,18.55,2022-09-24
+819,Fashion-0819,Fashion,75.99,40.02,2024-05-12
+820,Fashion-0820,Fashion,30.99,16.32,2024-05-21
+821,Fashion-0821,Fashion,27.99,13.92,2024-05-06
+822,Fashion-0822,Fashion,42.99,18.61,2022-12-16
+823,Fashion-0823,Fashion,64.99,27.74,2024-06-08
+824,Fashion-0824,Fashion,15.99,8.21,2024-01-12
+825,Fashion-0825,Fashion,27.99,13.76,2024-04-13
+826,Fashion-0826,Fashion,26.99,12.84,2023-09-09
+827,Fashion-0827,Fashion,51.99,26.1,2023-04-29
+828,Fashion-0828,Fashion,68.99,38.76,2023-11-08
+829,Fashion-0829,Fashion,46.99,19.95,2023-05-01
+830,Fashion-0830,Fashion,29.99,12.88,2024-07-25
+831,Fashion-0831,Fashion,25.99,10.68,2023-11-13
+832,Fashion-0832,Fashion,42.99,23.49,2023-06-08
+833,Fashion-0833,Fashion,135.99,69.8,2023-12-10
+834,Fashion-0834,Fashion,81.99,38.26,2023-11-23
+835,Fashion-0835,Fashion,46.99,24.91,2023-06-05
+836,Fashion-0836,Fashion,79.99,33.85,2022-08-26
+837,Fashion-0837,Fashion,119.99,54.89,2024-09-10
+838,Fashion-0838,Fashion,45.99,30.5,2024-05-23
+839,Fashion-0839,Fashion,123.99,42.91,2023-10-19
+840,Fashion-0840,Fashion,24.99,14.34,2024-07-17
+841,Fashion-0841,Fashion,55.99,27.48,2023-10-08
+842,Fashion-0842,Fashion,28.99,14.04,2022-11-28
+843,Fashion-0843,Fashion,101.99,52.21,2023-10-14
+844,Fashion-0844,Fashion,22.99,12.29,2022-07-31
+845,Fashion-0845,Fashion,90.99,51.03,2022-07-06
+846,Fashion-0846,Fashion,136.99,78.58,2023-02-20
+847,Fashion-0847,Fashion,25.99,13.07,2022-10-11
+848,Fashion-0848,Fashion,18.99,7.68,2024-09-01
+849,Fashion-0849,Fashion,20.99,8.96,2022-06-21
+850,Fashion-0850,Fashion,88.99,50.48,2024-07-07
+851,Fashion-0851,Fashion,22.99,11.34,2024-03-31
+852,Fashion-0852,Fashion,56.99,28.29,2024-07-31
+853,Fashion-0853,Fashion,20.99,10.0,2024-06-09
+854,Fashion-0854,Fashion,53.99,30.06,2022-08-07
+855,Fashion-0855,Fashion,17.99,8.15,2023-01-01
+856,Fashion-0856,Fashion,71.99,25.12,2023-08-15
+857,Fashion-0857,Fashion,79.99,36.97,2023-02-19
+858,Fashion-0858,Fashion,64.99,33.56,2023-05-20
+859,Fashion-0859,Fashion,52.99,23.22,2023-04-16
+860,Fashion-0860,Fashion,9.99,5.59,2023-02-02
+861,Fashion-0861,Fashion,36.99,19.78,2024-05-17
+862,Fashion-0862,Fashion,39.99,18.81,2022-05-25
+863,Fashion-0863,Fashion,68.99,36.52,2023-04-20
+864,Fashion-0864,Fashion,80.99,36.71,2023-12-06
+865,Fashion-0865,Fashion,59.99,29.86,2024-09-03
+866,Fashion-0866,Fashion,86.99,35.54,2023-12-23
+867,Fashion-0867,Fashion,94.99,54.57,2022-12-22
+868,Fashion-0868,Fashion,76.99,32.79,2023-09-25
+869,Fashion-0869,Fashion,45.99,23.24,2024-09-30
+870,Fashion-0870,Fashion,59.99,28.07,2023-12-28
+871,Fashion-0871,Fashion,42.99,19.49,2023-12-04
+872,Fashion-0872,Fashion,39.99,17.95,2022-06-09
+873,Fashion-0873,Fashion,66.99,35.29,2022-10-18
+874,Fashion-0874,Fashion,80.99,37.52,2024-02-11
+875,Fashion-0875,Fashion,39.99,15.65,2024-02-13
+876,Fashion-0876,Fashion,60.99,31.48,2024-07-09
+877,Fashion-0877,Fashion,42.99,25.29,2023-03-10
+878,Fashion-0878,Fashion,42.99,21.98,2022-09-29
+879,Fashion-0879,Fashion,83.99,37.59,2024-05-28
+880,Fashion-0880,Fashion,48.99,22.06,2023-11-02
+881,Fashion-0881,Fashion,32.99,17.26,2022-07-31
+882,Fashion-0882,Fashion,37.99,20.93,2023-01-31
+883,Fashion-0883,Fashion,68.99,35.48,2023-12-13
+884,Fashion-0884,Fashion,23.99,11.18,2022-05-31
+885,Fashion-0885,Fashion,38.99,18.98,2024-04-10
+886,Fashion-0886,Fashion,60.99,31.02,2023-07-11
+887,Fashion-0887,Fashion,29.99,11.16,2022-05-23
+888,Fashion-0888,Fashion,80.99,40.02,2023-01-31
+889,Fashion-0889,Fashion,73.99,39.17,2024-04-06
+890,Fashion-0890,Fashion,126.99,58.87,2022-07-25
+891,Fashion-0891,Fashion,27.99,13.92,2023-08-29
+892,Fashion-0892,Fashion,35.99,14.63,2022-10-16
+893,Fashion-0893,Fashion,77.99,32.53,2024-09-09
+894,Fashion-0894,Fashion,57.99,27.85,2024-06-25
+895,Fashion-0895,Fashion,26.99,12.47,2024-07-17
+896,Fashion-0896,Fashion,14.99,7.28,2022-10-08
+897,Fashion-0897,Fashion,14.99,7.28,2023-01-28
+898,Fashion-0898,Fashion,27.99,13.43,2024-09-16
+899,Fashion-0899,Fashion,21.99,11.19,2022-07-28
+900,Fashion-0900,Fashion,56.99,21.59,2022-10-16
+901,Fashion-0901,Fashion,54.99,24.84,2024-04-13
+902,Fashion-0902,Fashion,11.99,5.71,2022-09-27
+903,Fashion-0903,Fashion,41.99,22.8,2022-09-06
+904,Fashion-0904,Fashion,52.99,20.37,2022-10-21
+905,Fashion-0905,Fashion,37.99,17.97,2023-01-10
+906,Fashion-0906,Fashion,122.99,59.65,2023-10-26
+907,Fashion-0907,Fashion,81.99,39.44,2023-02-21
+908,Fashion-0908,Fashion,142.99,66.9,2023-12-08
+909,Fashion-0909,Fashion,87.99,39.21,2022-07-21
+910,Fashion-0910,Fashion,29.99,10.74,2022-05-27
+911,Fashion-0911,Fashion,41.99,17.62,2023-06-18
+912,Fashion-0912,Fashion,18.99,8.7,2022-12-23
+913,Fashion-0913,Fashion,49.99,23.42,2022-11-02
+914,Fashion-0914,Fashion,82.99,39.3,2022-05-21
+915,Fashion-0915,Fashion,113.99,62.39,2024-07-17
+916,Fashion-0916,Fashion,133.99,56.0,2023-12-20
+917,Fashion-0917,Fashion,23.99,10.7,2024-08-08
+918,Fashion-0918,Fashion,58.99,42.99,2022-06-10
+919,Fashion-0919,Fashion,69.99,40.5,2022-12-17
+920,Fashion-0920,Fashion,16.99,8.82,2024-02-18
+921,Fashion-0921,Fashion,14.99,7.64,2024-09-18
+922,Fashion-0922,Fashion,73.99,39.29,2023-06-20
+923,Fashion-0923,Fashion,37.99,14.17,2023-02-09
+924,Fashion-0924,Fashion,85.99,42.45,2023-11-18
+925,Fashion-0925,Fashion,42.99,18.28,2024-08-28
+926,Fashion-0926,Fashion,193.99,73.25,2022-07-10
+927,Fashion-0927,Fashion,38.99,20.22,2024-06-16
+928,Fashion-0928,Fashion,45.99,22.79,2023-07-04
+929,Fashion-0929,Fashion,60.99,25.57,2024-05-15
+930,Fashion-0930,Fashion,17.99,9.52,2024-06-22
+931,Fashion-0931,Fashion,63.99,28.06,2024-03-15
+932,Fashion-0932,Fashion,135.99,52.76,2022-05-28
+933,Fashion-0933,Fashion,77.99,40.89,2022-08-09
+934,Fashion-0934,Fashion,107.99,43.61,2024-02-05
+935,Fashion-0935,Fashion,27.99,14.01,2022-06-30
+936,Fashion-0936,Fashion,47.99,26.07,2023-08-31
+937,Fashion-0937,Fashion,63.99,26.7,2024-05-07
+938,Fashion-0938,Fashion,28.99,14.85,2024-04-05
+939,Fashion-0939,Fashion,42.99,22.04,2024-06-11
+940,Fashion-0940,Fashion,30.99,12.79,2022-10-29
+941,Fashion-0941,Fashion,64.99,28.47,2024-09-05
+942,Fashion-0942,Fashion,39.99,20.34,2022-09-13
+943,Fashion-0943,Fashion,105.99,51.81,2022-08-11
+944,Fashion-0944,Fashion,30.99,11.94,2024-07-29
+945,Fashion-0945,Fashion,65.99,33.39,2024-05-02
+946,Fashion-0946,Fashion,46.99,21.97,2024-03-02
+947,Fashion-0947,Fashion,62.99,27.79,2022-10-09
+948,Fashion-0948,Fashion,23.99,13.1,2022-09-16
+949,Fashion-0949,Fashion,11.99,5.18,2023-01-07
+950,Fashion-0950,Fashion,32.99,14.92,2022-06-30
+951,Fashion-0951,Fashion,52.99,24.56,2023-08-15
+952,Fashion-0952,Fashion,36.99,16.03,2023-01-03
+953,Fashion-0953,Fashion,31.99,11.69,2024-01-04
+954,Fashion-0954,Fashion,61.99,34.17,2024-02-28
+955,Fashion-0955,Fashion,89.99,46.84,2023-09-25
+956,Fashion-0956,Fashion,61.99,27.47,2023-02-14
+957,Fashion-0957,Fashion,58.99,29.08,2023-06-23
+958,Fashion-0958,Fashion,40.99,19.13,2024-06-09
+959,Fashion-0959,Fashion,72.99,25.42,2024-03-01
+960,Fashion-0960,Fashion,95.99,46.05,2022-12-26
+961,Fashion-0961,Fashion,42.99,21.08,2023-05-20
+962,Fashion-0962,Fashion,28.99,17.31,2023-01-12
+963,Fashion-0963,Fashion,27.99,16.63,2023-03-01
+964,Fashion-0964,Fashion,32.99,14.2,2023-03-10
+965,Fashion-0965,Fashion,61.99,23.64,2023-09-12
+966,Fashion-0966,Fashion,148.99,61.65,2022-12-09
+967,Fashion-0967,Fashion,89.99,43.47,2023-10-10
+968,Fashion-0968,Fashion,74.99,40.91,2023-11-09
+969,Fashion-0969,Fashion,44.99,16.82,2023-06-23
+970,Fashion-0970,Fashion,222.99,111.62,2023-06-03
+971,Fashion-0971,Fashion,54.99,25.61,2023-01-02
+972,Fashion-0972,Fashion,78.99,35.75,2024-04-14
+973,Fashion-0973,Fashion,19.99,8.37,2022-12-06
+974,Fashion-0974,Fashion,29.99,13.77,2023-08-08
+975,Fashion-0975,Fashion,40.99,24.26,2024-07-04
+976,Fashion-0976,Fashion,22.99,12.75,2022-05-21
+977,Fashion-0977,Fashion,47.99,22.76,2024-08-29
+978,Fashion-0978,Fashion,54.99,23.27,2023-02-13
+979,Fashion-0979,Fashion,24.99,13.8,2022-07-07
+980,Fashion-0980,Fashion,60.99,32.9,2024-09-23
+981,Fashion-0981,Fashion,112.99,49.61,2023-07-25
+982,Fashion-0982,Fashion,26.99,11.69,2024-04-17
+983,Fashion-0983,Fashion,15.99,8.28,2023-08-14
+984,Fashion-0984,Fashion,49.99,30.16,2023-04-02
+985,Fashion-0985,Fashion,40.99,15.02,2024-01-07
+986,Fashion-0986,Fashion,11.99,6.3,2023-08-04
+987,Fashion-0987,Fashion,45.99,17.95,2023-06-19
+988,Fashion-0988,Fashion,107.99,49.29,2024-07-06
+989,Fashion-0989,Fashion,87.99,37.23,2024-07-05
+990,Fashion-0990,Fashion,25.99,11.47,2022-11-12
+991,Fashion-0991,Fashion,58.99,24.58,2023-10-29
+992,Fashion-0992,Fashion,49.99,22.57,2024-03-04
+993,Fashion-0993,Fashion,31.99,13.71,2022-12-16
+994,Fashion-0994,Fashion,89.99,43.98,2024-03-06
+995,Fashion-0995,Fashion,26.99,9.85,2023-12-01
+996,Fashion-0996,Fashion,85.99,40.71,2022-12-03
+997,Fashion-0997,Fashion,117.99,59.96,2023-12-04
+998,Fashion-0998,Fashion,28.99,12.55,2024-03-13
+999,Fashion-0999,Fashion,42.99,20.83,2022-12-28
+1000,Fashion-1000,Fashion,32.99,16.13,2023-10-09
+1001,Fashion-1001,Fashion,115.99,58.04,2023-04-25
+1002,Fashion-1002,Fashion,36.99,17.0,2022-10-03
+1003,Fashion-1003,Fashion,21.99,10.7,2024-06-06
+1004,Fashion-1004,Fashion,20.99,9.51,2023-04-21
+1005,Fashion-1005,Fashion,53.99,27.57,2022-07-01
+1006,Fashion-1006,Fashion,42.99,19.03,2023-10-16
+1007,Fashion-1007,Fashion,27.99,15.75,2022-10-15
+1008,Fashion-1008,Fashion,65.99,27.28,2024-09-10
+1009,Fashion-1009,Fashion,21.99,12.17,2024-08-05
+1010,Fashion-1010,Fashion,79.99,40.71,2022-11-01
+1011,Fashion-1011,Fashion,20.99,11.45,2024-09-27
+1012,Fashion-1012,Fashion,203.99,92.08,2023-02-08
+1013,Fashion-1013,Fashion,67.99,29.99,2024-09-20
+1014,Fashion-1014,Fashion,48.99,23.71,2022-11-29
+1015,Fashion-1015,Fashion,47.99,17.87,2024-01-22
+1016,Fashion-1016,Fashion,156.99,83.18,2024-01-03
+1017,Fashion-1017,Fashion,26.99,14.23,2022-10-29
+1018,Fashion-1018,Fashion,43.99,18.25,2024-04-01
+1019,Fashion-1019,Fashion,47.99,21.12,2023-03-02
+1020,Fashion-1020,Fashion,14.99,7.39,2022-06-23
+1021,Fashion-1021,Fashion,28.99,14.22,2024-07-25
+1022,Fashion-1022,Fashion,47.99,22.72,2024-04-07
+1023,Fashion-1023,Fashion,25.99,14.26,2023-03-02
+1024,Fashion-1024,Fashion,24.99,9.78,2024-09-13
+1025,Fashion-1025,Fashion,23.99,10.93,2023-01-22
+1026,Fashion-1026,Fashion,76.99,33.9,2024-02-15
+1027,Fashion-1027,Fashion,49.99,26.45,2024-05-20
+1028,Fashion-1028,Fashion,41.99,19.05,2024-05-26
+1029,Fashion-1029,Fashion,32.99,9.57,2023-02-03
+1030,Fashion-1030,Fashion,70.99,33.07,2022-09-10
+1031,Fashion-1031,Fashion,24.99,12.08,2024-06-16
+1032,Fashion-1032,Fashion,50.99,25.97,2024-04-09
+1033,Fashion-1033,Fashion,57.99,29.45,2023-09-03
+1034,Fashion-1034,Fashion,37.99,15.77,2022-09-21
+1035,Fashion-1035,Fashion,38.99,19.48,2023-12-06
+1036,Fashion-1036,Fashion,29.99,11.4,2023-02-14
+1037,Fashion-1037,Fashion,63.99,29.82,2023-08-26
+1038,Fashion-1038,Fashion,25.99,10.6,2024-03-22
+1039,Fashion-1039,Fashion,25.99,11.46,2022-09-03
+1040,Fashion-1040,Fashion,33.99,15.14,2024-07-08
+1041,Fashion-1041,Fashion,41.99,22.69,2024-05-26
+1042,Fashion-1042,Fashion,25.99,10.45,2024-01-05
+1043,Fashion-1043,Fashion,26.99,11.13,2024-08-25
+1044,Fashion-1044,Fashion,54.99,30.17,2023-04-23
+1045,Fashion-1045,Fashion,28.99,14.48,2022-06-23
+1046,Fashion-1046,Fashion,18.99,11.4,2022-11-27
+1047,Fashion-1047,Fashion,36.99,15.91,2023-08-30
+1048,Fashion-1048,Fashion,46.99,23.45,2024-09-29
+1049,Fashion-1049,Fashion,59.99,31.06,2024-05-11
+1050,Fashion-1050,Fashion,34.99,14.57,2023-11-10
+1051,Fashion-1051,Fashion,47.99,20.78,2022-07-22
+1052,Fashion-1052,Fashion,19.99,8.05,2023-06-15
+1053,Fashion-1053,Fashion,51.99,25.36,2024-05-19
+1054,Fashion-1054,Fashion,84.99,41.7,2024-07-07
+1055,Fashion-1055,Fashion,130.99,57.07,2023-12-05
+1056,Fashion-1056,Fashion,63.99,36.09,2024-10-01
+1057,Fashion-1057,Fashion,17.99,8.99,2022-10-03
+1058,Fashion-1058,Fashion,40.99,21.07,2023-04-14
+1059,Fashion-1059,Fashion,20.99,7.95,2023-08-14
+1060,Fashion-1060,Fashion,57.99,30.51,2024-01-04
+1061,Fashion-1061,Fashion,19.99,7.12,2024-01-06
+1062,Fashion-1062,Fashion,14.99,7.37,2023-02-12
+1063,Fashion-1063,Fashion,22.99,12.27,2022-05-18
+1064,Fashion-1064,Fashion,75.99,49.46,2022-09-03
+1065,Fashion-1065,Fashion,85.99,38.33,2023-09-22
+1066,Fashion-1066,Fashion,44.99,21.34,2023-07-16
+1067,Fashion-1067,Fashion,92.99,42.19,2024-01-13
+1068,Fashion-1068,Fashion,11.99,5.65,2022-12-10
+1069,Fashion-1069,Fashion,24.99,12.61,2022-08-01
+1070,Fashion-1070,Fashion,96.99,50.56,2022-06-20
+1071,Fashion-1071,Fashion,78.99,40.27,2024-04-21
+1072,Fashion-1072,Fashion,16.99,6.81,2023-01-03
+1073,Fashion-1073,Fashion,65.99,28.4,2023-06-03
+1074,Fashion-1074,Fashion,45.99,20.39,2024-06-12
+1075,Fashion-1075,Fashion,292.99,119.71,2024-06-20
+1076,Fashion-1076,Fashion,55.99,23.26,2022-09-08
+1077,Fashion-1077,Fashion,34.99,17.26,2023-12-08
+1078,Fashion-1078,Fashion,14.99,7.37,2024-04-27
+1079,Fashion-1079,Fashion,66.99,28.99,2022-10-11
+1080,Fashion-1080,Fashion,16.99,7.89,2022-08-08
+1081,Fashion-1081,Fashion,56.99,20.11,2023-07-26
+1082,Fashion-1082,Fashion,43.99,21.6,2022-07-28
+1083,Fashion-1083,Fashion,17.99,7.51,2024-07-05
+1084,Fashion-1084,Fashion,66.99,39.37,2023-02-03
+1085,Fashion-1085,Fashion,24.99,10.31,2024-01-14
+1086,Fashion-1086,Fashion,81.99,38.56,2022-12-11
+1087,Fashion-1087,Fashion,47.99,23.98,2023-09-29
+1088,Fashion-1088,Fashion,32.99,15.18,2023-02-22
+1089,Fashion-1089,Fashion,21.99,11.45,2024-03-01
+1090,Fashion-1090,Fashion,71.99,35.8,2022-08-29
+1091,Fashion-1091,Fashion,82.99,41.06,2022-11-23
+1092,Fashion-1092,Fashion,19.99,10.19,2023-09-08
+1093,Fashion-1093,Fashion,40.99,20.92,2022-08-24
+1094,Fashion-1094,Fashion,32.99,14.14,2024-02-01
+1095,Fashion-1095,Fashion,32.99,17.57,2023-01-29
+1096,Fashion-1096,Fashion,66.99,36.65,2023-07-31
+1097,Fashion-1097,Fashion,11.99,5.0,2023-08-07
+1098,Fashion-1098,Fashion,30.99,15.67,2023-03-03
+1099,Fashion-1099,Fashion,56.99,26.39,2023-11-11
+1100,Fashion-1100,Fashion,59.99,30.44,2023-12-10
+1101,Fashion-1101,Fashion,22.99,9.72,2022-05-21
+1102,Fashion-1102,Fashion,68.99,26.8,2022-06-11
+1103,Fashion-1103,Fashion,57.99,28.64,2023-04-29
+1104,Fashion-1104,Fashion,33.99,18.53,2024-08-13
+1105,Fashion-1105,Fashion,56.99,24.67,2023-01-24
+1106,Fashion-1106,Fashion,58.99,30.7,2022-06-18
+1107,Fashion-1107,Fashion,25.99,11.41,2023-05-28
+1108,Fashion-1108,Fashion,39.99,19.06,2024-08-12
+1109,Fashion-1109,Fashion,38.99,18.39,2023-10-13
+1110,Fashion-1110,Fashion,18.99,8.39,2024-06-24
+1111,Fashion-1111,Fashion,19.99,7.97,2022-08-23
+1112,Fashion-1112,Fashion,31.99,13.28,2022-09-28
+1113,Fashion-1113,Fashion,29.99,14.11,2023-03-24
+1114,Fashion-1114,Fashion,50.99,24.21,2022-05-20
+1115,Fashion-1115,Fashion,44.99,22.05,2023-02-04
+1116,Fashion-1116,Fashion,73.99,41.68,2022-06-07
+1117,Fashion-1117,Fashion,117.99,50.8,2023-03-26
+1118,Fashion-1118,Fashion,58.99,21.97,2023-05-16
+1119,Fashion-1119,Fashion,34.99,16.85,2023-11-05
+1120,Fashion-1120,Fashion,22.99,11.46,2024-04-04
+1121,Fashion-1121,Fashion,88.99,48.34,2024-01-16
+1122,Fashion-1122,Fashion,102.99,46.62,2023-12-07
+1123,Fashion-1123,Fashion,33.99,14.79,2022-05-27
+1124,Fashion-1124,Fashion,50.99,16.72,2023-02-25
+1125,Fashion-1125,Fashion,76.99,36.36,2023-04-12
+1126,Fashion-1126,Fashion,32.99,16.58,2023-11-06
+1127,Fashion-1127,Fashion,24.99,12.3,2023-06-14
+1128,Fashion-1128,Fashion,88.99,34.21,2024-08-06
+1129,Fashion-1129,Fashion,34.99,15.63,2022-10-09
+1130,Fashion-1130,Fashion,44.99,21.72,2022-08-28
+1131,Fashion-1131,Fashion,34.99,16.02,2024-02-08
+1132,Fashion-1132,Fashion,35.99,18.97,2022-06-22
+1133,Fashion-1133,Fashion,36.99,17.52,2023-08-26
+1134,Fashion-1134,Fashion,104.99,52.05,2024-02-03
+1135,Fashion-1135,Fashion,53.99,27.03,2023-12-28
+1136,Fashion-1136,Fashion,167.99,69.45,2022-07-22
+1137,Fashion-1137,Fashion,49.99,25.47,2023-01-31
+1138,Fashion-1138,Fashion,84.99,34.91,2023-08-22
+1139,Fashion-1139,Fashion,12.99,6.08,2022-10-17
+1140,Fashion-1140,Fashion,41.99,22.93,2023-06-10
+1141,Fashion-1141,Fashion,20.99,9.27,2023-10-17
+1142,Fashion-1142,Fashion,174.99,83.64,2022-05-31
+1143,Fashion-1143,Fashion,21.99,11.15,2024-04-18
+1144,Fashion-1144,Fashion,23.99,9.98,2022-09-06
+1145,Fashion-1145,Fashion,24.99,14.12,2022-09-07
+1146,Fashion-1146,Fashion,27.99,14.71,2023-11-04
+1147,Fashion-1147,Fashion,55.99,28.14,2022-11-22
+1148,Fashion-1148,Fashion,433.99,172.7,2022-09-12
+1149,Fashion-1149,Fashion,23.99,14.71,2024-04-06
+1150,Fashion-1150,Fashion,9.99,3.98,2022-07-28
+1151,Home-1151,Home & Garden,78.99,38.47,2023-10-26
+1152,Home-1152,Home & Garden,67.99,40.21,2024-02-02
+1153,Home-1153,Home & Garden,33.99,18.76,2022-09-23
+1154,Home-1154,Home & Garden,121.99,57.17,2024-03-23
+1155,Home-1155,Home & Garden,35.99,22.74,2022-10-19
+1156,Home-1156,Home & Garden,79.99,37.31,2024-09-22
+1157,Home-1157,Home & Garden,33.99,23.75,2023-03-19
+1158,Home-1158,Home & Garden,68.99,46.92,2023-10-19
+1159,Home-1159,Home & Garden,59.99,32.4,2024-02-22
+1160,Home-1160,Home & Garden,80.99,43.32,2024-06-05
+1161,Home-1161,Home & Garden,40.99,27.17,2022-06-12
+1162,Home-1162,Home & Garden,75.99,43.35,2022-07-01
+1163,Home-1163,Home & Garden,62.99,37.38,2023-12-07
+1164,Home-1164,Home & Garden,64.99,41.88,2024-03-15
+1165,Home-1165,Home & Garden,63.99,38.74,2023-05-26
+1166,Home-1166,Home & Garden,21.99,13.3,2022-06-12
+1167,Home-1167,Home & Garden,135.99,83.1,2022-06-25
+1168,Home-1168,Home & Garden,35.99,16.42,2023-07-31
+1169,Home-1169,Home & Garden,27.99,15.48,2022-09-19
+1170,Home-1170,Home & Garden,120.99,62.48,2023-11-18
+1171,Home-1171,Home & Garden,92.99,49.25,2024-05-13
+1172,Home-1172,Home & Garden,65.99,34.19,2022-06-14
+1173,Home-1173,Home & Garden,96.99,54.18,2022-07-25
+1174,Home-1174,Home & Garden,32.99,24.37,2022-09-27
+1175,Home-1175,Home & Garden,47.99,22.41,2023-05-22
+1176,Home-1176,Home & Garden,399.99,220.61,2023-02-05
+1177,Home-1177,Home & Garden,69.99,44.78,2024-03-04
+1178,Home-1178,Home & Garden,26.99,16.79,2022-12-30
+1179,Home-1179,Home & Garden,56.99,33.64,2023-09-19
+1180,Home-1180,Home & Garden,56.99,31.83,2022-11-01
+1181,Home-1181,Home & Garden,88.99,52.21,2022-09-02
+1182,Home-1182,Home & Garden,157.99,99.37,2023-11-03
+1183,Home-1183,Home & Garden,76.99,44.1,2023-02-11
+1184,Home-1184,Home & Garden,52.99,28.67,2024-09-21
+1185,Home-1185,Home & Garden,130.99,76.55,2022-12-07
+1186,Home-1186,Home & Garden,27.99,15.58,2023-11-14
+1187,Home-1187,Home & Garden,130.99,78.32,2023-01-02
+1188,Home-1188,Home & Garden,40.99,25.91,2022-10-25
+1189,Home-1189,Home & Garden,38.99,20.57,2022-05-21
+1190,Home-1190,Home & Garden,317.99,179.07,2022-07-27
+1191,Home-1191,Home & Garden,86.99,49.43,2024-01-06
+1192,Home-1192,Home & Garden,44.99,23.13,2022-09-30
+1193,Home-1193,Home & Garden,81.99,45.49,2024-01-02
+1194,Home-1194,Home & Garden,40.99,24.08,2023-05-01
+1195,Home-1195,Home & Garden,147.99,77.96,2022-10-25
+1196,Home-1196,Home & Garden,154.99,96.27,2024-03-14
+1197,Home-1197,Home & Garden,100.99,68.47,2023-06-29
+1198,Home-1198,Home & Garden,207.99,124.13,2024-07-09
+1199,Home-1199,Home & Garden,28.99,18.0,2023-05-04
+1200,Home-1200,Home & Garden,71.99,47.21,2023-10-11
+1201,Home-1201,Home & Garden,47.99,31.38,2024-07-10
+1202,Home-1202,Home & Garden,126.99,78.83,2023-03-30
+1203,Home-1203,Home & Garden,116.99,60.04,2023-01-27
+1204,Home-1204,Home & Garden,29.99,17.23,2023-08-24
+1205,Home-1205,Home & Garden,28.99,15.24,2024-05-03
+1206,Home-1206,Home & Garden,35.99,22.71,2023-12-19
+1207,Home-1207,Home & Garden,42.99,25.94,2024-06-28
+1208,Home-1208,Home & Garden,87.99,43.67,2022-08-19
+1209,Home-1209,Home & Garden,90.99,59.43,2022-11-11
+1210,Home-1210,Home & Garden,207.99,115.91,2023-09-08
+1211,Home-1211,Home & Garden,90.99,45.13,2022-06-02
+1212,Home-1212,Home & Garden,108.99,66.87,2023-09-10
+1213,Home-1213,Home & Garden,31.99,19.34,2023-12-20
+1214,Home-1214,Home & Garden,22.99,13.23,2024-03-22
+1215,Home-1215,Home & Garden,38.99,17.86,2022-08-21
+1216,Home-1216,Home & Garden,35.99,21.7,2024-05-12
+1217,Home-1217,Home & Garden,60.99,38.01,2023-07-10
+1218,Home-1218,Home & Garden,64.99,46.28,2022-05-28
+1219,Home-1219,Home & Garden,40.99,19.63,2023-01-28
+1220,Home-1220,Home & Garden,38.99,20.25,2024-05-01
+1221,Home-1221,Home & Garden,29.99,20.52,2022-06-14
+1222,Home-1222,Home & Garden,15.99,10.02,2022-09-11
+1223,Home-1223,Home & Garden,40.99,25.31,2024-07-29
+1224,Home-1224,Home & Garden,108.99,52.17,2024-01-12
+1225,Home-1225,Home & Garden,34.99,15.17,2023-01-20
+1226,Home-1226,Home & Garden,24.99,12.33,2023-01-19
+1227,Home-1227,Home & Garden,56.99,29.75,2023-11-30
+1228,Home-1228,Home & Garden,71.99,41.54,2022-08-27
+1229,Home-1229,Home & Garden,21.99,14.95,2022-08-26
+1230,Home-1230,Home & Garden,108.99,57.98,2022-05-31
+1231,Home-1231,Home & Garden,40.99,21.78,2023-11-17
+1232,Home-1232,Home & Garden,43.99,21.88,2024-08-09
+1233,Home-1233,Home & Garden,52.99,30.96,2023-05-13
+1234,Home-1234,Home & Garden,89.99,50.11,2023-11-08
+1235,Home-1235,Home & Garden,98.99,63.37,2023-10-04
+1236,Home-1236,Home & Garden,106.99,61.95,2024-07-13
+1237,Home-1237,Home & Garden,98.99,57.57,2023-08-31
+1238,Home-1238,Home & Garden,152.99,100.06,2022-08-30
+1239,Home-1239,Home & Garden,56.99,32.6,2023-04-22
+1240,Home-1240,Home & Garden,104.99,67.28,2023-09-18
+1241,Home-1241,Home & Garden,55.99,29.29,2023-06-08
+1242,Home-1242,Home & Garden,41.99,26.57,2022-11-18
+1243,Home-1243,Home & Garden,35.99,20.31,2022-12-06
+1244,Home-1244,Home & Garden,17.99,12.12,2024-08-31
+1245,Home-1245,Home & Garden,50.99,31.05,2022-09-12
+1246,Home-1246,Home & Garden,40.99,24.17,2024-05-03
+1247,Home-1247,Home & Garden,59.99,34.73,2024-04-14
+1248,Home-1248,Home & Garden,67.99,42.58,2023-12-21
+1249,Home-1249,Home & Garden,238.99,111.55,2022-12-08
+1250,Home-1250,Home & Garden,15.99,9.9,2023-06-22
+1251,Home-1251,Home & Garden,59.99,38.27,2023-10-03
+1252,Home-1252,Home & Garden,90.99,51.31,2022-10-17
+1253,Home-1253,Home & Garden,197.99,114.36,2024-01-05
+1254,Home-1254,Home & Garden,23.99,14.35,2023-04-23
+1255,Home-1255,Home & Garden,77.99,52.48,2022-11-27
+1256,Home-1256,Home & Garden,300.99,167.67,2024-01-01
+1257,Home-1257,Home & Garden,125.99,61.09,2022-07-24
+1258,Home-1258,Home & Garden,73.99,46.24,2023-05-25
+1259,Home-1259,Home & Garden,72.99,43.58,2024-07-04
+1260,Home-1260,Home & Garden,364.99,210.83,2023-11-14
+1261,Home-1261,Home & Garden,26.99,12.51,2022-07-03
+1262,Home-1262,Home & Garden,66.99,41.85,2022-08-27
+1263,Home-1263,Home & Garden,126.99,66.93,2023-04-18
+1264,Home-1264,Home & Garden,48.99,28.64,2022-11-17
+1265,Home-1265,Home & Garden,49.99,26.95,2022-10-27
+1266,Home-1266,Home & Garden,115.99,66.62,2022-06-15
+1267,Home-1267,Home & Garden,157.99,100.64,2023-10-12
+1268,Home-1268,Home & Garden,89.99,43.42,2022-07-27
+1269,Home-1269,Home & Garden,64.99,46.91,2023-12-18
+1270,Home-1270,Home & Garden,86.99,42.6,2024-02-14
+1271,Home-1271,Home & Garden,57.99,30.66,2023-05-11
+1272,Home-1272,Home & Garden,103.99,60.34,2022-08-29
+1273,Home-1273,Home & Garden,367.99,221.17,2024-05-02
+1274,Home-1274,Home & Garden,51.99,31.41,2022-05-20
+1275,Home-1275,Home & Garden,70.99,38.97,2023-09-21
+1276,Home-1276,Home & Garden,45.99,30.75,2022-07-15
+1277,Home-1277,Home & Garden,44.99,27.16,2022-12-19
+1278,Home-1278,Home & Garden,67.99,36.03,2022-08-29
+1279,Home-1279,Home & Garden,117.99,68.59,2022-06-04
+1280,Home-1280,Home & Garden,84.99,39.1,2024-08-11
+1281,Home-1281,Home & Garden,60.99,34.97,2022-10-17
+1282,Home-1282,Home & Garden,29.99,17.29,2022-11-21
+1283,Home-1283,Home & Garden,23.99,13.92,2023-04-23
+1284,Home-1284,Home & Garden,55.99,35.84,2024-06-05
+1285,Home-1285,Home & Garden,31.99,20.28,2023-11-22
+1286,Home-1286,Home & Garden,74.99,39.84,2023-11-24
+1287,Home-1287,Home & Garden,17.99,11.07,2024-06-20
+1288,Home-1288,Home & Garden,37.99,21.28,2023-07-21
+1289,Home-1289,Home & Garden,43.99,30.11,2023-04-07
+1290,Home-1290,Home & Garden,365.99,190.88,2023-05-28
+1291,Home-1291,Home & Garden,45.99,22.49,2024-03-24
+1292,Home-1292,Home & Garden,55.99,29.79,2024-03-11
+1293,Home-1293,Home & Garden,93.99,62.38,2023-11-02
+1294,Home-1294,Home & Garden,207.99,125.52,2023-08-26
+1295,Home-1295,Home & Garden,12.99,7.39,2023-11-23
+1296,Home-1296,Home & Garden,36.99,23.11,2022-05-21
+1297,Home-1297,Home & Garden,108.99,55.81,2022-10-03
+1298,Home-1298,Home & Garden,51.99,27.18,2023-09-26
+1299,Home-1299,Home & Garden,71.99,44.12,2022-12-23
+1300,Home-1300,Home & Garden,13.99,8.41,2022-08-04
+1301,Home-1301,Home & Garden,183.99,104.42,2024-06-28
+1302,Home-1302,Home & Garden,28.99,16.55,2022-11-29
+1303,Home-1303,Home & Garden,40.99,21.91,2023-06-26
+1304,Home-1304,Home & Garden,56.99,30.83,2024-06-10
+1305,Home-1305,Home & Garden,70.99,41.6,2023-01-30
+1306,Home-1306,Home & Garden,125.99,71.11,2022-10-10
+1307,Home-1307,Home & Garden,63.99,30.73,2023-10-30
+1308,Home-1308,Home & Garden,199.99,111.73,2022-12-24
+1309,Home-1309,Home & Garden,44.99,24.63,2023-09-11
+1310,Home-1310,Home & Garden,84.99,46.17,2022-12-21
+1311,Home-1311,Home & Garden,50.99,25.78,2024-01-10
+1312,Home-1312,Home & Garden,41.99,21.67,2024-09-30
+1313,Home-1313,Home & Garden,51.99,29.96,2023-05-19
+1314,Home-1314,Home & Garden,103.99,70.31,2022-10-19
+1315,Home-1315,Home & Garden,102.99,65.2,2024-02-13
+1316,Home-1316,Home & Garden,36.99,21.98,2024-07-27
+1317,Home-1317,Home & Garden,40.99,28.46,2023-10-24
+1318,Home-1318,Home & Garden,36.99,20.16,2023-12-13
+1319,Home-1319,Home & Garden,85.99,48.43,2023-04-09
+1320,Home-1320,Home & Garden,49.99,26.27,2023-07-10
+1321,Home-1321,Home & Garden,100.99,61.25,2023-08-25
+1322,Home-1322,Home & Garden,80.99,44.14,2024-04-03
+1323,Home-1323,Home & Garden,31.99,17.22,2023-05-11
+1324,Home-1324,Home & Garden,31.99,19.14,2022-09-21
+1325,Home-1325,Home & Garden,48.99,27.17,2024-01-31
+1326,Home-1326,Home & Garden,148.99,86.22,2022-12-19
+1327,Home-1327,Home & Garden,29.99,19.88,2024-01-07
+1328,Home-1328,Home & Garden,40.99,22.04,2024-02-24
+1329,Home-1329,Home & Garden,57.99,27.44,2024-08-15
+1330,Home-1330,Home & Garden,41.99,25.99,2022-06-24
+1331,Home-1331,Home & Garden,86.99,48.76,2022-05-23
+1332,Home-1332,Home & Garden,54.99,29.58,2024-07-22
+1333,Home-1333,Home & Garden,32.99,20.98,2022-08-26
+1334,Home-1334,Home & Garden,40.99,22.58,2024-03-26
+1335,Home-1335,Home & Garden,16.99,9.06,2022-11-01
+1336,Home-1336,Home & Garden,12.99,9.22,2024-08-07
+1337,Home-1337,Home & Garden,26.99,15.49,2024-06-21
+1338,Home-1338,Home & Garden,50.99,30.55,2024-07-16
+1339,Home-1339,Home & Garden,41.99,24.85,2024-06-18
+1340,Home-1340,Home & Garden,29.99,19.84,2023-06-03
+1341,Home-1341,Home & Garden,89.99,52.0,2023-07-20
+1342,Home-1342,Home & Garden,22.99,12.35,2023-01-12
+1343,Home-1343,Home & Garden,11.99,7.16,2023-06-18
+1344,Home-1344,Home & Garden,55.99,37.91,2022-07-26
+1345,Home-1345,Home & Garden,16.99,10.5,2024-02-04
+1346,Home-1346,Home & Garden,22.99,13.35,2024-01-24
+1347,Home-1347,Home & Garden,101.99,62.11,2024-06-30
+1348,Home-1348,Home & Garden,39.99,20.52,2024-08-27
+1349,Home-1349,Home & Garden,37.99,23.94,2022-07-14
+1350,Home-1350,Home & Garden,123.99,75.17,2024-09-30
+1351,Home-1351,Home & Garden,346.99,217.48,2024-05-11
+1352,Home-1352,Home & Garden,33.99,21.78,2022-12-14
+1353,Home-1353,Home & Garden,65.99,41.17,2024-01-20
+1354,Home-1354,Home & Garden,38.99,23.57,2023-03-21
+1355,Home-1355,Home & Garden,65.99,34.74,2022-08-28
+1356,Home-1356,Home & Garden,29.99,17.18,2022-10-05
+1357,Home-1357,Home & Garden,209.99,122.23,2023-05-21
+1358,Home-1358,Home & Garden,54.99,31.18,2022-07-06
+1359,Home-1359,Home & Garden,158.99,98.38,2023-04-22
+1360,Home-1360,Home & Garden,44.99,26.56,2024-05-29
+1361,Home-1361,Home & Garden,163.99,95.99,2024-04-11
+1362,Home-1362,Home & Garden,67.99,35.18,2024-03-22
+1363,Home-1363,Home & Garden,84.99,43.92,2022-12-26
+1364,Home-1364,Home & Garden,142.99,93.73,2023-05-30
+1365,Home-1365,Home & Garden,27.99,12.34,2023-01-04
+1366,Home-1366,Home & Garden,16.99,9.69,2022-06-07
+1367,Home-1367,Home & Garden,42.99,27.42,2023-09-07
+1368,Home-1368,Home & Garden,87.99,46.45,2023-09-26
+1369,Home-1369,Home & Garden,124.99,73.45,2024-01-05
+1370,Home-1370,Home & Garden,102.99,55.5,2023-08-16
+1371,Home-1371,Home & Garden,44.99,27.91,2024-03-20
+1372,Home-1372,Home & Garden,58.99,30.46,2024-07-16
+1373,Home-1373,Home & Garden,79.99,42.99,2022-06-25
+1374,Home-1374,Home & Garden,60.99,33.33,2023-01-11
+1375,Home-1375,Home & Garden,28.99,15.74,2022-09-20
+1376,Home-1376,Home & Garden,46.99,29.94,2024-04-12
+1377,Home-1377,Home & Garden,28.99,16.51,2023-03-03
+1378,Home-1378,Home & Garden,126.99,88.66,2022-10-10
+1379,Home-1379,Home & Garden,59.99,38.37,2022-06-18
+1380,Home-1380,Home & Garden,16.99,8.74,2023-07-05
+1381,Home-1381,Home & Garden,68.99,37.57,2024-08-16
+1382,Home-1382,Home & Garden,179.99,103.64,2023-04-11
+1383,Home-1383,Home & Garden,76.99,36.13,2023-02-02
+1384,Home-1384,Home & Garden,137.99,64.54,2022-06-24
+1385,Home-1385,Home & Garden,31.99,17.33,2024-08-02
+1386,Home-1386,Home & Garden,93.99,53.22,2022-12-23
+1387,Home-1387,Home & Garden,21.99,12.71,2023-10-19
+1388,Home-1388,Home & Garden,23.99,13.41,2022-11-24
+1389,Home-1389,Home & Garden,28.99,13.85,2022-09-12
+1390,Home-1390,Home & Garden,36.99,18.47,2024-09-10
+1391,Home-1391,Home & Garden,35.99,21.26,2024-08-01
+1392,Home-1392,Home & Garden,105.99,64.32,2023-09-20
+1393,Home-1393,Home & Garden,91.99,52.1,2022-08-08
+1394,Home-1394,Home & Garden,40.99,21.5,2022-09-14
+1395,Home-1395,Home & Garden,45.99,29.93,2024-02-26
+1396,Home-1396,Home & Garden,124.99,69.93,2022-10-07
+1397,Home-1397,Home & Garden,129.99,76.03,2022-10-01
+1398,Home-1398,Home & Garden,47.99,26.96,2023-01-29
+1399,Home-1399,Home & Garden,152.99,71.08,2023-05-02
+1400,Home-1400,Home & Garden,19.99,12.21,2024-08-18
+1401,Home-1401,Home & Garden,53.99,36.02,2024-05-29
+1402,Home-1402,Home & Garden,34.99,22.2,2022-09-17
+1403,Home-1403,Home & Garden,49.99,28.3,2023-04-23
+1404,Home-1404,Home & Garden,56.99,30.87,2022-12-18
+1405,Home-1405,Home & Garden,127.99,70.92,2024-01-30
+1406,Home-1406,Home & Garden,41.99,25.86,2024-08-01
+1407,Home-1407,Home & Garden,50.99,30.02,2024-02-06
+1408,Home-1408,Home & Garden,68.99,34.66,2023-11-24
+1409,Home-1409,Home & Garden,95.99,56.75,2022-07-08
+1410,Home-1410,Home & Garden,31.99,21.93,2022-11-01
+1411,Home-1411,Home & Garden,36.99,19.89,2024-01-08
+1412,Home-1412,Home & Garden,20.99,12.12,2024-02-25
+1413,Home-1413,Home & Garden,76.99,45.55,2024-05-15
+1414,Home-1414,Home & Garden,53.99,30.11,2023-04-22
+1415,Home-1415,Home & Garden,35.99,22.14,2023-07-19
+1416,Home-1416,Home & Garden,28.99,17.61,2024-07-08
+1417,Home-1417,Home & Garden,98.99,56.16,2024-05-17
+1418,Home-1418,Home & Garden,36.99,23.55,2024-05-17
+1419,Home-1419,Home & Garden,41.99,19.08,2022-11-04
+1420,Home-1420,Home & Garden,39.99,21.25,2024-09-05
+1421,Home-1421,Home & Garden,83.99,47.35,2024-08-28
+1422,Home-1422,Home & Garden,113.99,77.58,2023-09-23
+1423,Home-1423,Home & Garden,85.99,52.92,2024-09-09
+1424,Home-1424,Home & Garden,102.99,62.45,2022-11-28
+1425,Home-1425,Home & Garden,174.99,98.21,2023-01-22
+1426,Home-1426,Home & Garden,171.99,99.31,2023-01-13
+1427,Home-1427,Home & Garden,87.99,46.47,2023-06-23
+1428,Home-1428,Home & Garden,29.99,16.46,2023-02-01
+1429,Home-1429,Home & Garden,27.99,14.93,2023-01-06
+1430,Home-1430,Home & Garden,91.99,45.69,2024-03-14
+1431,Home-1431,Home & Garden,27.99,14.2,2024-07-13
+1432,Home-1432,Home & Garden,24.99,13.26,2022-11-23
+1433,Home-1433,Home & Garden,50.99,25.17,2022-08-02
+1434,Home-1434,Home & Garden,129.99,70.54,2023-07-03
+1435,Home-1435,Home & Garden,74.99,44.88,2023-10-23
+1436,Home-1436,Home & Garden,50.99,26.21,2023-09-14
+1437,Home-1437,Home & Garden,44.99,27.28,2024-03-25
+1438,Home-1438,Home & Garden,33.99,20.26,2022-10-26
+1439,Home-1439,Home & Garden,48.99,23.58,2022-07-17
+1440,Home-1440,Home & Garden,49.99,30.65,2024-01-10
+1441,Home-1441,Home & Garden,53.99,31.33,2022-08-04
+1442,Home-1442,Home & Garden,164.99,108.7,2023-11-25
+1443,Home-1443,Home & Garden,93.99,46.05,2023-11-15
+1444,Home-1444,Home & Garden,42.99,24.09,2024-05-30
+1445,Home-1445,Home & Garden,53.99,26.0,2022-06-04
+1446,Home-1446,Home & Garden,56.99,27.62,2024-07-16
+1447,Home-1447,Home & Garden,61.99,32.2,2023-05-22
+1448,Home-1448,Home & Garden,78.99,45.16,2024-03-05
+1449,Home-1449,Home & Garden,27.99,14.7,2023-01-31
+1450,Home-1450,Home & Garden,30.99,19.44,2024-01-08
+1451,Home-1451,Home & Garden,45.99,27.24,2023-07-05
+1452,Home-1452,Home & Garden,32.99,19.25,2024-03-07
+1453,Home-1453,Home & Garden,52.99,34.11,2023-12-22
+1454,Home-1454,Home & Garden,45.99,27.77,2024-01-05
+1455,Home-1455,Home & Garden,32.99,16.12,2024-01-08
+1456,Home-1456,Home & Garden,92.99,49.5,2024-05-04
+1457,Home-1457,Home & Garden,63.99,34.06,2023-12-23
+1458,Home-1458,Home & Garden,102.99,60.31,2023-10-24
+1459,Home-1459,Home & Garden,162.99,106.69,2023-06-21
+1460,Home-1460,Home & Garden,58.99,34.35,2022-11-18
+1461,Home-1461,Home & Garden,50.99,31.67,2022-07-01
+1462,Home-1462,Home & Garden,130.99,84.05,2023-04-03
+1463,Home-1463,Home & Garden,55.99,32.83,2023-03-15
+1464,Home-1464,Home & Garden,157.99,88.41,2024-05-10
+1465,Home-1465,Home & Garden,161.99,101.56,2023-05-27
+1466,Home-1466,Home & Garden,100.99,64.8,2022-11-11
+1467,Home-1467,Home & Garden,42.99,20.98,2023-02-01
+1468,Home-1468,Home & Garden,15.99,8.96,2023-05-17
+1469,Home-1469,Home & Garden,16.99,9.9,2023-01-05
+1470,Home-1470,Home & Garden,138.99,81.11,2023-12-12
+1471,Home-1471,Home & Garden,105.99,62.18,2023-02-18
+1472,Home-1472,Home & Garden,22.99,13.71,2024-08-21
+1473,Home-1473,Home & Garden,120.99,59.35,2023-03-29
+1474,Home-1474,Home & Garden,67.99,36.19,2024-05-22
+1475,Home-1475,Home & Garden,16.99,10.4,2024-07-19
+1476,Home-1476,Home & Garden,79.99,43.22,2024-09-06
+1477,Home-1477,Home & Garden,21.99,16.4,2022-07-14
+1478,Home-1478,Home & Garden,100.99,65.17,2023-10-23
+1479,Home-1479,Home & Garden,34.99,19.67,2024-01-17
+1480,Home-1480,Home & Garden,44.99,24.69,2023-01-06
+1481,Home-1481,Home & Garden,40.99,22.0,2023-12-11
+1482,Home-1482,Home & Garden,173.99,100.9,2023-04-02
+1483,Home-1483,Home & Garden,86.99,53.4,2022-08-04
+1484,Home-1484,Home & Garden,42.99,26.14,2023-02-05
+1485,Home-1485,Home & Garden,182.99,84.14,2023-08-11
+1486,Home-1486,Home & Garden,33.99,22.12,2024-08-25
+1487,Home-1487,Home & Garden,160.99,95.11,2023-09-26
+1488,Home-1488,Home & Garden,75.99,46.89,2023-04-27
+1489,Home-1489,Home & Garden,149.99,103.66,2024-06-25
+1490,Home-1490,Home & Garden,41.99,26.34,2023-08-11
+1491,Home-1491,Home & Garden,73.99,45.77,2023-05-30
+1492,Home-1492,Home & Garden,59.99,31.19,2022-10-28
+1493,Home-1493,Home & Garden,206.99,114.35,2023-12-22
+1494,Home-1494,Home & Garden,46.99,26.89,2024-08-07
+1495,Home-1495,Home & Garden,57.99,28.25,2023-10-15
+1496,Home-1496,Home & Garden,88.99,43.03,2022-10-31
+1497,Home-1497,Home & Garden,152.99,88.54,2023-03-03
+1498,Home-1498,Home & Garden,74.99,47.46,2024-02-15
+1499,Home-1499,Home & Garden,97.99,55.21,2024-08-18
+1500,Home-1500,Home & Garden,132.99,84.0,2022-12-21
+1501,Home-1501,Home & Garden,36.99,20.92,2023-04-07
+1502,Home-1502,Home & Garden,107.99,60.42,2024-09-15
+1503,Home-1503,Home & Garden,24.99,15.26,2023-10-28
+1504,Home-1504,Home & Garden,47.99,22.7,2023-06-23
+1505,Home-1505,Home & Garden,53.99,36.72,2023-09-11
+1506,Home-1506,Home & Garden,75.99,48.12,2023-02-22
+1507,Home-1507,Home & Garden,95.99,52.44,2024-01-07
+1508,Home-1508,Home & Garden,101.99,58.29,2023-09-09
+1509,Home-1509,Home & Garden,69.99,37.55,2023-03-22
+1510,Home-1510,Home & Garden,45.99,19.67,2023-05-14
+1511,Home-1511,Home & Garden,123.99,73.51,2024-01-12
+1512,Home-1512,Home & Garden,22.99,12.73,2024-03-13
+1513,Home-1513,Home & Garden,76.99,47.74,2022-11-04
+1514,Home-1514,Home & Garden,35.99,21.11,2022-11-23
+1515,Home-1515,Home & Garden,23.99,14.89,2023-11-04
+1516,Home-1516,Home & Garden,72.99,37.46,2023-03-29
+1517,Home-1517,Home & Garden,41.99,19.93,2024-05-15
+1518,Home-1518,Home & Garden,47.99,26.58,2022-12-02
+1519,Home-1519,Home & Garden,63.99,40.23,2023-11-17
+1520,Home-1520,Home & Garden,102.99,59.82,2024-09-12
+1521,Home-1521,Home & Garden,19.99,12.39,2024-07-21
+1522,Home-1522,Home & Garden,80.99,40.39,2023-10-16
+1523,Home-1523,Home & Garden,77.99,41.0,2023-07-08
+1524,Home-1524,Home & Garden,98.99,57.97,2022-06-10
+1525,Home-1525,Home & Garden,76.99,46.3,2023-12-04
+1526,Home-1526,Home & Garden,61.99,41.84,2023-04-19
+1527,Home-1527,Home & Garden,49.99,22.45,2024-06-04
+1528,Home-1528,Home & Garden,42.99,28.57,2023-06-01
+1529,Home-1529,Home & Garden,106.99,62.61,2022-12-11
+1530,Home-1530,Home & Garden,105.99,56.92,2024-06-03
+1531,Home-1531,Home & Garden,36.99,23.56,2024-08-08
+1532,Home-1532,Home & Garden,215.99,130.89,2023-10-18
+1533,Home-1533,Home & Garden,55.99,30.96,2023-02-01
+1534,Home-1534,Home & Garden,50.99,27.42,2022-06-21
+1535,Home-1535,Home & Garden,56.99,30.19,2023-05-17
+1536,Home-1536,Home & Garden,45.99,24.71,2023-08-02
+1537,Home-1537,Home & Garden,69.99,40.31,2023-03-07
+1538,Home-1538,Home & Garden,23.99,14.59,2024-03-21
+1539,Home-1539,Home & Garden,69.99,46.86,2023-01-11
+1540,Home-1540,Home & Garden,27.99,15.18,2024-08-05
+1541,Home-1541,Home & Garden,117.99,76.23,2024-04-01
+1542,Home-1542,Home & Garden,26.99,16.02,2022-06-25
+1543,Home-1543,Home & Garden,42.99,25.14,2022-11-22
+1544,Home-1544,Home & Garden,52.99,33.27,2023-07-31
+1545,Home-1545,Home & Garden,43.99,27.79,2024-01-17
+1546,Home-1546,Home & Garden,74.99,36.98,2022-07-02
+1547,Home-1547,Home & Garden,124.99,66.3,2023-04-02
+1548,Home-1548,Home & Garden,17.99,10.78,2022-07-29
+1549,Home-1549,Home & Garden,66.99,41.17,2023-07-30
+1550,Home-1550,Home & Garden,88.99,45.17,2022-07-12
+1551,Home-1551,Home & Garden,105.99,58.21,2024-05-08
+1552,Home-1552,Home & Garden,77.99,47.46,2023-08-20
+1553,Home-1553,Home & Garden,11.99,6.4,2023-09-28
+1554,Home-1554,Home & Garden,19.99,15.45,2023-05-22
+1555,Home-1555,Home & Garden,92.99,65.04,2024-07-21
+1556,Home-1556,Home & Garden,65.99,32.47,2023-01-15
+1557,Home-1557,Home & Garden,49.99,30.28,2023-04-25
+1558,Home-1558,Home & Garden,41.99,26.57,2024-02-28
+1559,Home-1559,Home & Garden,81.99,36.51,2022-05-27
+1560,Home-1560,Home & Garden,39.99,19.37,2024-02-13
+1561,Home-1561,Home & Garden,114.99,63.54,2024-09-16
+1562,Home-1562,Home & Garden,46.99,32.2,2023-12-06
+1563,Home-1563,Home & Garden,30.99,16.01,2024-04-27
+1564,Home-1564,Home & Garden,21.99,12.4,2023-04-28
+1565,Home-1565,Home & Garden,178.99,115.71,2023-02-17
+1566,Home-1566,Home & Garden,12.99,7.71,2024-03-30
+1567,Home-1567,Home & Garden,127.99,93.84,2024-05-03
+1568,Home-1568,Home & Garden,68.99,40.82,2023-08-15
+1569,Home-1569,Home & Garden,48.99,31.57,2022-09-29
+1570,Home-1570,Home & Garden,122.99,78.58,2023-04-23
+1571,Home-1571,Home & Garden,58.99,36.98,2023-03-18
+1572,Home-1572,Home & Garden,47.99,29.0,2022-09-01
+1573,Home-1573,Home & Garden,83.99,51.57,2023-05-07
+1574,Home-1574,Home & Garden,163.99,102.22,2023-08-01
+1575,Home-1575,Home & Garden,51.99,32.56,2022-08-05
+1576,Home-1576,Home & Garden,91.99,56.18,2023-10-01
+1577,Home-1577,Home & Garden,15.99,9.11,2024-05-26
+1578,Home-1578,Home & Garden,46.99,23.07,2023-12-05
+1579,Home-1579,Home & Garden,148.99,89.31,2022-12-07
+1580,Home-1580,Home & Garden,53.99,23.98,2024-04-12
+1581,Home-1581,Home & Garden,153.99,77.46,2022-11-27
+1582,Home-1582,Home & Garden,64.99,34.71,2023-12-27
+1583,Home-1583,Home & Garden,60.99,37.89,2024-06-12
+1584,Home-1584,Home & Garden,61.99,32.82,2024-04-04
+1585,Home-1585,Home & Garden,90.99,62.44,2024-05-01
+1586,Home-1586,Home & Garden,35.99,22.62,2024-09-30
+1587,Home-1587,Home & Garden,83.99,38.21,2024-05-03
+1588,Home-1588,Home & Garden,37.99,21.95,2024-07-12
+1589,Home-1589,Home & Garden,144.99,77.4,2022-09-20
+1590,Home-1590,Home & Garden,166.99,91.46,2024-01-14
+1591,Home-1591,Home & Garden,31.99,17.69,2024-09-27
+1592,Home-1592,Home & Garden,119.99,64.16,2022-06-26
+1593,Home-1593,Home & Garden,63.99,40.74,2024-04-03
+1594,Home-1594,Home & Garden,43.99,23.62,2023-08-01
+1595,Home-1595,Home & Garden,216.99,131.18,2024-01-07
+1596,Home-1596,Home & Garden,104.99,66.11,2024-02-15
+1597,Home-1597,Home & Garden,48.99,31.27,2024-07-01
+1598,Home-1598,Home & Garden,37.99,22.81,2024-09-14
+1599,Home-1599,Home & Garden,163.99,96.41,2023-04-17
+1600,Home-1600,Home & Garden,35.99,19.43,2023-07-15
+1601,Home-1601,Home & Garden,41.99,25.59,2024-09-05
+1602,Home-1602,Home & Garden,66.99,37.86,2023-08-11
+1603,Home-1603,Home & Garden,69.99,52.33,2024-08-18
+1604,Home-1604,Home & Garden,76.99,38.92,2023-10-19
+1605,Home-1605,Home & Garden,19.99,12.06,2022-12-03
+1606,Home-1606,Home & Garden,15.99,7.9,2024-06-12
+1607,Home-1607,Home & Garden,62.99,33.86,2023-02-05
+1608,Home-1608,Home & Garden,49.99,25.55,2023-05-23
+1609,Home-1609,Home & Garden,50.99,27.29,2023-05-21
+1610,Home-1610,Home & Garden,233.99,131.72,2022-08-12
+1611,Home-1611,Home & Garden,72.99,41.38,2023-03-16
+1612,Home-1612,Home & Garden,58.99,39.52,2023-05-17
+1613,Home-1613,Home & Garden,127.99,78.92,2023-09-01
+1614,Home-1614,Home & Garden,40.99,18.96,2024-09-25
+1615,Home-1615,Home & Garden,45.99,22.68,2022-10-12
+1616,Home-1616,Home & Garden,89.99,56.35,2023-01-01
+1617,Home-1617,Home & Garden,67.99,42.4,2023-03-11
+1618,Home-1618,Home & Garden,108.99,49.26,2022-09-28
+1619,Home-1619,Home & Garden,34.99,20.8,2023-09-26
+1620,Home-1620,Home & Garden,72.99,43.09,2024-09-26
+1621,Home-1621,Home & Garden,19.99,11.39,2022-10-18
+1622,Home-1622,Home & Garden,114.99,61.24,2022-11-15
+1623,Home-1623,Home & Garden,16.99,10.71,2022-07-23
+1624,Home-1624,Home & Garden,31.99,19.52,2022-09-28
+1625,Home-1625,Home & Garden,77.99,43.43,2022-10-27
+1626,Home-1626,Home & Garden,64.99,31.09,2023-07-14
+1627,Home-1627,Home & Garden,99.99,59.41,2023-01-01
+1628,Home-1628,Home & Garden,59.99,36.04,2023-12-15
+1629,Home-1629,Home & Garden,16.99,10.67,2022-11-01
+1630,Home-1630,Home & Garden,124.99,72.54,2023-09-24
+1631,Home-1631,Home & Garden,94.99,73.59,2024-09-22
+1632,Home-1632,Home & Garden,91.99,59.52,2022-07-14
+1633,Home-1633,Home & Garden,121.99,78.0,2023-03-15
+1634,Home-1634,Home & Garden,39.99,20.55,2024-07-28
+1635,Home-1635,Home & Garden,87.99,47.96,2023-02-23
+1636,Home-1636,Home & Garden,47.99,28.4,2022-08-01
+1637,Home-1637,Home & Garden,29.99,18.79,2022-05-30
+1638,Home-1638,Home & Garden,98.99,53.74,2023-05-14
+1639,Home-1639,Home & Garden,57.99,34.55,2022-10-14
+1640,Home-1640,Home & Garden,81.99,46.6,2023-08-10
+1641,Home-1641,Home & Garden,27.99,15.11,2024-02-07
+1642,Home-1642,Home & Garden,16.99,11.43,2023-03-20
+1643,Home-1643,Home & Garden,86.99,53.58,2023-07-24
+1644,Home-1644,Home & Garden,24.99,13.13,2024-03-22
+1645,Home-1645,Home & Garden,169.99,83.55,2023-11-19
+1646,Home-1646,Home & Garden,55.99,25.9,2023-01-02
+1647,Home-1647,Home & Garden,30.99,18.06,2022-07-01
+1648,Home-1648,Home & Garden,45.99,27.43,2024-02-16
+1649,Home-1649,Home & Garden,97.99,66.7,2022-10-27
+1650,Home-1650,Home & Garden,76.99,53.69,2022-08-12
+1651,Beauty-1651,Beauty,44.99,14.18,2022-09-26
+1652,Beauty-1652,Beauty,39.99,17.25,2022-08-11
+1653,Beauty-1653,Beauty,53.99,23.0,2023-01-06
+1654,Beauty-1654,Beauty,16.99,7.67,2023-08-22
+1655,Beauty-1655,Beauty,31.99,14.74,2022-08-03
+1656,Beauty-1656,Beauty,45.99,13.89,2023-02-23
+1657,Beauty-1657,Beauty,10.99,3.67,2023-01-10
+1658,Beauty-1658,Beauty,22.99,10.57,2022-09-23
+1659,Beauty-1659,Beauty,50.99,13.18,2024-01-11
+1660,Beauty-1660,Beauty,12.99,5.2,2023-04-26
+1661,Beauty-1661,Beauty,34.99,9.32,2022-10-20
+1662,Beauty-1662,Beauty,29.99,12.77,2024-06-04
+1663,Beauty-1663,Beauty,35.99,14.45,2023-11-29
+1664,Beauty-1664,Beauty,42.99,20.51,2023-02-17
+1665,Beauty-1665,Beauty,49.99,24.38,2024-08-21
+1666,Beauty-1666,Beauty,29.99,15.91,2023-02-25
+1667,Beauty-1667,Beauty,23.99,7.31,2024-01-12
+1668,Beauty-1668,Beauty,55.99,24.09,2023-01-11
+1669,Beauty-1669,Beauty,38.99,15.62,2024-09-15
+1670,Beauty-1670,Beauty,32.99,11.61,2023-04-24
+1671,Beauty-1671,Beauty,13.99,5.08,2023-10-14
+1672,Beauty-1672,Beauty,61.99,29.96,2023-01-04
+1673,Beauty-1673,Beauty,23.99,6.97,2022-12-06
+1674,Beauty-1674,Beauty,86.99,32.51,2023-05-31
+1675,Beauty-1675,Beauty,58.99,20.34,2022-09-30
+1676,Beauty-1676,Beauty,33.99,14.05,2023-10-03
+1677,Beauty-1677,Beauty,53.99,21.33,2024-06-30
+1678,Beauty-1678,Beauty,42.99,20.31,2024-01-05
+1679,Beauty-1679,Beauty,39.99,17.58,2023-03-12
+1680,Beauty-1680,Beauty,31.99,12.77,2023-02-26
+1681,Beauty-1681,Beauty,27.99,12.6,2023-11-11
+1682,Beauty-1682,Beauty,14.99,7.1,2022-07-06
+1683,Beauty-1683,Beauty,31.99,15.68,2023-04-17
+1684,Beauty-1684,Beauty,26.99,12.58,2023-07-13
+1685,Beauty-1685,Beauty,15.99,6.71,2024-05-21
+1686,Beauty-1686,Beauty,14.99,5.37,2022-11-01
+1687,Beauty-1687,Beauty,20.99,11.27,2023-09-21
+1688,Beauty-1688,Beauty,36.99,15.68,2024-05-15
+1689,Beauty-1689,Beauty,41.99,13.15,2023-04-29
+1690,Beauty-1690,Beauty,27.99,12.02,2022-12-29
+1691,Beauty-1691,Beauty,44.99,15.14,2023-03-26
+1692,Beauty-1692,Beauty,17.99,4.77,2023-05-01
+1693,Beauty-1693,Beauty,16.99,6.36,2022-07-14
+1694,Beauty-1694,Beauty,27.99,9.39,2023-12-13
+1695,Beauty-1695,Beauty,34.99,11.19,2024-09-01
+1696,Beauty-1696,Beauty,37.99,18.74,2023-08-02
+1697,Beauty-1697,Beauty,30.99,13.52,2023-07-13
+1698,Beauty-1698,Beauty,8.99,2.3,2023-10-15
+1699,Beauty-1699,Beauty,53.99,16.5,2023-07-06
+1700,Beauty-1700,Beauty,16.99,5.53,2023-03-21
+1701,Beauty-1701,Beauty,29.99,10.74,2023-08-13
+1702,Beauty-1702,Beauty,55.99,24.71,2024-06-11
+1703,Beauty-1703,Beauty,21.99,8.89,2023-11-20
+1704,Beauty-1704,Beauty,43.99,15.37,2024-07-04
+1705,Beauty-1705,Beauty,21.99,10.67,2022-11-22
+1706,Beauty-1706,Beauty,17.99,7.34,2023-03-12
+1707,Beauty-1707,Beauty,21.99,9.32,2023-08-25
+1708,Beauty-1708,Beauty,36.99,14.49,2022-10-04
+1709,Beauty-1709,Beauty,15.99,5.65,2022-12-15
+1710,Beauty-1710,Beauty,51.99,20.77,2023-11-11
+1711,Beauty-1711,Beauty,37.99,12.79,2023-11-14
+1712,Beauty-1712,Beauty,42.99,18.2,2023-12-29
+1713,Beauty-1713,Beauty,42.99,16.75,2023-11-13
+1714,Beauty-1714,Beauty,22.99,11.08,2024-09-22
+1715,Beauty-1715,Beauty,34.99,12.01,2022-07-30
+1716,Beauty-1716,Beauty,32.99,13.37,2023-10-23
+1717,Beauty-1717,Beauty,51.99,25.54,2024-03-30
+1718,Beauty-1718,Beauty,36.99,16.72,2023-09-21
+1719,Beauty-1719,Beauty,21.99,6.92,2023-01-13
+1720,Beauty-1720,Beauty,22.99,7.73,2024-08-17
+1721,Beauty-1721,Beauty,28.99,9.56,2023-05-13
+1722,Beauty-1722,Beauty,42.99,17.48,2023-12-12
+1723,Beauty-1723,Beauty,12.99,5.7,2022-11-05
+1724,Beauty-1724,Beauty,94.99,38.73,2022-08-07
+1725,Beauty-1725,Beauty,24.99,9.33,2023-05-19
+1726,Beauty-1726,Beauty,30.99,13.32,2023-09-01
+1727,Beauty-1727,Beauty,45.99,17.97,2022-05-26
+1728,Beauty-1728,Beauty,28.99,11.36,2024-09-16
+1729,Beauty-1729,Beauty,62.99,26.31,2022-12-31
+1730,Beauty-1730,Beauty,33.99,10.14,2022-08-26
+1731,Beauty-1731,Beauty,12.99,3.52,2023-01-21
+1732,Beauty-1732,Beauty,15.99,6.36,2024-08-19
+1733,Beauty-1733,Beauty,36.99,12.23,2023-12-09
+1734,Beauty-1734,Beauty,23.99,10.42,2024-06-01
+1735,Beauty-1735,Beauty,23.99,9.31,2024-09-08
+1736,Beauty-1736,Beauty,34.99,14.68,2024-08-07
+1737,Beauty-1737,Beauty,37.99,12.94,2024-08-01
+1738,Beauty-1738,Beauty,27.99,9.44,2023-12-14
+1739,Beauty-1739,Beauty,13.99,6.74,2023-11-04
+1740,Beauty-1740,Beauty,17.99,6.86,2024-03-10
+1741,Beauty-1741,Beauty,31.99,12.23,2023-05-09
+1742,Beauty-1742,Beauty,25.99,11.88,2024-04-18
+1743,Beauty-1743,Beauty,16.99,7.12,2022-12-10
+1744,Beauty-1744,Beauty,48.99,16.42,2024-07-17
+1745,Beauty-1745,Beauty,14.99,7.19,2022-09-06
+1746,Beauty-1746,Beauty,29.99,12.59,2024-02-15
+1747,Beauty-1747,Beauty,39.99,18.88,2022-07-17
+1748,Beauty-1748,Beauty,50.99,17.85,2024-02-17
+1749,Beauty-1749,Beauty,19.99,8.42,2024-06-27
+1750,Beauty-1750,Beauty,14.99,5.94,2023-10-20
+1751,Beauty-1751,Beauty,59.99,22.56,2023-01-10
+1752,Beauty-1752,Beauty,44.99,15.99,2023-09-12
+1753,Beauty-1753,Beauty,19.99,9.85,2022-09-01
+1754,Beauty-1754,Beauty,44.99,17.19,2023-07-14
+1755,Beauty-1755,Beauty,38.99,18.89,2023-08-11
+1756,Beauty-1756,Beauty,17.99,7.83,2023-06-05
+1757,Beauty-1757,Beauty,49.99,23.75,2023-03-27
+1758,Beauty-1758,Beauty,18.99,7.77,2023-09-02
+1759,Beauty-1759,Beauty,44.99,23.48,2023-04-28
+1760,Beauty-1760,Beauty,11.99,4.22,2023-04-28
+1761,Beauty-1761,Beauty,40.99,16.85,2023-07-26
+1762,Beauty-1762,Beauty,26.99,10.02,2023-07-12
+1763,Beauty-1763,Beauty,34.99,11.43,2024-07-26
+1764,Beauty-1764,Beauty,21.99,11.13,2023-12-04
+1765,Beauty-1765,Beauty,29.99,12.02,2022-07-22
+1766,Beauty-1766,Beauty,19.99,7.28,2023-04-22
+1767,Beauty-1767,Beauty,30.99,13.56,2023-07-09
+1768,Beauty-1768,Beauty,28.99,11.26,2024-01-08
+1769,Beauty-1769,Beauty,80.99,27.13,2022-11-02
+1770,Beauty-1770,Beauty,28.99,10.37,2022-07-03
+1771,Beauty-1771,Beauty,26.99,7.83,2024-02-18
+1772,Beauty-1772,Beauty,33.99,14.81,2023-02-18
+1773,Beauty-1773,Beauty,24.99,9.13,2023-07-13
+1774,Beauty-1774,Beauty,26.99,12.27,2023-04-09
+1775,Beauty-1775,Beauty,23.99,10.02,2024-06-19
+1776,Beauty-1776,Beauty,30.99,14.53,2024-06-16
+1777,Beauty-1777,Beauty,17.99,7.62,2024-01-10
+1778,Beauty-1778,Beauty,40.99,21.62,2023-12-25
+1779,Beauty-1779,Beauty,32.99,12.22,2024-08-22
+1780,Beauty-1780,Beauty,21.99,11.86,2024-06-23
+1781,Beauty-1781,Beauty,22.99,7.66,2024-09-13
+1782,Beauty-1782,Beauty,41.99,19.15,2023-05-14
+1783,Beauty-1783,Beauty,38.99,21.58,2022-06-15
+1784,Beauty-1784,Beauty,20.99,7.37,2023-05-21
+1785,Beauty-1785,Beauty,16.99,8.38,2024-01-30
+1786,Beauty-1786,Beauty,25.99,7.42,2022-11-05
+1787,Beauty-1787,Beauty,15.99,6.32,2023-02-24
+1788,Beauty-1788,Beauty,19.99,6.48,2022-12-28
+1789,Beauty-1789,Beauty,43.99,18.73,2024-03-28
+1790,Beauty-1790,Beauty,20.99,9.25,2022-07-15
+1791,Beauty-1791,Beauty,49.99,15.61,2023-09-28
+1792,Beauty-1792,Beauty,30.99,10.65,2022-07-11
+1793,Beauty-1793,Beauty,34.99,11.19,2023-09-20
+1794,Beauty-1794,Beauty,26.99,11.67,2022-08-16
+1795,Beauty-1795,Beauty,15.99,5.66,2024-07-10
+1796,Beauty-1796,Beauty,41.99,17.27,2024-01-20
+1797,Beauty-1797,Beauty,49.99,18.04,2024-07-15
+1798,Beauty-1798,Beauty,15.99,5.74,2022-10-29
+1799,Beauty-1799,Beauty,17.99,7.74,2022-12-30
+1800,Beauty-1800,Beauty,78.99,32.91,2024-04-09
+1801,Beauty-1801,Beauty,24.99,9.2,2023-06-22
+1802,Beauty-1802,Beauty,36.99,13.98,2023-11-24
+1803,Beauty-1803,Beauty,43.99,17.0,2024-01-18
+1804,Beauty-1804,Beauty,35.99,12.96,2024-09-04
+1805,Beauty-1805,Beauty,35.99,14.03,2022-10-03
+1806,Beauty-1806,Beauty,23.99,7.51,2023-05-29
+1807,Beauty-1807,Beauty,19.99,7.66,2022-11-18
+1808,Beauty-1808,Beauty,14.99,6.05,2023-09-17
+1809,Beauty-1809,Beauty,15.99,5.83,2023-10-03
+1810,Beauty-1810,Beauty,28.99,13.18,2023-10-24
+1811,Beauty-1811,Beauty,35.99,14.92,2024-04-06
+1812,Beauty-1812,Beauty,35.99,12.46,2023-09-15
+1813,Beauty-1813,Beauty,49.99,22.54,2023-05-21
+1814,Beauty-1814,Beauty,21.99,10.14,2024-04-23
+1815,Beauty-1815,Beauty,22.99,9.28,2024-08-14
+1816,Beauty-1816,Beauty,37.99,13.87,2024-07-03
+1817,Beauty-1817,Beauty,13.99,6.53,2022-11-08
+1818,Beauty-1818,Beauty,36.99,16.06,2024-07-23
+1819,Beauty-1819,Beauty,28.99,8.5,2023-10-18
+1820,Beauty-1820,Beauty,29.99,12.49,2023-07-18
+1821,Beauty-1821,Beauty,50.99,18.45,2024-01-14
+1822,Beauty-1822,Beauty,36.99,11.02,2023-02-09
+1823,Beauty-1823,Beauty,28.99,9.78,2023-02-05
+1824,Beauty-1824,Beauty,27.99,11.8,2023-06-16
+1825,Beauty-1825,Beauty,42.99,19.98,2024-09-10
+1826,Beauty-1826,Beauty,20.99,7.35,2024-04-27
+1827,Beauty-1827,Beauty,28.99,10.61,2023-06-17
+1828,Beauty-1828,Beauty,34.99,10.18,2022-09-01
+1829,Beauty-1829,Beauty,72.99,26.13,2023-01-19
+1830,Beauty-1830,Beauty,23.99,11.16,2023-10-23
+1831,Beauty-1831,Beauty,32.99,12.05,2022-08-25
+1832,Beauty-1832,Beauty,16.99,5.37,2022-09-27
+1833,Beauty-1833,Beauty,45.99,20.9,2024-01-31
+1834,Beauty-1834,Beauty,8.99,3.88,2024-04-25
+1835,Beauty-1835,Beauty,10.99,5.01,2022-10-01
+1836,Beauty-1836,Beauty,19.99,8.47,2023-02-19
+1837,Beauty-1837,Beauty,34.99,12.78,2024-05-20
+1838,Beauty-1838,Beauty,18.99,9.15,2024-06-04
+1839,Beauty-1839,Beauty,12.99,5.67,2022-10-26
+1840,Beauty-1840,Beauty,15.99,8.14,2023-04-25
+1841,Beauty-1841,Beauty,20.99,8.33,2023-10-13
+1842,Beauty-1842,Beauty,31.99,13.27,2024-09-22
+1843,Beauty-1843,Beauty,34.99,14.04,2022-12-01
+1844,Beauty-1844,Beauty,86.99,31.61,2024-07-07
+1845,Beauty-1845,Beauty,20.99,6.5,2024-09-18
+1846,Beauty-1846,Beauty,11.99,4.93,2023-11-12
+1847,Beauty-1847,Beauty,19.99,8.66,2023-12-08
+1848,Beauty-1848,Beauty,26.99,8.76,2022-07-18
+1849,Beauty-1849,Beauty,18.99,8.97,2023-03-25
+1850,Beauty-1850,Beauty,58.99,23.95,2022-07-29
+1851,Beauty-1851,Beauty,16.99,7.27,2024-08-18
+1852,Beauty-1852,Beauty,21.99,9.25,2024-08-08
+1853,Beauty-1853,Beauty,31.99,15.46,2024-07-29
+1854,Beauty-1854,Beauty,18.99,8.88,2023-03-08
+1855,Beauty-1855,Beauty,59.99,19.8,2024-07-04
+1856,Beauty-1856,Beauty,14.99,5.95,2023-05-11
+1857,Beauty-1857,Beauty,23.99,9.16,2022-08-31
+1858,Beauty-1858,Beauty,39.99,19.91,2022-10-24
+1859,Beauty-1859,Beauty,11.99,6.07,2023-01-28
+1860,Beauty-1860,Beauty,21.99,10.2,2023-05-07
+1861,Beauty-1861,Beauty,42.99,17.44,2023-05-14
+1862,Beauty-1862,Beauty,27.99,10.47,2024-02-19
+1863,Beauty-1863,Beauty,98.99,37.5,2024-08-05
+1864,Beauty-1864,Beauty,37.99,13.99,2023-02-02
+1865,Beauty-1865,Beauty,24.99,9.65,2024-06-13
+1866,Beauty-1866,Beauty,14.99,6.55,2022-08-26
+1867,Beauty-1867,Beauty,27.99,9.78,2024-04-30
+1868,Beauty-1868,Beauty,22.99,9.86,2023-03-24
+1869,Beauty-1869,Beauty,34.99,15.76,2024-08-02
+1870,Beauty-1870,Beauty,46.99,16.69,2024-03-07
+1871,Beauty-1871,Beauty,80.99,29.85,2022-07-07
+1872,Beauty-1872,Beauty,28.99,12.0,2023-01-11
+1873,Beauty-1873,Beauty,9.99,4.82,2024-09-29
+1874,Beauty-1874,Beauty,50.99,18.39,2022-09-20
+1875,Beauty-1875,Beauty,18.99,7.65,2022-08-12
+1876,Beauty-1876,Beauty,24.99,11.5,2023-01-11
+1877,Beauty-1877,Beauty,58.99,24.46,2023-01-16
+1878,Beauty-1878,Beauty,30.99,15.6,2024-07-24
+1879,Beauty-1879,Beauty,63.99,31.03,2023-04-08
+1880,Beauty-1880,Beauty,54.99,20.47,2023-10-01
+1881,Beauty-1881,Beauty,42.99,22.93,2024-05-18
+1882,Beauty-1882,Beauty,10.99,4.75,2023-07-11
+1883,Beauty-1883,Beauty,17.99,6.38,2022-12-22
+1884,Beauty-1884,Beauty,21.99,9.41,2024-04-04
+1885,Beauty-1885,Beauty,25.99,9.74,2022-11-02
+1886,Beauty-1886,Beauty,36.99,18.31,2023-08-28
+1887,Beauty-1887,Beauty,21.99,9.73,2023-12-24
+1888,Beauty-1888,Beauty,29.99,13.49,2023-07-16
+1889,Beauty-1889,Beauty,17.99,8.37,2023-04-23
+1890,Beauty-1890,Beauty,31.99,13.24,2023-03-27
+1891,Beauty-1891,Beauty,15.99,6.28,2024-01-22
+1892,Beauty-1892,Beauty,13.99,6.39,2023-06-07
+1893,Beauty-1893,Beauty,26.99,12.1,2024-09-27
+1894,Beauty-1894,Beauty,27.99,13.05,2024-08-11
+1895,Beauty-1895,Beauty,40.99,17.57,2022-08-04
+1896,Beauty-1896,Beauty,22.99,7.8,2022-09-23
+1897,Beauty-1897,Beauty,21.99,8.56,2022-07-14
+1898,Beauty-1898,Beauty,30.99,11.65,2022-10-17
+1899,Beauty-1899,Beauty,20.99,7.29,2022-07-09
+1900,Beauty-1900,Beauty,57.99,24.35,2022-07-07
+1901,Beauty-1901,Beauty,45.99,19.61,2022-10-16
+1902,Beauty-1902,Beauty,16.99,7.62,2022-07-15
+1903,Beauty-1903,Beauty,24.99,9.29,2024-08-05
+1904,Beauty-1904,Beauty,32.99,13.87,2023-10-21
+1905,Beauty-1905,Beauty,14.99,5.47,2023-02-18
+1906,Beauty-1906,Beauty,21.99,9.95,2023-04-03
+1907,Beauty-1907,Beauty,49.99,20.2,2022-07-08
+1908,Beauty-1908,Beauty,24.99,9.86,2024-06-04
+1909,Beauty-1909,Beauty,19.99,8.93,2022-11-03
+1910,Beauty-1910,Beauty,21.99,6.66,2022-10-25
+1911,Beauty-1911,Beauty,23.99,10.44,2024-06-08
+1912,Beauty-1912,Beauty,28.99,9.98,2024-09-25
+1913,Beauty-1913,Beauty,24.99,11.69,2023-05-23
+1914,Beauty-1914,Beauty,56.99,16.66,2023-02-07
+1915,Beauty-1915,Beauty,27.99,10.49,2024-04-03
+1916,Beauty-1916,Beauty,49.99,16.02,2022-10-08
+1917,Beauty-1917,Beauty,31.99,11.92,2024-06-13
+1918,Beauty-1918,Beauty,9.99,3.99,2024-06-03
+1919,Beauty-1919,Beauty,51.99,25.52,2024-06-20
+1920,Beauty-1920,Beauty,24.99,9.13,2024-06-30
+1921,Beauty-1921,Beauty,43.99,17.67,2023-08-29
+1922,Beauty-1922,Beauty,62.99,22.91,2022-07-25
+1923,Beauty-1923,Beauty,39.99,12.67,2022-10-03
+1924,Beauty-1924,Beauty,30.99,15.3,2023-07-20
+1925,Beauty-1925,Beauty,27.99,11.14,2023-06-24
+1926,Beauty-1926,Beauty,25.99,10.21,2023-01-10
+1927,Beauty-1927,Beauty,50.99,18.27,2024-03-08
+1928,Beauty-1928,Beauty,22.99,12.02,2023-07-29
+1929,Beauty-1929,Beauty,15.99,5.73,2022-10-20
+1930,Beauty-1930,Beauty,28.99,10.35,2024-09-12
+1931,Beauty-1931,Beauty,12.99,5.63,2023-08-27
+1932,Beauty-1932,Beauty,27.99,10.91,2024-06-29
+1933,Beauty-1933,Beauty,36.99,14.42,2022-08-18
+1934,Beauty-1934,Beauty,28.99,12.25,2022-12-22
+1935,Beauty-1935,Beauty,40.99,15.94,2023-06-20
+1936,Beauty-1936,Beauty,20.99,5.91,2023-09-29
+1937,Beauty-1937,Beauty,63.99,31.74,2023-11-21
+1938,Beauty-1938,Beauty,33.99,12.26,2023-02-13
+1939,Beauty-1939,Beauty,31.99,13.67,2024-05-25
+1940,Beauty-1940,Beauty,22.99,6.51,2024-09-02
+1941,Beauty-1941,Beauty,16.99,4.96,2024-09-10
+1942,Beauty-1942,Beauty,28.99,12.08,2023-07-14
+1943,Beauty-1943,Beauty,29.99,9.57,2024-07-24
+1944,Beauty-1944,Beauty,48.99,19.69,2023-04-19
+1945,Beauty-1945,Beauty,30.99,11.74,2024-09-29
+1946,Beauty-1946,Beauty,27.99,10.94,2022-09-09
+1947,Beauty-1947,Beauty,26.99,10.5,2024-07-14
+1948,Beauty-1948,Beauty,11.99,4.43,2024-02-07
+1949,Beauty-1949,Beauty,55.99,23.8,2022-12-04
+1950,Beauty-1950,Beauty,10.99,3.79,2023-12-25
+1951,Beauty-1951,Beauty,31.99,13.53,2023-09-22
+1952,Beauty-1952,Beauty,39.99,17.84,2022-10-31
+1953,Beauty-1953,Beauty,22.99,7.75,2023-03-30
+1954,Beauty-1954,Beauty,20.99,6.8,2023-03-27
+1955,Beauty-1955,Beauty,21.99,8.29,2022-08-23
+1956,Beauty-1956,Beauty,21.99,10.24,2023-06-12
+1957,Beauty-1957,Beauty,29.99,13.08,2023-03-09
+1958,Beauty-1958,Beauty,24.99,9.9,2024-01-14
+1959,Beauty-1959,Beauty,9.99,4.31,2022-12-27
+1960,Beauty-1960,Beauty,34.99,11.74,2024-06-26
+1961,Beauty-1961,Beauty,7.99,3.12,2024-03-06
+1962,Beauty-1962,Beauty,23.99,10.74,2023-10-23
+1963,Beauty-1963,Beauty,26.99,12.4,2024-05-16
+1964,Beauty-1964,Beauty,24.99,10.17,2023-03-13
+1965,Beauty-1965,Beauty,33.99,14.19,2023-07-31
+1966,Beauty-1966,Beauty,30.99,11.43,2022-06-03
+1967,Beauty-1967,Beauty,62.99,25.26,2022-07-04
+1968,Beauty-1968,Beauty,23.99,9.29,2024-09-24
+1969,Beauty-1969,Beauty,58.99,20.02,2023-03-23
+1970,Beauty-1970,Beauty,56.99,22.17,2023-11-24
+1971,Beauty-1971,Beauty,27.99,12.52,2023-10-17
+1972,Beauty-1972,Beauty,27.99,13.03,2022-06-29
+1973,Beauty-1973,Beauty,24.99,11.35,2024-05-31
+1974,Beauty-1974,Beauty,31.99,10.59,2023-04-25
+1975,Beauty-1975,Beauty,32.99,14.19,2023-07-16
+1976,Beauty-1976,Beauty,18.99,6.19,2024-08-26
+1977,Beauty-1977,Beauty,8.99,3.41,2024-07-03
+1978,Beauty-1978,Beauty,42.99,16.04,2022-12-28
+1979,Beauty-1979,Beauty,26.99,10.96,2024-06-16
+1980,Beauty-1980,Beauty,32.99,16.34,2023-09-24
+1981,Beauty-1981,Beauty,17.99,6.92,2023-02-13
+1982,Beauty-1982,Beauty,18.99,7.54,2022-08-22
+1983,Beauty-1983,Beauty,12.99,5.03,2024-04-07
+1984,Beauty-1984,Beauty,15.99,7.93,2024-09-19
+1985,Beauty-1985,Beauty,22.99,10.85,2023-12-25
+1986,Beauty-1986,Beauty,13.99,5.77,2024-01-11
+1987,Beauty-1987,Beauty,18.99,7.09,2022-07-16
+1988,Beauty-1988,Beauty,18.99,6.05,2023-03-11
+1989,Beauty-1989,Beauty,36.99,16.82,2022-06-12
+1990,Beauty-1990,Beauty,7.99,3.55,2024-03-12
+1991,Beauty-1991,Beauty,37.99,13.44,2022-11-16
+1992,Beauty-1992,Beauty,14.99,6.28,2023-10-16
+1993,Beauty-1993,Beauty,42.99,13.1,2022-08-25
+1994,Beauty-1994,Beauty,23.99,10.08,2022-07-27
+1995,Beauty-1995,Beauty,11.99,4.24,2022-09-03
+1996,Beauty-1996,Beauty,33.99,11.33,2022-12-03
+1997,Beauty-1997,Beauty,24.99,15.12,2023-12-21
+1998,Beauty-1998,Beauty,40.99,20.99,2024-04-12
+1999,Beauty-1999,Beauty,23.99,9.22,2024-05-05
+2000,Beauty-2000,Beauty,49.99,23.52,2022-06-18
+2001,Sports-2001,Sports & Outdoors,62.99,35.97,2023-02-22
+2002,Sports-2002,Sports & Outdoors,23.99,16.75,2024-07-31
+2003,Sports-2003,Sports & Outdoors,40.99,23.3,2023-10-13
+2004,Sports-2004,Sports & Outdoors,31.99,17.66,2024-05-10
+2005,Sports-2005,Sports & Outdoors,9.99,6.45,2023-07-05
+2006,Sports-2006,Sports & Outdoors,23.99,12.97,2022-12-03
+2007,Sports-2007,Sports & Outdoors,158.99,105.39,2024-09-25
+2008,Sports-2008,Sports & Outdoors,22.99,14.82,2024-06-22
+2009,Sports-2009,Sports & Outdoors,114.99,54.15,2023-12-15
+2010,Sports-2010,Sports & Outdoors,106.99,64.21,2023-08-31
+2011,Sports-2011,Sports & Outdoors,52.99,27.45,2022-07-03
+2012,Sports-2012,Sports & Outdoors,37.99,21.09,2024-04-12
+2013,Sports-2013,Sports & Outdoors,34.99,21.98,2024-07-25
+2014,Sports-2014,Sports & Outdoors,63.99,47.41,2024-09-01
+2015,Sports-2015,Sports & Outdoors,67.99,36.07,2023-08-18
+2016,Sports-2016,Sports & Outdoors,51.99,37.15,2024-06-10
+2017,Sports-2017,Sports & Outdoors,102.99,62.19,2023-12-09
+2018,Sports-2018,Sports & Outdoors,36.99,20.43,2022-12-10
+2019,Sports-2019,Sports & Outdoors,43.99,22.27,2022-12-14
+2020,Sports-2020,Sports & Outdoors,55.99,36.09,2024-03-26
+2021,Sports-2021,Sports & Outdoors,105.99,52.19,2024-01-26
+2022,Sports-2022,Sports & Outdoors,39.99,26.32,2023-09-24
+2023,Sports-2023,Sports & Outdoors,270.99,163.0,2022-11-16
+2024,Sports-2024,Sports & Outdoors,104.99,60.02,2024-04-21
+2025,Sports-2025,Sports & Outdoors,38.99,24.79,2024-01-01
+2026,Sports-2026,Sports & Outdoors,42.99,25.66,2023-03-23
+2027,Sports-2027,Sports & Outdoors,100.99,65.03,2023-08-25
+2028,Sports-2028,Sports & Outdoors,44.99,29.36,2024-02-07
+2029,Sports-2029,Sports & Outdoors,50.99,30.81,2023-07-15
+2030,Sports-2030,Sports & Outdoors,18.99,10.76,2024-02-28
+2031,Sports-2031,Sports & Outdoors,62.99,38.12,2024-01-02
+2032,Sports-2032,Sports & Outdoors,65.99,38.38,2024-05-06
+2033,Sports-2033,Sports & Outdoors,40.99,19.55,2022-08-27
+2034,Sports-2034,Sports & Outdoors,118.99,74.17,2022-12-19
+2035,Sports-2035,Sports & Outdoors,138.99,79.92,2022-11-18
+2036,Sports-2036,Sports & Outdoors,36.99,23.42,2023-04-07
+2037,Sports-2037,Sports & Outdoors,18.99,12.44,2023-12-24
+2038,Sports-2038,Sports & Outdoors,30.99,16.24,2022-12-23
+2039,Sports-2039,Sports & Outdoors,119.99,79.58,2023-01-11
+2040,Sports-2040,Sports & Outdoors,74.99,52.81,2022-12-02
+2041,Sports-2041,Sports & Outdoors,72.99,48.79,2023-03-09
+2042,Sports-2042,Sports & Outdoors,131.99,79.07,2023-08-24
+2043,Sports-2043,Sports & Outdoors,127.99,78.18,2024-01-06
+2044,Sports-2044,Sports & Outdoors,43.99,27.02,2023-06-14
+2045,Sports-2045,Sports & Outdoors,60.99,42.66,2023-11-30
+2046,Sports-2046,Sports & Outdoors,74.99,42.04,2022-06-24
+2047,Sports-2047,Sports & Outdoors,44.99,24.43,2022-12-04
+2048,Sports-2048,Sports & Outdoors,58.99,35.43,2022-12-22
+2049,Sports-2049,Sports & Outdoors,28.99,18.86,2022-10-26
+2050,Sports-2050,Sports & Outdoors,66.99,38.68,2023-09-17
+2051,Sports-2051,Sports & Outdoors,49.99,27.69,2023-04-17
+2052,Sports-2052,Sports & Outdoors,62.99,33.46,2023-02-11
+2053,Sports-2053,Sports & Outdoors,147.99,98.4,2022-07-07
+2054,Sports-2054,Sports & Outdoors,49.99,25.51,2024-05-13
+2055,Sports-2055,Sports & Outdoors,43.99,30.45,2023-07-24
+2056,Sports-2056,Sports & Outdoors,134.99,84.89,2024-05-03
+2057,Sports-2057,Sports & Outdoors,14.99,8.87,2022-10-02
+2058,Sports-2058,Sports & Outdoors,41.99,24.49,2024-04-16
+2059,Sports-2059,Sports & Outdoors,53.99,34.63,2023-05-16
+2060,Sports-2060,Sports & Outdoors,39.99,26.03,2022-09-29
+2061,Sports-2061,Sports & Outdoors,26.99,13.76,2023-12-12
+2062,Sports-2062,Sports & Outdoors,72.99,41.86,2024-01-29
+2063,Sports-2063,Sports & Outdoors,23.99,14.6,2023-04-14
+2064,Sports-2064,Sports & Outdoors,63.99,40.23,2024-07-26
+2065,Sports-2065,Sports & Outdoors,145.99,88.77,2023-07-23
+2066,Sports-2066,Sports & Outdoors,20.99,10.19,2022-07-15
+2067,Sports-2067,Sports & Outdoors,55.99,35.45,2023-01-30
+2068,Sports-2068,Sports & Outdoors,72.99,46.12,2022-09-29
+2069,Sports-2069,Sports & Outdoors,34.99,18.44,2022-09-08
+2070,Sports-2070,Sports & Outdoors,38.99,26.09,2024-09-27
+2071,Sports-2071,Sports & Outdoors,58.99,35.68,2023-07-17
+2072,Sports-2072,Sports & Outdoors,18.99,10.72,2024-08-22
+2073,Sports-2073,Sports & Outdoors,34.99,21.78,2023-06-19
+2074,Sports-2074,Sports & Outdoors,18.99,12.9,2023-07-12
+2075,Sports-2075,Sports & Outdoors,70.99,35.25,2023-01-10
+2076,Sports-2076,Sports & Outdoors,24.99,12.56,2024-02-05
+2077,Sports-2077,Sports & Outdoors,15.99,8.53,2022-09-19
+2078,Sports-2078,Sports & Outdoors,25.99,16.02,2023-12-07
+2079,Sports-2079,Sports & Outdoors,30.99,16.14,2024-08-17
+2080,Sports-2080,Sports & Outdoors,42.99,23.63,2023-05-23
+2081,Sports-2081,Sports & Outdoors,47.99,30.18,2023-12-21
+2082,Sports-2082,Sports & Outdoors,17.99,10.72,2023-05-22
+2083,Sports-2083,Sports & Outdoors,34.99,24.86,2022-09-04
+2084,Sports-2084,Sports & Outdoors,17.99,10.58,2023-04-18
+2085,Sports-2085,Sports & Outdoors,19.99,12.14,2023-08-07
+2086,Sports-2086,Sports & Outdoors,50.99,32.91,2024-08-02
+2087,Sports-2087,Sports & Outdoors,16.99,10.36,2022-05-17
+2088,Sports-2088,Sports & Outdoors,103.99,61.89,2023-04-10
+2089,Sports-2089,Sports & Outdoors,32.99,22.29,2022-06-08
+2090,Sports-2090,Sports & Outdoors,41.99,25.77,2023-03-20
+2091,Sports-2091,Sports & Outdoors,47.99,27.86,2023-07-04
+2092,Sports-2092,Sports & Outdoors,74.99,52.46,2023-04-04
+2093,Sports-2093,Sports & Outdoors,67.99,42.33,2023-12-06
+2094,Sports-2094,Sports & Outdoors,14.99,7.92,2023-02-27
+2095,Sports-2095,Sports & Outdoors,66.99,33.85,2023-04-10
+2096,Sports-2096,Sports & Outdoors,96.99,53.4,2024-02-22
+2097,Sports-2097,Sports & Outdoors,41.99,28.59,2022-05-26
+2098,Sports-2098,Sports & Outdoors,31.99,17.59,2023-02-19
+2099,Sports-2099,Sports & Outdoors,77.99,47.76,2022-06-29
+2100,Sports-2100,Sports & Outdoors,93.99,48.05,2023-08-04
+2101,Sports-2101,Sports & Outdoors,13.99,8.17,2023-11-06
+2102,Sports-2102,Sports & Outdoors,43.99,26.88,2024-08-03
+2103,Sports-2103,Sports & Outdoors,34.99,24.07,2022-11-05
+2104,Sports-2104,Sports & Outdoors,63.99,33.45,2023-11-16
+2105,Sports-2105,Sports & Outdoors,29.99,18.63,2023-06-01
+2106,Sports-2106,Sports & Outdoors,69.99,43.53,2024-07-22
+2107,Sports-2107,Sports & Outdoors,35.99,20.12,2024-08-13
+2108,Sports-2108,Sports & Outdoors,60.99,37.47,2023-02-03
+2109,Sports-2109,Sports & Outdoors,26.99,15.0,2024-07-22
+2110,Sports-2110,Sports & Outdoors,35.99,21.85,2024-08-31
+2111,Sports-2111,Sports & Outdoors,22.99,13.29,2023-04-27
+2112,Sports-2112,Sports & Outdoors,55.99,35.6,2023-10-26
+2113,Sports-2113,Sports & Outdoors,21.99,12.47,2023-04-07
+2114,Sports-2114,Sports & Outdoors,97.99,58.82,2023-10-05
+2115,Sports-2115,Sports & Outdoors,41.99,22.71,2022-10-27
+2116,Sports-2116,Sports & Outdoors,51.99,34.32,2022-05-26
+2117,Sports-2117,Sports & Outdoors,48.99,24.97,2024-01-31
+2118,Sports-2118,Sports & Outdoors,39.99,23.06,2024-03-31
+2119,Sports-2119,Sports & Outdoors,133.99,86.18,2023-12-24
+2120,Sports-2120,Sports & Outdoors,42.99,25.35,2022-09-30
+2121,Sports-2121,Sports & Outdoors,26.99,14.11,2024-10-01
+2122,Sports-2122,Sports & Outdoors,34.99,18.83,2023-04-25
+2123,Sports-2123,Sports & Outdoors,33.99,21.66,2023-10-15
+2124,Sports-2124,Sports & Outdoors,40.99,22.83,2024-05-09
+2125,Sports-2125,Sports & Outdoors,92.99,67.17,2024-09-11
+2126,Sports-2126,Sports & Outdoors,84.99,53.53,2024-03-02
+2127,Sports-2127,Sports & Outdoors,106.99,63.56,2024-08-09
+2128,Sports-2128,Sports & Outdoors,67.99,35.87,2022-08-05
+2129,Sports-2129,Sports & Outdoors,31.99,18.35,2022-10-06
+2130,Sports-2130,Sports & Outdoors,65.99,42.26,2023-02-06
+2131,Sports-2131,Sports & Outdoors,56.99,27.64,2022-08-24
+2132,Sports-2132,Sports & Outdoors,11.99,8.02,2024-03-17
+2133,Sports-2133,Sports & Outdoors,31.99,22.46,2022-10-03
+2134,Sports-2134,Sports & Outdoors,44.99,30.27,2024-07-02
+2135,Sports-2135,Sports & Outdoors,68.99,44.57,2022-05-26
+2136,Sports-2136,Sports & Outdoors,21.99,12.92,2023-07-12
+2137,Sports-2137,Sports & Outdoors,30.99,17.64,2022-05-30
+2138,Sports-2138,Sports & Outdoors,79.99,45.49,2024-01-22
+2139,Sports-2139,Sports & Outdoors,71.99,38.69,2022-06-06
+2140,Sports-2140,Sports & Outdoors,224.99,140.47,2024-06-14
+2141,Sports-2141,Sports & Outdoors,16.99,11.5,2023-02-10
+2142,Sports-2142,Sports & Outdoors,48.99,25.23,2023-10-12
+2143,Sports-2143,Sports & Outdoors,45.99,29.16,2024-09-02
+2144,Sports-2144,Sports & Outdoors,28.99,15.24,2023-06-19
+2145,Sports-2145,Sports & Outdoors,54.99,29.56,2023-09-21
+2146,Sports-2146,Sports & Outdoors,26.99,14.15,2023-10-12
+2147,Sports-2147,Sports & Outdoors,76.99,49.48,2024-07-10
+2148,Sports-2148,Sports & Outdoors,29.99,17.69,2022-06-22
+2149,Sports-2149,Sports & Outdoors,43.99,23.08,2022-11-12
+2150,Sports-2150,Sports & Outdoors,80.99,57.34,2024-05-07
+2151,Sports-2151,Sports & Outdoors,58.99,34.51,2024-01-10
+2152,Sports-2152,Sports & Outdoors,17.99,10.81,2023-04-25
+2153,Sports-2153,Sports & Outdoors,22.99,15.74,2022-08-26
+2154,Sports-2154,Sports & Outdoors,17.99,11.32,2023-03-04
+2155,Sports-2155,Sports & Outdoors,100.99,57.46,2022-07-03
+2156,Sports-2156,Sports & Outdoors,69.99,42.17,2023-03-01
+2157,Sports-2157,Sports & Outdoors,60.99,41.86,2024-02-29
+2158,Sports-2158,Sports & Outdoors,15.99,10.31,2024-06-12
+2159,Sports-2159,Sports & Outdoors,43.99,26.29,2022-12-21
+2160,Sports-2160,Sports & Outdoors,76.99,39.89,2022-08-27
+2161,Sports-2161,Sports & Outdoors,38.99,19.34,2022-08-13
+2162,Sports-2162,Sports & Outdoors,43.99,29.17,2024-08-22
+2163,Sports-2163,Sports & Outdoors,54.99,32.73,2022-11-05
+2164,Sports-2164,Sports & Outdoors,31.99,19.48,2023-07-04
+2165,Sports-2165,Sports & Outdoors,119.99,67.78,2023-12-20
+2166,Sports-2166,Sports & Outdoors,35.99,25.21,2024-04-16
+2167,Sports-2167,Sports & Outdoors,60.99,32.52,2022-09-11
+2168,Sports-2168,Sports & Outdoors,111.99,67.56,2023-08-26
+2169,Sports-2169,Sports & Outdoors,84.99,48.2,2024-08-31
+2170,Sports-2170,Sports & Outdoors,69.99,42.42,2024-05-13
+2171,Sports-2171,Sports & Outdoors,88.99,50.08,2023-10-12
+2172,Sports-2172,Sports & Outdoors,22.99,14.9,2024-09-23
+2173,Sports-2173,Sports & Outdoors,60.99,35.65,2023-09-12
+2174,Sports-2174,Sports & Outdoors,29.99,18.77,2023-02-11
+2175,Sports-2175,Sports & Outdoors,29.99,17.03,2022-12-26
+2176,Sports-2176,Sports & Outdoors,58.99,38.12,2023-02-22
+2177,Sports-2177,Sports & Outdoors,38.99,24.97,2024-01-15
+2178,Sports-2178,Sports & Outdoors,77.99,53.1,2024-07-06
+2179,Sports-2179,Sports & Outdoors,96.99,71.95,2024-08-27
+2180,Sports-2180,Sports & Outdoors,107.99,76.08,2023-08-31
+2181,Sports-2181,Sports & Outdoors,44.99,29.76,2022-06-02
+2182,Sports-2182,Sports & Outdoors,115.99,71.61,2023-10-05
+2183,Sports-2183,Sports & Outdoors,63.99,37.8,2023-08-11
+2184,Sports-2184,Sports & Outdoors,49.99,29.05,2023-08-15
+2185,Sports-2185,Sports & Outdoors,156.99,80.92,2022-09-05
+2186,Sports-2186,Sports & Outdoors,138.99,87.3,2022-08-26
+2187,Sports-2187,Sports & Outdoors,93.99,58.39,2022-08-08
+2188,Sports-2188,Sports & Outdoors,34.99,20.07,2023-08-05
+2189,Sports-2189,Sports & Outdoors,44.99,24.97,2024-04-04
+2190,Sports-2190,Sports & Outdoors,49.99,33.56,2024-02-17
+2191,Sports-2191,Sports & Outdoors,19.99,12.17,2024-09-02
+2192,Sports-2192,Sports & Outdoors,222.99,144.43,2023-06-03
+2193,Sports-2193,Sports & Outdoors,62.99,38.87,2024-06-01
+2194,Sports-2194,Sports & Outdoors,54.99,29.94,2022-12-01
+2195,Sports-2195,Sports & Outdoors,23.99,14.81,2022-09-25
+2196,Sports-2196,Sports & Outdoors,22.99,14.11,2023-11-29
+2197,Sports-2197,Sports & Outdoors,34.99,19.27,2023-05-29
+2198,Sports-2198,Sports & Outdoors,11.99,8.15,2023-01-12
+2199,Sports-2199,Sports & Outdoors,107.99,69.96,2023-12-07
+2200,Sports-2200,Sports & Outdoors,67.99,37.21,2024-04-27
+2201,Sports-2201,Sports & Outdoors,16.99,11.42,2023-09-04
+2202,Sports-2202,Sports & Outdoors,85.99,56.55,2024-04-06
+2203,Sports-2203,Sports & Outdoors,25.99,16.5,2023-10-18
+2204,Sports-2204,Sports & Outdoors,24.99,17.55,2022-06-02
+2205,Sports-2205,Sports & Outdoors,106.99,58.48,2022-10-05
+2206,Sports-2206,Sports & Outdoors,61.99,34.06,2022-07-08
+2207,Sports-2207,Sports & Outdoors,74.99,42.08,2024-08-15
+2208,Sports-2208,Sports & Outdoors,92.99,63.28,2023-04-28
+2209,Sports-2209,Sports & Outdoors,211.99,134.05,2022-08-05
+2210,Sports-2210,Sports & Outdoors,29.99,18.32,2023-10-25
+2211,Sports-2211,Sports & Outdoors,37.99,23.27,2023-01-18
+2212,Sports-2212,Sports & Outdoors,30.99,15.32,2024-10-01
+2213,Sports-2213,Sports & Outdoors,85.99,54.06,2023-11-11
+2214,Sports-2214,Sports & Outdoors,48.99,26.6,2023-08-28
+2215,Sports-2215,Sports & Outdoors,56.99,37.65,2022-06-18
+2216,Sports-2216,Sports & Outdoors,49.99,33.01,2023-10-05
+2217,Sports-2217,Sports & Outdoors,55.99,32.38,2023-01-20
+2218,Sports-2218,Sports & Outdoors,46.99,25.17,2024-03-28
+2219,Sports-2219,Sports & Outdoors,120.99,72.77,2024-06-08
+2220,Sports-2220,Sports & Outdoors,157.99,95.42,2024-03-25
+2221,Sports-2221,Sports & Outdoors,69.99,50.29,2023-09-19
+2222,Sports-2222,Sports & Outdoors,63.99,33.56,2023-04-21
+2223,Sports-2223,Sports & Outdoors,193.99,116.7,2022-06-28
+2224,Sports-2224,Sports & Outdoors,39.99,20.44,2023-01-28
+2225,Sports-2225,Sports & Outdoors,77.99,41.69,2024-03-21
+2226,Sports-2226,Sports & Outdoors,51.99,32.61,2023-03-17
+2227,Sports-2227,Sports & Outdoors,33.99,18.23,2023-04-17
+2228,Sports-2228,Sports & Outdoors,21.99,13.01,2024-07-14
+2229,Sports-2229,Sports & Outdoors,64.99,42.58,2023-10-03
+2230,Sports-2230,Sports & Outdoors,49.99,25.88,2024-01-16
+2231,Sports-2231,Sports & Outdoors,45.99,29.01,2024-03-17
+2232,Sports-2232,Sports & Outdoors,16.99,9.72,2022-08-14
+2233,Sports-2233,Sports & Outdoors,73.99,38.7,2023-08-18
+2234,Sports-2234,Sports & Outdoors,63.99,37.35,2023-10-06
+2235,Sports-2235,Sports & Outdoors,86.99,48.88,2023-12-24
+2236,Sports-2236,Sports & Outdoors,86.99,56.51,2022-06-16
+2237,Sports-2237,Sports & Outdoors,82.99,58.32,2024-05-05
+2238,Sports-2238,Sports & Outdoors,77.99,55.38,2022-12-12
+2239,Sports-2239,Sports & Outdoors,41.99,28.31,2022-09-21
+2240,Sports-2240,Sports & Outdoors,35.99,19.72,2024-03-26
+2241,Sports-2241,Sports & Outdoors,19.99,11.06,2024-09-01
+2242,Sports-2242,Sports & Outdoors,42.99,26.58,2022-10-01
+2243,Sports-2243,Sports & Outdoors,8.99,5.51,2023-05-18
+2244,Sports-2244,Sports & Outdoors,50.99,35.68,2024-04-07
+2245,Sports-2245,Sports & Outdoors,104.99,65.01,2023-05-09
+2246,Sports-2246,Sports & Outdoors,84.99,52.32,2024-02-22
+2247,Sports-2247,Sports & Outdoors,44.99,28.03,2023-03-07
+2248,Sports-2248,Sports & Outdoors,33.99,18.07,2023-10-07
+2249,Sports-2249,Sports & Outdoors,16.99,9.92,2024-05-21
+2250,Sports-2250,Sports & Outdoors,62.99,40.06,2024-05-22
+2251,Sports-2251,Sports & Outdoors,57.99,38.33,2023-11-11
+2252,Sports-2252,Sports & Outdoors,54.99,30.27,2023-06-05
+2253,Sports-2253,Sports & Outdoors,70.99,43.49,2024-08-20
+2254,Sports-2254,Sports & Outdoors,101.99,47.08,2023-01-24
+2255,Sports-2255,Sports & Outdoors,91.99,57.68,2024-01-03
+2256,Sports-2256,Sports & Outdoors,26.99,14.47,2022-08-11
+2257,Sports-2257,Sports & Outdoors,17.99,11.96,2022-12-16
+2258,Sports-2258,Sports & Outdoors,28.99,15.36,2024-04-16
+2259,Sports-2259,Sports & Outdoors,99.99,59.03,2024-04-29
+2260,Sports-2260,Sports & Outdoors,45.99,24.51,2023-05-31
+2261,Sports-2261,Sports & Outdoors,339.99,190.79,2023-12-06
+2262,Sports-2262,Sports & Outdoors,76.99,45.09,2022-10-12
+2263,Sports-2263,Sports & Outdoors,161.99,80.31,2023-10-14
+2264,Sports-2264,Sports & Outdoors,49.99,34.81,2024-05-13
+2265,Sports-2265,Sports & Outdoors,37.99,21.48,2023-06-07
+2266,Sports-2266,Sports & Outdoors,349.99,225.38,2022-10-24
+2267,Sports-2267,Sports & Outdoors,30.99,18.94,2022-07-21
+2268,Sports-2268,Sports & Outdoors,37.99,20.48,2022-07-02
+2269,Sports-2269,Sports & Outdoors,48.99,28.66,2023-04-20
+2270,Sports-2270,Sports & Outdoors,55.99,33.74,2022-12-30
+2271,Sports-2271,Sports & Outdoors,26.99,17.24,2024-07-11
+2272,Sports-2272,Sports & Outdoors,9.99,5.72,2023-04-05
+2273,Sports-2273,Sports & Outdoors,46.99,31.04,2022-07-31
+2274,Sports-2274,Sports & Outdoors,104.99,53.14,2024-09-26
+2275,Sports-2275,Sports & Outdoors,95.99,56.91,2023-07-31
+2276,Sports-2276,Sports & Outdoors,63.99,34.51,2023-08-06
+2277,Sports-2277,Sports & Outdoors,46.99,28.81,2024-06-17
+2278,Sports-2278,Sports & Outdoors,53.99,29.79,2023-04-03
+2279,Sports-2279,Sports & Outdoors,59.99,33.08,2022-12-30
+2280,Sports-2280,Sports & Outdoors,39.99,23.02,2023-10-25
+2281,Sports-2281,Sports & Outdoors,36.99,24.01,2022-08-22
+2282,Sports-2282,Sports & Outdoors,214.99,120.65,2024-05-20
+2283,Sports-2283,Sports & Outdoors,22.99,11.82,2023-07-01
+2284,Sports-2284,Sports & Outdoors,37.99,26.2,2022-05-30
+2285,Sports-2285,Sports & Outdoors,70.99,45.95,2023-01-03
+2286,Sports-2286,Sports & Outdoors,43.99,28.21,2022-10-08
+2287,Sports-2287,Sports & Outdoors,30.99,21.5,2024-07-28
+2288,Sports-2288,Sports & Outdoors,27.99,15.99,2024-02-15
+2289,Sports-2289,Sports & Outdoors,58.99,37.87,2023-06-19
+2290,Sports-2290,Sports & Outdoors,34.99,19.14,2022-11-04
+2291,Sports-2291,Sports & Outdoors,70.99,44.64,2022-10-02
+2292,Sports-2292,Sports & Outdoors,40.99,23.06,2022-08-22
+2293,Sports-2293,Sports & Outdoors,15.99,11.1,2023-09-30
+2294,Sports-2294,Sports & Outdoors,77.99,48.02,2024-08-19
+2295,Sports-2295,Sports & Outdoors,298.99,186.04,2022-09-28
+2296,Sports-2296,Sports & Outdoors,28.99,19.24,2023-08-06
+2297,Sports-2297,Sports & Outdoors,24.99,12.28,2024-09-05
+2298,Sports-2298,Sports & Outdoors,38.99,22.57,2024-07-27
+2299,Sports-2299,Sports & Outdoors,101.99,63.87,2024-06-18
+2300,Sports-2300,Sports & Outdoors,77.99,49.27,2022-08-17
+2301,Sports-2301,Sports & Outdoors,36.99,25.24,2023-04-30
+2302,Sports-2302,Sports & Outdoors,26.99,14.7,2024-08-11
+2303,Sports-2303,Sports & Outdoors,48.99,30.36,2023-03-29
+2304,Sports-2304,Sports & Outdoors,43.99,27.85,2023-06-15
+2305,Sports-2305,Sports & Outdoors,58.99,27.57,2024-01-30
+2306,Sports-2306,Sports & Outdoors,113.99,79.28,2023-09-06
+2307,Sports-2307,Sports & Outdoors,62.99,36.69,2023-08-22
+2308,Sports-2308,Sports & Outdoors,68.99,44.29,2024-03-13
+2309,Sports-2309,Sports & Outdoors,185.99,115.0,2023-11-18
+2310,Sports-2310,Sports & Outdoors,74.99,42.54,2022-09-16
+2311,Sports-2311,Sports & Outdoors,24.99,17.35,2023-05-07
+2312,Sports-2312,Sports & Outdoors,55.99,32.22,2022-06-16
+2313,Sports-2313,Sports & Outdoors,47.99,19.26,2023-05-29
+2314,Sports-2314,Sports & Outdoors,29.99,19.24,2022-10-30
+2315,Sports-2315,Sports & Outdoors,70.99,46.13,2024-08-21
+2316,Sports-2316,Sports & Outdoors,142.99,72.86,2022-12-28
+2317,Sports-2317,Sports & Outdoors,54.99,34.16,2024-10-02
+2318,Sports-2318,Sports & Outdoors,42.99,27.42,2023-02-02
+2319,Sports-2319,Sports & Outdoors,97.99,60.06,2024-01-10
+2320,Sports-2320,Sports & Outdoors,27.99,16.46,2023-02-05
+2321,Sports-2321,Sports & Outdoors,45.99,26.28,2023-05-30
+2322,Sports-2322,Sports & Outdoors,43.99,20.91,2023-01-14
+2323,Sports-2323,Sports & Outdoors,46.99,24.78,2023-11-28
+2324,Sports-2324,Sports & Outdoors,53.99,37.89,2022-08-08
+2325,Sports-2325,Sports & Outdoors,34.99,19.41,2023-05-23
+2326,Sports-2326,Sports & Outdoors,133.99,77.78,2022-10-16
+2327,Sports-2327,Sports & Outdoors,95.99,59.63,2023-01-24
+2328,Sports-2328,Sports & Outdoors,51.99,34.54,2023-02-19
+2329,Sports-2329,Sports & Outdoors,37.99,17.77,2024-01-19
+2330,Sports-2330,Sports & Outdoors,199.99,143.24,2022-10-13
+2331,Sports-2331,Sports & Outdoors,17.99,11.43,2022-06-08
+2332,Sports-2332,Sports & Outdoors,85.99,51.45,2023-04-22
+2333,Sports-2333,Sports & Outdoors,36.99,22.84,2024-06-02
+2334,Sports-2334,Sports & Outdoors,94.99,57.82,2023-09-02
+2335,Sports-2335,Sports & Outdoors,65.99,38.2,2022-09-04
+2336,Sports-2336,Sports & Outdoors,181.99,122.56,2024-05-05
+2337,Sports-2337,Sports & Outdoors,71.99,45.88,2023-11-19
+2338,Sports-2338,Sports & Outdoors,42.99,26.22,2024-04-14
+2339,Sports-2339,Sports & Outdoors,100.99,58.18,2023-09-20
+2340,Sports-2340,Sports & Outdoors,129.99,95.08,2023-03-28
+2341,Sports-2341,Sports & Outdoors,44.99,27.71,2022-12-19
+2342,Sports-2342,Sports & Outdoors,46.99,22.68,2022-11-19
+2343,Sports-2343,Sports & Outdoors,39.99,21.68,2023-05-26
+2344,Sports-2344,Sports & Outdoors,131.99,75.86,2023-11-19
+2345,Sports-2345,Sports & Outdoors,66.99,37.43,2022-09-20
+2346,Sports-2346,Sports & Outdoors,40.99,29.59,2023-06-26
+2347,Sports-2347,Sports & Outdoors,25.99,14.26,2023-08-17
+2348,Sports-2348,Sports & Outdoors,128.99,76.47,2022-07-12
+2349,Sports-2349,Sports & Outdoors,11.99,7.7,2023-07-19
+2350,Sports-2350,Sports & Outdoors,93.99,77.74,2023-03-26
+2351,Toys-2351,Toys & Games,41.99,25.98,2022-06-10
+2352,Toys-2352,Toys & Games,40.99,26.45,2022-07-07
+2353,Toys-2353,Toys & Games,18.99,12.56,2024-07-14
+2354,Toys-2354,Toys & Games,26.99,16.92,2024-06-21
+2355,Toys-2355,Toys & Games,40.99,24.35,2024-06-16
+2356,Toys-2356,Toys & Games,24.99,18.28,2023-02-09
+2357,Toys-2357,Toys & Games,19.99,13.45,2023-05-17
+2358,Toys-2358,Toys & Games,45.99,36.57,2022-06-11
+2359,Toys-2359,Toys & Games,58.99,28.25,2022-07-17
+2360,Toys-2360,Toys & Games,35.99,24.65,2023-12-22
+2361,Toys-2361,Toys & Games,23.99,14.39,2023-01-09
+2362,Toys-2362,Toys & Games,48.99,31.54,2024-01-26
+2363,Toys-2363,Toys & Games,11.99,7.47,2024-01-17
+2364,Toys-2364,Toys & Games,21.99,13.06,2022-07-01
+2365,Toys-2365,Toys & Games,19.99,10.36,2024-05-27
+2366,Toys-2366,Toys & Games,22.99,13.82,2024-02-23
+2367,Toys-2367,Toys & Games,10.99,7.74,2022-07-26
+2368,Toys-2368,Toys & Games,15.99,9.47,2024-09-11
+2369,Toys-2369,Toys & Games,31.99,17.24,2023-08-08
+2370,Toys-2370,Toys & Games,43.99,25.13,2023-03-03
+2371,Toys-2371,Toys & Games,25.99,14.87,2023-07-07
+2372,Toys-2372,Toys & Games,20.99,13.57,2022-06-13
+2373,Toys-2373,Toys & Games,37.99,20.86,2022-08-29
+2374,Toys-2374,Toys & Games,21.99,15.15,2022-07-03
+2375,Toys-2375,Toys & Games,25.99,16.76,2024-05-28
+2376,Toys-2376,Toys & Games,23.99,18.08,2023-08-15
+2377,Toys-2377,Toys & Games,17.99,10.77,2023-11-25
+2378,Toys-2378,Toys & Games,26.99,19.44,2023-04-21
+2379,Toys-2379,Toys & Games,52.99,35.51,2023-09-27
+2380,Toys-2380,Toys & Games,24.99,15.93,2023-08-31
+2381,Toys-2381,Toys & Games,30.99,19.23,2022-12-22
+2382,Toys-2382,Toys & Games,45.99,27.44,2023-11-22
+2383,Toys-2383,Toys & Games,67.99,42.42,2023-09-25
+2384,Toys-2384,Toys & Games,35.99,20.39,2024-09-02
+2385,Toys-2385,Toys & Games,32.99,19.12,2024-04-02
+2386,Toys-2386,Toys & Games,50.99,33.58,2024-07-05
+2387,Toys-2387,Toys & Games,38.99,21.95,2023-09-28
+2388,Toys-2388,Toys & Games,30.99,20.06,2022-07-07
+2389,Toys-2389,Toys & Games,24.99,16.91,2022-11-02
+2390,Toys-2390,Toys & Games,11.99,7.94,2023-04-04
+2391,Toys-2391,Toys & Games,19.99,13.58,2022-07-25
+2392,Toys-2392,Toys & Games,14.99,7.91,2023-12-31
+2393,Toys-2393,Toys & Games,55.99,29.63,2024-07-06
+2394,Toys-2394,Toys & Games,11.99,9.04,2023-03-04
+2395,Toys-2395,Toys & Games,28.99,19.08,2023-11-10
+2396,Toys-2396,Toys & Games,23.99,15.44,2024-01-17
+2397,Toys-2397,Toys & Games,14.99,9.52,2022-06-25
+2398,Toys-2398,Toys & Games,21.99,12.34,2022-08-29
+2399,Toys-2399,Toys & Games,15.99,9.1,2022-12-25
+2400,Toys-2400,Toys & Games,18.99,12.01,2024-07-14
+2401,Toys-2401,Toys & Games,23.99,13.37,2023-08-17
+2402,Toys-2402,Toys & Games,33.99,18.52,2024-03-26
+2403,Toys-2403,Toys & Games,26.99,18.15,2023-11-19
+2404,Toys-2404,Toys & Games,27.99,15.84,2023-01-21
+2405,Toys-2405,Toys & Games,42.99,27.97,2023-04-11
+2406,Toys-2406,Toys & Games,33.99,20.97,2024-02-10
+2407,Toys-2407,Toys & Games,31.99,21.8,2023-02-21
+2408,Toys-2408,Toys & Games,24.99,14.77,2022-10-22
+2409,Toys-2409,Toys & Games,40.99,24.25,2024-03-22
+2410,Toys-2410,Toys & Games,18.99,10.45,2023-07-27
+2411,Toys-2411,Toys & Games,53.99,32.26,2023-03-20
+2412,Toys-2412,Toys & Games,25.99,17.62,2024-02-02
+2413,Toys-2413,Toys & Games,83.99,53.67,2023-01-14
+2414,Toys-2414,Toys & Games,28.99,17.81,2023-08-07
+2415,Toys-2415,Toys & Games,27.99,19.39,2024-05-27
+2416,Toys-2416,Toys & Games,16.99,9.77,2023-04-19
+2417,Toys-2417,Toys & Games,33.99,20.56,2023-02-11
+2418,Toys-2418,Toys & Games,20.99,12.75,2023-08-17
+2419,Toys-2419,Toys & Games,39.99,28.37,2022-09-30
+2420,Toys-2420,Toys & Games,63.99,42.05,2024-07-06
+2421,Toys-2421,Toys & Games,12.99,7.87,2023-02-13
+2422,Toys-2422,Toys & Games,11.99,8.15,2023-11-27
+2423,Toys-2423,Toys & Games,23.99,15.14,2024-06-06
+2424,Toys-2424,Toys & Games,66.99,35.59,2024-06-07
+2425,Toys-2425,Toys & Games,16.99,10.0,2023-07-10
+2426,Toys-2426,Toys & Games,36.99,23.4,2024-03-02
+2427,Toys-2427,Toys & Games,19.99,13.07,2022-10-30
+2428,Toys-2428,Toys & Games,56.99,34.13,2023-07-10
+2429,Toys-2429,Toys & Games,43.99,24.09,2022-10-25
+2430,Toys-2430,Toys & Games,27.99,17.95,2024-04-16
+2431,Toys-2431,Toys & Games,95.99,53.76,2023-05-29
+2432,Toys-2432,Toys & Games,21.99,14.59,2023-10-19
+2433,Toys-2433,Toys & Games,48.99,31.88,2023-07-06
+2434,Toys-2434,Toys & Games,13.99,9.03,2022-07-27
+2435,Toys-2435,Toys & Games,42.99,25.57,2022-11-15
+2436,Toys-2436,Toys & Games,27.99,19.01,2024-04-02
+2437,Toys-2437,Toys & Games,16.99,9.94,2024-01-30
+2438,Toys-2438,Toys & Games,39.99,25.84,2024-02-07
+2439,Toys-2439,Toys & Games,27.99,17.03,2023-08-22
+2440,Toys-2440,Toys & Games,15.99,11.21,2023-07-15
+2441,Toys-2441,Toys & Games,26.99,16.2,2023-01-29
+2442,Toys-2442,Toys & Games,16.99,11.72,2022-09-14
+2443,Toys-2443,Toys & Games,31.99,18.65,2022-06-08
+2444,Toys-2444,Toys & Games,47.99,34.76,2023-03-21
+2445,Toys-2445,Toys & Games,32.99,19.05,2022-09-23
+2446,Toys-2446,Toys & Games,62.99,41.82,2023-02-02
+2447,Toys-2447,Toys & Games,31.99,15.56,2024-09-29
+2448,Toys-2448,Toys & Games,23.99,14.94,2023-03-23
+2449,Toys-2449,Toys & Games,73.99,47.65,2023-05-20
+2450,Toys-2450,Toys & Games,53.99,37.42,2023-08-01
+2451,Toys-2451,Toys & Games,23.99,14.22,2023-08-14
+2452,Toys-2452,Toys & Games,18.99,11.57,2022-05-28
+2453,Toys-2453,Toys & Games,61.99,45.43,2023-11-14
+2454,Toys-2454,Toys & Games,46.99,24.55,2022-10-05
+2455,Toys-2455,Toys & Games,23.99,17.0,2023-01-04
+2456,Toys-2456,Toys & Games,22.99,14.92,2023-03-28
+2457,Toys-2457,Toys & Games,17.99,10.72,2024-06-24
+2458,Toys-2458,Toys & Games,74.99,43.79,2024-01-05
+2459,Toys-2459,Toys & Games,41.99,27.31,2024-04-26
+2460,Toys-2460,Toys & Games,51.99,32.16,2023-10-19
+2461,Toys-2461,Toys & Games,26.99,17.77,2023-11-11
+2462,Toys-2462,Toys & Games,28.99,19.66,2023-11-09
+2463,Toys-2463,Toys & Games,42.99,29.21,2023-07-06
+2464,Toys-2464,Toys & Games,16.99,11.53,2023-09-20
+2465,Toys-2465,Toys & Games,34.99,19.87,2022-07-14
+2466,Toys-2466,Toys & Games,16.99,8.48,2023-03-24
+2467,Toys-2467,Toys & Games,31.99,17.2,2022-12-11
+2468,Toys-2468,Toys & Games,21.99,14.6,2023-08-23
+2469,Toys-2469,Toys & Games,16.99,10.35,2023-02-24
+2470,Toys-2470,Toys & Games,38.99,26.74,2024-09-14
+2471,Toys-2471,Toys & Games,33.99,22.57,2022-12-28
+2472,Toys-2472,Toys & Games,21.99,13.51,2024-05-27
+2473,Toys-2473,Toys & Games,39.99,26.31,2023-05-03
+2474,Toys-2474,Toys & Games,18.99,13.13,2023-06-13
+2475,Toys-2475,Toys & Games,8.99,5.56,2023-05-03
+2476,Toys-2476,Toys & Games,21.99,13.74,2024-05-12
+2477,Toys-2477,Toys & Games,18.99,13.09,2024-06-05
+2478,Toys-2478,Toys & Games,42.99,22.11,2023-12-23
+2479,Toys-2479,Toys & Games,21.99,13.75,2024-06-23
+2480,Toys-2480,Toys & Games,29.99,19.87,2022-12-18
+2481,Toys-2481,Toys & Games,61.99,40.2,2024-03-28
+2482,Toys-2482,Toys & Games,32.99,23.8,2022-12-25
+2483,Toys-2483,Toys & Games,42.99,25.73,2024-03-14
+2484,Toys-2484,Toys & Games,49.99,35.31,2023-01-25
+2485,Toys-2485,Toys & Games,15.99,11.13,2024-07-25
+2486,Toys-2486,Toys & Games,35.99,27.46,2023-11-10
+2487,Toys-2487,Toys & Games,17.99,11.75,2024-04-15
+2488,Toys-2488,Toys & Games,29.99,20.07,2022-12-03
+2489,Toys-2489,Toys & Games,38.99,25.11,2022-08-09
+2490,Toys-2490,Toys & Games,35.99,18.7,2023-06-02
+2491,Toys-2491,Toys & Games,17.99,11.08,2023-11-20
+2492,Toys-2492,Toys & Games,55.99,32.91,2024-09-16
+2493,Toys-2493,Toys & Games,29.99,21.2,2022-11-04
+2494,Toys-2494,Toys & Games,13.99,8.48,2023-11-16
+2495,Toys-2495,Toys & Games,46.99,27.51,2024-03-11
+2496,Toys-2496,Toys & Games,42.99,25.07,2023-09-19
+2497,Toys-2497,Toys & Games,19.99,13.01,2022-10-04
+2498,Toys-2498,Toys & Games,20.99,12.8,2022-12-14
+2499,Toys-2499,Toys & Games,17.99,11.84,2022-07-14
+2500,Toys-2500,Toys & Games,35.99,28.22,2023-12-29
+2501,Toys-2501,Toys & Games,25.99,13.38,2022-12-09
+2502,Toys-2502,Toys & Games,31.99,22.07,2024-07-04
+2503,Toys-2503,Toys & Games,94.99,57.62,2024-09-07
+2504,Toys-2504,Toys & Games,28.99,17.54,2023-06-29
+2505,Toys-2505,Toys & Games,50.99,33.4,2023-01-10
+2506,Toys-2506,Toys & Games,31.99,21.19,2023-11-26
+2507,Toys-2507,Toys & Games,28.99,20.9,2023-10-12
+2508,Toys-2508,Toys & Games,65.99,39.08,2022-11-07
+2509,Toys-2509,Toys & Games,47.99,31.89,2024-09-01
+2510,Toys-2510,Toys & Games,43.99,23.33,2024-09-29
+2511,Toys-2511,Toys & Games,65.99,43.33,2023-12-18
+2512,Toys-2512,Toys & Games,27.99,16.48,2023-07-18
+2513,Toys-2513,Toys & Games,29.99,19.61,2023-02-06
+2514,Toys-2514,Toys & Games,16.99,11.36,2022-09-22
+2515,Toys-2515,Toys & Games,31.99,21.43,2023-02-20
+2516,Toys-2516,Toys & Games,27.99,18.87,2023-01-15
+2517,Toys-2517,Toys & Games,19.99,11.88,2023-11-13
+2518,Toys-2518,Toys & Games,70.99,39.48,2022-09-19
+2519,Toys-2519,Toys & Games,38.99,23.51,2023-09-16
+2520,Toys-2520,Toys & Games,33.99,22.38,2023-02-21
+2521,Toys-2521,Toys & Games,27.99,18.73,2024-02-27
+2522,Toys-2522,Toys & Games,11.99,7.93,2024-02-09
+2523,Toys-2523,Toys & Games,10.99,5.57,2023-10-06
+2524,Toys-2524,Toys & Games,52.99,36.15,2023-02-24
+2525,Toys-2525,Toys & Games,15.99,9.02,2024-05-04
+2526,Toys-2526,Toys & Games,38.99,21.42,2022-09-30
+2527,Toys-2527,Toys & Games,23.99,12.65,2024-03-08
+2528,Toys-2528,Toys & Games,34.99,18.93,2023-04-23
+2529,Toys-2529,Toys & Games,32.99,22.12,2023-03-28
+2530,Toys-2530,Toys & Games,28.99,16.51,2023-07-19
+2531,Toys-2531,Toys & Games,67.99,42.79,2022-12-01
+2532,Toys-2532,Toys & Games,42.99,27.44,2022-11-29
+2533,Toys-2533,Toys & Games,45.99,27.01,2023-10-20
+2534,Toys-2534,Toys & Games,42.99,24.4,2023-08-04
+2535,Toys-2535,Toys & Games,34.99,20.72,2022-11-27
+2536,Toys-2536,Toys & Games,19.99,13.91,2024-01-09
+2537,Toys-2537,Toys & Games,36.99,20.52,2024-07-02
+2538,Toys-2538,Toys & Games,29.99,15.15,2022-07-08
+2539,Toys-2539,Toys & Games,36.99,26.48,2023-07-21
+2540,Toys-2540,Toys & Games,23.99,14.75,2023-01-31
+2541,Toys-2541,Toys & Games,16.99,10.24,2023-08-12
+2542,Toys-2542,Toys & Games,11.99,6.55,2024-04-10
+2543,Toys-2543,Toys & Games,36.99,22.8,2024-09-12
+2544,Toys-2544,Toys & Games,55.99,27.79,2023-08-22
+2545,Toys-2545,Toys & Games,33.99,23.7,2023-04-14
+2546,Toys-2546,Toys & Games,25.99,16.16,2022-10-24
+2547,Toys-2547,Toys & Games,23.99,13.36,2023-09-21
+2548,Toys-2548,Toys & Games,39.99,26.87,2023-02-18
+2549,Toys-2549,Toys & Games,20.99,13.34,2023-05-11
+2550,Toys-2550,Toys & Games,39.99,26.5,2023-05-08
+2551,Toys-2551,Toys & Games,25.99,17.51,2024-07-26
+2552,Toys-2552,Toys & Games,34.99,26.55,2024-02-29
+2553,Toys-2553,Toys & Games,22.99,15.98,2023-09-05
+2554,Toys-2554,Toys & Games,14.99,10.49,2023-12-17
+2555,Toys-2555,Toys & Games,42.99,28.05,2024-01-24
+2556,Toys-2556,Toys & Games,24.99,15.83,2024-09-08
+2557,Toys-2557,Toys & Games,41.99,27.46,2023-04-20
+2558,Toys-2558,Toys & Games,44.99,21.12,2023-01-30
+2559,Toys-2559,Toys & Games,52.99,31.77,2023-02-12
+2560,Toys-2560,Toys & Games,90.99,56.87,2024-07-12
+2561,Toys-2561,Toys & Games,18.99,11.11,2023-07-27
+2562,Toys-2562,Toys & Games,22.99,16.96,2024-06-30
+2563,Toys-2563,Toys & Games,20.99,12.63,2024-01-06
+2564,Toys-2564,Toys & Games,26.99,20.41,2024-06-19
+2565,Toys-2565,Toys & Games,21.99,10.96,2024-05-16
+2566,Toys-2566,Toys & Games,13.99,8.12,2024-02-28
+2567,Toys-2567,Toys & Games,25.99,14.63,2022-12-20
+2568,Toys-2568,Toys & Games,19.99,14.46,2024-03-11
+2569,Toys-2569,Toys & Games,29.99,18.79,2023-06-18
+2570,Toys-2570,Toys & Games,33.99,21.77,2022-11-24
+2571,Toys-2571,Toys & Games,24.99,14.12,2023-06-06
+2572,Toys-2572,Toys & Games,13.99,9.34,2023-03-12
+2573,Toys-2573,Toys & Games,11.99,6.87,2024-06-16
+2574,Toys-2574,Toys & Games,36.99,27.13,2023-11-14
+2575,Toys-2575,Toys & Games,31.99,22.2,2023-02-27
+2576,Toys-2576,Toys & Games,54.99,35.18,2023-12-19
+2577,Toys-2577,Toys & Games,11.99,8.04,2022-12-06
+2578,Toys-2578,Toys & Games,23.99,14.03,2024-06-29
+2579,Toys-2579,Toys & Games,19.99,12.8,2022-07-26
+2580,Toys-2580,Toys & Games,50.99,32.26,2022-08-31
+2581,Toys-2581,Toys & Games,15.99,11.39,2023-10-22
+2582,Toys-2582,Toys & Games,28.99,20.79,2023-07-12
+2583,Toys-2583,Toys & Games,26.99,16.27,2023-11-19
+2584,Toys-2584,Toys & Games,18.99,13.1,2023-11-10
+2585,Toys-2585,Toys & Games,18.99,13.19,2024-07-15
+2586,Toys-2586,Toys & Games,22.99,14.72,2022-10-24
+2587,Toys-2587,Toys & Games,50.99,28.3,2023-06-10
+2588,Toys-2588,Toys & Games,33.99,21.12,2023-04-28
+2589,Toys-2589,Toys & Games,23.99,15.64,2024-09-21
+2590,Toys-2590,Toys & Games,37.99,25.67,2022-10-23
+2591,Toys-2591,Toys & Games,10.99,6.76,2023-01-12
+2592,Toys-2592,Toys & Games,10.99,5.97,2024-08-16
+2593,Toys-2593,Toys & Games,23.99,14.93,2023-05-13
+2594,Toys-2594,Toys & Games,32.99,20.47,2023-05-12
+2595,Toys-2595,Toys & Games,10.99,6.93,2024-02-23
+2596,Toys-2596,Toys & Games,9.99,6.35,2022-07-23
+2597,Toys-2597,Toys & Games,18.99,11.42,2023-01-28
+2598,Toys-2598,Toys & Games,30.99,19.37,2022-07-18
+2599,Toys-2599,Toys & Games,12.99,7.75,2023-07-28
+2600,Toys-2600,Toys & Games,39.99,23.98,2023-12-16
+2601,Books-2601,Books & Media,8.99,6.46,2022-12-05
+2602,Books-2602,Books & Media,20.99,15.0,2023-01-03
+2603,Books-2603,Books & Media,12.99,9.69,2022-05-22
+2604,Books-2604,Books & Media,10.99,8.27,2023-06-22
+2605,Books-2605,Books & Media,27.99,20.34,2024-05-18
+2606,Books-2606,Books & Media,12.99,10.66,2023-10-20
+2607,Books-2607,Books & Media,15.99,11.06,2023-11-10
+2608,Books-2608,Books & Media,13.99,8.59,2022-09-09
+2609,Books-2609,Books & Media,14.99,10.22,2022-05-28
+2610,Books-2610,Books & Media,12.99,9.2,2023-08-14
+2611,Books-2611,Books & Media,9.99,7.4,2023-11-25
+2612,Books-2612,Books & Media,27.99,21.58,2023-07-16
+2613,Books-2613,Books & Media,15.99,11.99,2023-03-30
+2614,Books-2614,Books & Media,14.99,10.91,2022-07-06
+2615,Books-2615,Books & Media,13.99,10.19,2022-12-17
+2616,Books-2616,Books & Media,29.99,21.05,2023-05-02
+2617,Books-2617,Books & Media,5.99,4.03,2022-12-07
+2618,Books-2618,Books & Media,16.99,12.17,2022-11-01
+2619,Books-2619,Books & Media,23.99,16.02,2024-08-27
+2620,Books-2620,Books & Media,17.99,14.43,2024-01-14
+2621,Books-2621,Books & Media,13.99,9.24,2024-08-16
+2622,Books-2622,Books & Media,7.99,5.51,2022-11-15
+2623,Books-2623,Books & Media,10.99,7.93,2023-01-22
+2624,Books-2624,Books & Media,11.99,7.92,2024-08-09
+2625,Books-2625,Books & Media,12.99,9.61,2023-05-24
+2626,Books-2626,Books & Media,15.99,11.41,2023-06-10
+2627,Books-2627,Books & Media,16.99,12.83,2024-09-20
+2628,Books-2628,Books & Media,15.99,10.7,2023-06-07
+2629,Books-2629,Books & Media,17.99,12.82,2024-04-14
+2630,Books-2630,Books & Media,13.99,9.44,2024-01-17
+2631,Books-2631,Books & Media,23.99,18.65,2024-07-11
+2632,Books-2632,Books & Media,22.99,16.77,2023-03-06
+2633,Books-2633,Books & Media,8.99,6.23,2023-01-26
+2634,Books-2634,Books & Media,16.99,13.37,2023-04-13
+2635,Books-2635,Books & Media,16.99,12.66,2022-08-30
+2636,Books-2636,Books & Media,35.99,24.51,2023-10-17
+2637,Books-2637,Books & Media,21.99,15.55,2023-03-05
+2638,Books-2638,Books & Media,15.99,11.21,2023-05-03
+2639,Books-2639,Books & Media,18.99,12.1,2023-07-15
+2640,Books-2640,Books & Media,8.99,6.37,2022-11-14
+2641,Books-2641,Books & Media,14.99,10.73,2023-06-06
+2642,Books-2642,Books & Media,10.99,9.13,2022-11-14
+2643,Books-2643,Books & Media,14.99,11.79,2024-01-06
+2644,Books-2644,Books & Media,18.99,10.86,2022-11-28
+2645,Books-2645,Books & Media,9.99,6.5,2023-08-27
+2646,Books-2646,Books & Media,23.99,16.59,2023-03-03
+2647,Books-2647,Books & Media,22.99,16.41,2023-08-02
+2648,Books-2648,Books & Media,14.99,9.44,2024-01-16
+2649,Books-2649,Books & Media,5.99,4.03,2022-11-01
+2650,Books-2650,Books & Media,34.99,27.4,2023-02-18
+2651,Books-2651,Books & Media,26.99,17.56,2023-01-06
+2652,Books-2652,Books & Media,7.99,5.38,2022-07-23
+2653,Books-2653,Books & Media,9.99,6.41,2022-11-15
+2654,Books-2654,Books & Media,5.99,4.62,2024-02-13
+2655,Books-2655,Books & Media,6.99,5.47,2022-12-19
+2656,Books-2656,Books & Media,9.99,6.33,2024-06-24
+2657,Books-2657,Books & Media,18.99,15.42,2023-11-02
+2658,Books-2658,Books & Media,15.99,12.91,2024-04-30
+2659,Books-2659,Books & Media,13.99,10.7,2023-08-22
+2660,Books-2660,Books & Media,25.99,18.41,2023-02-12
+2661,Books-2661,Books & Media,19.99,11.85,2024-01-26
+2662,Books-2662,Books & Media,9.99,8.09,2024-01-27
+2663,Books-2663,Books & Media,24.99,18.67,2023-09-16
+2664,Books-2664,Books & Media,23.99,14.31,2024-09-01
+2665,Books-2665,Books & Media,21.99,15.63,2024-06-12
+2666,Books-2666,Books & Media,25.99,19.02,2024-05-23
+2667,Books-2667,Books & Media,22.99,16.87,2023-04-23
+2668,Books-2668,Books & Media,7.99,5.16,2023-04-01
+2669,Books-2669,Books & Media,25.99,18.44,2023-03-25
+2670,Books-2670,Books & Media,16.99,10.34,2024-01-23
+2671,Books-2671,Books & Media,12.99,9.72,2022-07-07
+2672,Books-2672,Books & Media,6.99,4.79,2024-02-28
+2673,Books-2673,Books & Media,21.99,15.36,2023-07-15
+2674,Books-2674,Books & Media,21.99,17.92,2024-07-28
+2675,Books-2675,Books & Media,17.99,14.71,2023-12-12
+2676,Books-2676,Books & Media,11.99,8.18,2024-02-26
+2677,Books-2677,Books & Media,14.99,9.83,2024-06-10
+2678,Books-2678,Books & Media,8.99,6.2,2023-01-11
+2679,Books-2679,Books & Media,12.99,9.64,2022-06-22
+2680,Books-2680,Books & Media,7.99,5.89,2023-11-02
+2681,Books-2681,Books & Media,8.99,6.92,2022-07-14
+2682,Books-2682,Books & Media,15.99,10.55,2023-09-05
+2683,Books-2683,Books & Media,11.99,8.32,2024-07-12
+2684,Books-2684,Books & Media,35.99,22.98,2022-06-30
+2685,Books-2685,Books & Media,9.99,6.41,2023-07-14
+2686,Books-2686,Books & Media,14.99,10.78,2024-08-06
+2687,Books-2687,Books & Media,22.99,19.3,2024-02-08
+2688,Books-2688,Books & Media,22.99,15.67,2023-10-30
+2689,Books-2689,Books & Media,6.99,4.41,2023-12-25
+2690,Books-2690,Books & Media,30.99,21.87,2023-11-08
+2691,Books-2691,Books & Media,12.99,9.09,2023-10-17
+2692,Books-2692,Books & Media,6.99,4.36,2023-09-21
+2693,Books-2693,Books & Media,11.99,8.92,2023-01-13
+2694,Books-2694,Books & Media,11.99,6.95,2022-07-31
+2695,Books-2695,Books & Media,12.99,10.11,2023-06-19
+2696,Books-2696,Books & Media,22.99,14.6,2023-06-20
+2697,Books-2697,Books & Media,19.99,16.58,2022-06-07
+2698,Books-2698,Books & Media,21.99,14.81,2023-11-03
+2699,Books-2699,Books & Media,15.99,10.43,2022-12-09
+2700,Books-2700,Books & Media,8.99,6.01,2024-08-16
+2701,Books-2701,Books & Media,18.99,13.23,2022-12-31
+2702,Books-2702,Books & Media,14.99,11.06,2023-06-26
+2703,Books-2703,Books & Media,17.99,14.31,2023-11-21
+2704,Books-2704,Books & Media,14.99,10.12,2022-11-08
+2705,Books-2705,Books & Media,19.99,14.47,2024-04-23
+2706,Books-2706,Books & Media,17.99,13.62,2024-04-10
+2707,Books-2707,Books & Media,21.99,13.89,2023-07-06
+2708,Books-2708,Books & Media,7.99,6.14,2023-05-20
+2709,Books-2709,Books & Media,8.99,5.67,2022-08-28
+2710,Books-2710,Books & Media,15.99,11.54,2023-01-31
+2711,Books-2711,Books & Media,17.99,12.62,2023-07-01
+2712,Books-2712,Books & Media,25.99,18.01,2023-03-22
+2713,Books-2713,Books & Media,9.99,7.15,2024-01-25
+2714,Books-2714,Books & Media,30.99,19.03,2024-04-27
+2715,Books-2715,Books & Media,12.99,9.38,2022-09-28
+2716,Books-2716,Books & Media,10.99,7.17,2023-05-26
+2717,Books-2717,Books & Media,20.99,14.88,2024-08-24
+2718,Books-2718,Books & Media,20.99,13.79,2024-08-04
+2719,Books-2719,Books & Media,11.99,9.33,2023-12-28
+2720,Books-2720,Books & Media,12.99,9.51,2024-07-03
+2721,Books-2721,Books & Media,15.99,10.32,2022-09-24
+2722,Books-2722,Books & Media,7.99,4.11,2023-11-20
+2723,Books-2723,Books & Media,14.99,10.45,2024-08-14
+2724,Books-2724,Books & Media,22.99,15.15,2024-03-01
+2725,Books-2725,Books & Media,17.99,13.77,2023-05-07
+2726,Books-2726,Books & Media,15.99,11.07,2022-09-21
+2727,Books-2727,Books & Media,18.99,15.08,2024-04-07
+2728,Books-2728,Books & Media,22.99,16.02,2022-07-13
+2729,Books-2729,Books & Media,26.99,20.0,2023-07-28
+2730,Books-2730,Books & Media,10.99,6.27,2022-05-19
+2731,Books-2731,Books & Media,13.99,10.62,2022-05-26
+2732,Books-2732,Books & Media,17.99,12.3,2023-06-24
+2733,Books-2733,Books & Media,16.99,12.59,2024-05-11
+2734,Books-2734,Books & Media,21.99,15.83,2023-05-26
+2735,Books-2735,Books & Media,30.99,23.54,2023-05-30
+2736,Books-2736,Books & Media,24.99,17.44,2023-05-08
+2737,Books-2737,Books & Media,11.99,7.54,2024-05-25
+2738,Books-2738,Books & Media,10.99,7.67,2024-07-02
+2739,Books-2739,Books & Media,13.99,9.96,2022-12-13
+2740,Books-2740,Books & Media,14.99,9.33,2023-05-29
+2741,Books-2741,Books & Media,6.99,4.82,2024-03-21
+2742,Books-2742,Books & Media,19.99,14.72,2024-06-27
+2743,Books-2743,Books & Media,13.99,10.91,2023-12-11
+2744,Books-2744,Books & Media,9.99,6.97,2023-12-16
+2745,Books-2745,Books & Media,11.99,8.04,2024-09-11
+2746,Books-2746,Books & Media,7.99,5.25,2023-08-01
+2747,Books-2747,Books & Media,17.99,12.21,2023-05-03
+2748,Books-2748,Books & Media,16.99,12.49,2023-04-20
+2749,Books-2749,Books & Media,9.99,7.28,2022-12-18
+2750,Books-2750,Books & Media,17.99,13.06,2024-08-17
+2751,Books-2751,Books & Media,24.99,17.93,2022-07-27
+2752,Books-2752,Books & Media,11.99,7.8,2023-08-15
+2753,Books-2753,Books & Media,16.99,10.87,2022-06-10
+2754,Books-2754,Books & Media,18.99,15.42,2024-01-17
+2755,Books-2755,Books & Media,12.99,10.83,2024-04-23
+2756,Books-2756,Books & Media,30.99,19.93,2022-07-29
+2757,Books-2757,Books & Media,13.99,8.93,2024-04-05
+2758,Books-2758,Books & Media,15.99,12.48,2024-08-04
+2759,Books-2759,Books & Media,10.99,7.04,2024-05-29
+2760,Books-2760,Books & Media,13.99,9.67,2023-10-31
+2761,Books-2761,Books & Media,8.99,5.91,2023-11-11
+2762,Books-2762,Books & Media,27.99,18.44,2023-03-16
+2763,Books-2763,Books & Media,19.99,13.96,2023-04-26
+2764,Books-2764,Books & Media,12.99,9.77,2024-04-30
+2765,Books-2765,Books & Media,20.99,10.94,2024-04-08
+2766,Books-2766,Books & Media,12.99,9.78,2022-09-21
+2767,Books-2767,Books & Media,11.99,9.05,2023-12-12
+2768,Books-2768,Books & Media,19.99,15.04,2023-04-07
+2769,Books-2769,Books & Media,17.99,11.98,2023-12-27
+2770,Books-2770,Books & Media,11.99,9.31,2023-02-24
+2771,Books-2771,Books & Media,8.99,6.17,2022-10-24
+2772,Books-2772,Books & Media,19.99,14.91,2022-10-24
+2773,Books-2773,Books & Media,15.99,11.19,2024-05-19
+2774,Books-2774,Books & Media,12.99,9.03,2023-10-01
+2775,Books-2775,Books & Media,15.99,10.34,2022-08-24
+2776,Books-2776,Books & Media,18.99,11.13,2022-12-30
+2777,Books-2777,Books & Media,31.99,20.41,2022-08-04
+2778,Books-2778,Books & Media,14.99,9.49,2022-07-10
+2779,Books-2779,Books & Media,15.99,10.52,2022-08-05
+2780,Books-2780,Books & Media,20.99,14.31,2023-04-23
+2781,Books-2781,Books & Media,12.99,9.36,2023-09-15
+2782,Books-2782,Books & Media,12.99,9.73,2023-12-02
+2783,Books-2783,Books & Media,12.99,9.32,2023-05-03
+2784,Books-2784,Books & Media,34.99,23.83,2023-10-19
+2785,Books-2785,Books & Media,11.99,7.98,2023-03-25
+2786,Books-2786,Books & Media,13.99,10.52,2024-06-13
+2787,Books-2787,Books & Media,15.99,12.73,2023-11-03
+2788,Books-2788,Books & Media,21.99,14.74,2023-11-23
+2789,Books-2789,Books & Media,11.99,7.78,2024-07-11
+2790,Books-2790,Books & Media,17.99,12.56,2022-06-10
+2791,Books-2791,Books & Media,27.99,18.01,2023-11-23
+2792,Books-2792,Books & Media,12.99,8.83,2023-12-18
+2793,Books-2793,Books & Media,10.99,6.26,2023-06-10
+2794,Books-2794,Books & Media,15.99,9.9,2022-10-07
+2795,Books-2795,Books & Media,14.99,10.71,2022-08-31
+2796,Books-2796,Books & Media,10.99,8.81,2023-02-05
+2797,Books-2797,Books & Media,22.99,14.89,2023-02-24
+2798,Books-2798,Books & Media,15.99,12.15,2022-07-31
+2799,Books-2799,Books & Media,8.99,6.58,2024-02-06
+2800,Books-2800,Books & Media,12.99,8.93,2023-08-08
+2801,Books-2801,Books & Media,20.99,14.32,2024-03-11
+2802,Books-2802,Books & Media,10.99,8.21,2022-06-14
+2803,Books-2803,Books & Media,17.99,12.74,2022-09-28
+2804,Books-2804,Books & Media,16.99,12.08,2024-04-27
+2805,Books-2805,Books & Media,13.99,8.27,2022-10-03
+2806,Books-2806,Books & Media,14.99,10.92,2023-11-09
+2807,Books-2807,Books & Media,12.99,10.12,2023-05-16
+2808,Books-2808,Books & Media,18.99,12.96,2023-12-06
+2809,Books-2809,Books & Media,14.99,9.08,2024-03-10
+2810,Books-2810,Books & Media,34.99,20.46,2024-01-07
+2811,Books-2811,Books & Media,7.99,7.15,2022-08-25
+2812,Books-2812,Books & Media,19.99,13.58,2022-09-18
+2813,Books-2813,Books & Media,15.99,11.58,2023-08-30
+2814,Books-2814,Books & Media,12.99,8.99,2024-05-19
+2815,Books-2815,Books & Media,14.99,9.61,2022-12-01
+2816,Books-2816,Books & Media,15.99,10.04,2022-06-27
+2817,Books-2817,Books & Media,19.99,16.03,2022-10-06
+2818,Books-2818,Books & Media,14.99,10.94,2024-03-09
+2819,Books-2819,Books & Media,13.99,11.36,2023-05-14
+2820,Books-2820,Books & Media,12.99,8.56,2023-09-16
+2821,Books-2821,Books & Media,12.99,8.18,2024-04-09
+2822,Books-2822,Books & Media,16.99,9.64,2022-11-10
+2823,Books-2823,Books & Media,15.99,11.28,2022-10-06
+2824,Books-2824,Books & Media,31.99,24.11,2022-06-16
+2825,Books-2825,Books & Media,12.99,9.79,2024-05-12
+2826,Books-2826,Books & Media,33.99,26.29,2024-01-26
+2827,Books-2827,Books & Media,12.99,9.21,2024-08-31
+2828,Books-2828,Books & Media,30.99,21.8,2024-01-27
+2829,Books-2829,Books & Media,8.99,6.22,2024-01-07
+2830,Books-2830,Books & Media,14.99,9.12,2023-01-01
+2831,Books-2831,Books & Media,44.99,26.53,2023-12-12
+2832,Books-2832,Books & Media,7.99,5.37,2023-06-25
+2833,Books-2833,Books & Media,10.99,8.07,2022-08-12
+2834,Books-2834,Books & Media,21.99,15.13,2024-07-25
+2835,Books-2835,Books & Media,13.99,9.65,2022-11-02
+2836,Books-2836,Books & Media,20.99,16.27,2024-09-12
+2837,Books-2837,Books & Media,26.99,17.82,2024-09-07
+2838,Books-2838,Books & Media,12.99,7.98,2024-04-08
+2839,Books-2839,Books & Media,8.99,6.41,2024-02-12
+2840,Books-2840,Books & Media,16.99,10.08,2023-01-04
+2841,Books-2841,Books & Media,22.99,14.34,2023-01-05
+2842,Books-2842,Books & Media,14.99,10.82,2022-08-01
+2843,Books-2843,Books & Media,12.99,8.83,2022-06-16
+2844,Books-2844,Books & Media,9.99,7.29,2023-12-02
+2845,Books-2845,Books & Media,9.99,6.07,2024-09-10
+2846,Books-2846,Books & Media,11.99,7.82,2022-07-04
+2847,Books-2847,Books & Media,15.99,10.07,2023-09-28
+2848,Books-2848,Books & Media,19.99,13.63,2023-04-18
+2849,Books-2849,Books & Media,22.99,16.15,2023-08-30
+2850,Books-2850,Books & Media,15.99,12.39,2023-01-13
+2851,Pet-2851,Pet Supplies,26.99,16.36,2025-07-01
+2852,Pet-2852,Pet Supplies,22.99,13.83,2025-07-01
+2853,Pet-2853,Pet Supplies,17.99,12.15,2025-07-01
+2854,Pet-2854,Pet Supplies,22.99,14.24,2025-07-01
+2855,Pet-2855,Pet Supplies,18.99,13.32,2025-07-01
+2856,Pet-2856,Pet Supplies,35.99,23.9,2025-07-01
+2857,Pet-2857,Pet Supplies,53.99,38.92,2025-07-01
+2858,Pet-2858,Pet Supplies,26.99,17.5,2025-07-01
+2859,Pet-2859,Pet Supplies,25.99,17.15,2025-07-01
+2860,Pet-2860,Pet Supplies,11.99,7.82,2025-07-01
+2861,Pet-2861,Pet Supplies,15.99,9.53,2025-07-01
+2862,Pet-2862,Pet Supplies,19.99,11.68,2025-07-01
+2863,Pet-2863,Pet Supplies,33.99,22.59,2025-07-01
+2864,Pet-2864,Pet Supplies,12.99,7.91,2025-07-01
+2865,Pet-2865,Pet Supplies,30.99,20.26,2025-07-01
+2866,Pet-2866,Pet Supplies,13.99,9.65,2025-07-01
+2867,Pet-2867,Pet Supplies,25.99,16.54,2025-07-01
+2868,Pet-2868,Pet Supplies,32.99,21.35,2025-07-01
+2869,Pet-2869,Pet Supplies,17.99,10.97,2025-07-01
+2870,Pet-2870,Pet Supplies,45.99,32.58,2025-07-01
+2871,Pet-2871,Pet Supplies,42.99,25.32,2025-07-01
+2872,Pet-2872,Pet Supplies,25.99,19.96,2025-07-01
+2873,Pet-2873,Pet Supplies,10.99,7.14,2025-07-01
+2874,Pet-2874,Pet Supplies,26.99,19.03,2025-07-01
+2875,Pet-2875,Pet Supplies,14.99,10.6,2025-07-01
+2876,Pet-2876,Pet Supplies,29.99,18.26,2025-07-01
+2877,Pet-2877,Pet Supplies,11.99,7.96,2025-07-01
+2878,Pet-2878,Pet Supplies,12.99,8.61,2025-07-01
+2879,Pet-2879,Pet Supplies,22.99,15.08,2025-07-01
+2880,Pet-2880,Pet Supplies,28.99,18.98,2025-07-01
+2881,Pet-2881,Pet Supplies,16.99,9.3,2025-07-01
+2882,Pet-2882,Pet Supplies,19.99,13.2,2025-07-01
+2883,Pet-2883,Pet Supplies,30.99,20.34,2025-07-01
+2884,Pet-2884,Pet Supplies,29.99,20.61,2025-07-01
+2885,Pet-2885,Pet Supplies,6.99,4.78,2025-07-01
+2886,Pet-2886,Pet Supplies,15.99,10.38,2025-07-01
+2887,Pet-2887,Pet Supplies,24.99,16.17,2025-07-01
+2888,Pet-2888,Pet Supplies,16.99,11.53,2025-07-01
+2889,Pet-2889,Pet Supplies,22.99,14.07,2025-07-01
+2890,Pet-2890,Pet Supplies,12.99,8.93,2025-07-01
+2891,Pet-2891,Pet Supplies,51.99,35.82,2025-07-01
+2892,Pet-2892,Pet Supplies,33.99,23.5,2025-07-01
+2893,Pet-2893,Pet Supplies,21.99,15.05,2025-07-01
+2894,Pet-2894,Pet Supplies,15.99,9.67,2025-07-01
+2895,Pet-2895,Pet Supplies,27.99,18.81,2025-07-01
+2896,Pet-2896,Pet Supplies,33.99,21.47,2025-07-01
+2897,Pet-2897,Pet Supplies,46.99,28.61,2025-07-01
+2898,Pet-2898,Pet Supplies,36.99,21.82,2025-07-01
+2899,Pet-2899,Pet Supplies,23.99,16.38,2025-07-01
+2900,Pet-2900,Pet Supplies,16.99,10.48,2025-07-01
+2901,Pet-2901,Pet Supplies,17.99,9.95,2025-07-01
+2902,Pet-2902,Pet Supplies,26.99,18.4,2025-07-01
+2903,Pet-2903,Pet Supplies,11.99,7.14,2025-07-01
+2904,Pet-2904,Pet Supplies,15.99,9.98,2025-07-01
+2905,Pet-2905,Pet Supplies,21.99,14.06,2025-07-01
+2906,Pet-2906,Pet Supplies,17.99,12.54,2025-07-01
+2907,Pet-2907,Pet Supplies,9.99,7.09,2025-07-01
+2908,Pet-2908,Pet Supplies,93.99,64.21,2025-07-01
+2909,Pet-2909,Pet Supplies,21.99,14.24,2025-07-01
+2910,Pet-2910,Pet Supplies,22.99,17.84,2025-07-01
+2911,Pet-2911,Pet Supplies,59.99,40.78,2025-07-01
+2912,Pet-2912,Pet Supplies,41.99,25.62,2025-07-01
+2913,Pet-2913,Pet Supplies,12.99,8.19,2025-07-01
+2914,Pet-2914,Pet Supplies,66.99,43.24,2025-07-01
+2915,Pet-2915,Pet Supplies,24.99,16.36,2025-07-01
+2916,Pet-2916,Pet Supplies,15.99,11.63,2025-07-01
+2917,Pet-2917,Pet Supplies,19.99,12.8,2025-07-01
+2918,Pet-2918,Pet Supplies,32.99,18.53,2025-07-01
+2919,Pet-2919,Pet Supplies,10.99,8.99,2025-07-01
+2920,Pet-2920,Pet Supplies,50.99,34.38,2025-07-01
+2921,Pet-2921,Pet Supplies,16.99,10.86,2025-07-01
+2922,Pet-2922,Pet Supplies,47.99,32.96,2025-07-01
+2923,Pet-2923,Pet Supplies,23.99,16.23,2025-07-01
+2924,Pet-2924,Pet Supplies,33.99,23.57,2025-07-01
+2925,Pet-2925,Pet Supplies,6.99,4.7,2025-07-01
+2926,Pet-2926,Pet Supplies,11.99,7.9,2025-07-01
+2927,Pet-2927,Pet Supplies,54.99,38.19,2025-07-01
+2928,Pet-2928,Pet Supplies,7.99,5.32,2025-07-01
+2929,Pet-2929,Pet Supplies,20.99,15.77,2025-07-01
+2930,Pet-2930,Pet Supplies,13.99,8.26,2025-07-01
+2931,Pet-2931,Pet Supplies,28.99,16.73,2025-07-01
+2932,Pet-2932,Pet Supplies,39.99,26.3,2025-07-01
+2933,Pet-2933,Pet Supplies,22.99,15.21,2025-07-01
+2934,Pet-2934,Pet Supplies,27.99,16.55,2025-07-01
+2935,Pet-2935,Pet Supplies,41.99,28.23,2025-07-01
+2936,Pet-2936,Pet Supplies,44.99,26.53,2025-07-01
+2937,Pet-2937,Pet Supplies,60.99,38.51,2025-07-01
+2938,Pet-2938,Pet Supplies,36.99,26.41,2025-07-01
+2939,Pet-2939,Pet Supplies,31.99,22.56,2025-07-01
+2940,Pet-2940,Pet Supplies,21.99,14.4,2025-07-01
+2941,Pet-2941,Pet Supplies,22.99,12.25,2025-07-01
+2942,Pet-2942,Pet Supplies,28.99,19.53,2025-07-01
+2943,Pet-2943,Pet Supplies,18.99,12.22,2025-07-01
+2944,Pet-2944,Pet Supplies,21.99,14.34,2025-07-01
+2945,Pet-2945,Pet Supplies,19.99,12.92,2025-07-01
+2946,Pet-2946,Pet Supplies,11.99,8.01,2025-07-01
+2947,Pet-2947,Pet Supplies,17.99,11.55,2025-07-01
+2948,Pet-2948,Pet Supplies,23.99,18.1,2025-07-01
+2949,Pet-2949,Pet Supplies,28.99,17.01,2025-07-01
+2950,Pet-2950,Pet Supplies,13.99,8.99,2025-07-01
+2951,Pet-2951,Pet Supplies,31.99,23.73,2025-07-01
+2952,Pet-2952,Pet Supplies,23.99,17.44,2025-07-01
+2953,Pet-2953,Pet Supplies,20.99,14.46,2025-07-01
+2954,Pet-2954,Pet Supplies,35.99,23.59,2025-07-01
+2955,Pet-2955,Pet Supplies,23.99,15.45,2025-07-01
+2956,Pet-2956,Pet Supplies,26.99,19.26,2025-07-01
+2957,Pet-2957,Pet Supplies,36.99,22.48,2025-07-01
+2958,Pet-2958,Pet Supplies,25.99,16.38,2025-07-01
+2959,Pet-2959,Pet Supplies,12.99,6.75,2025-07-01
+2960,Pet-2960,Pet Supplies,40.99,24.72,2025-07-01
+2961,Pet-2961,Pet Supplies,42.99,24.85,2025-07-01
+2962,Pet-2962,Pet Supplies,25.99,15.1,2025-07-01
+2963,Pet-2963,Pet Supplies,37.99,23.46,2025-07-01
+2964,Pet-2964,Pet Supplies,42.99,24.04,2025-07-01
+2965,Pet-2965,Pet Supplies,12.99,8.47,2025-07-01
+2966,Pet-2966,Pet Supplies,24.99,17.87,2025-07-01
+2967,Pet-2967,Pet Supplies,9.99,6.97,2025-07-01
+2968,Pet-2968,Pet Supplies,39.99,23.57,2025-07-01
+2969,Pet-2969,Pet Supplies,18.99,11.87,2025-07-01
+2970,Pet-2970,Pet Supplies,23.99,16.48,2025-07-01
+2971,Pet-2971,Pet Supplies,28.99,18.79,2025-07-01
+2972,Pet-2972,Pet Supplies,17.99,10.74,2025-07-01
+2973,Pet-2973,Pet Supplies,19.99,13.84,2025-07-01
+2974,Pet-2974,Pet Supplies,30.99,18.19,2025-07-01
+2975,Pet-2975,Pet Supplies,25.99,16.24,2025-07-01
+2976,Pet-2976,Pet Supplies,3.99,2.58,2025-07-01
+2977,Pet-2977,Pet Supplies,18.99,12.83,2025-07-01
+2978,Pet-2978,Pet Supplies,16.99,10.58,2025-07-01
+2979,Pet-2979,Pet Supplies,22.99,14.2,2025-07-01
+2980,Pet-2980,Pet Supplies,43.99,29.27,2025-07-01
+2981,Pet-2981,Pet Supplies,60.99,40.67,2025-07-01
+2982,Pet-2982,Pet Supplies,28.99,19.55,2025-07-01
+2983,Pet-2983,Pet Supplies,48.99,30.13,2025-07-01
+2984,Pet-2984,Pet Supplies,19.99,13.89,2025-07-01
+2985,Pet-2985,Pet Supplies,26.99,17.98,2025-07-01
+2986,Pet-2986,Pet Supplies,24.99,17.11,2025-07-01
+2987,Pet-2987,Pet Supplies,44.99,30.02,2025-07-01
+2988,Pet-2988,Pet Supplies,25.99,21.03,2025-07-01
+2989,Pet-2989,Pet Supplies,15.99,11.66,2025-07-01
+2990,Pet-2990,Pet Supplies,12.99,9.25,2025-07-01
+2991,Pet-2991,Pet Supplies,22.99,12.97,2025-07-01
+2992,Pet-2992,Pet Supplies,14.99,10.66,2025-07-01
+2993,Pet-2993,Pet Supplies,20.99,14.05,2025-07-01
+2994,Pet-2994,Pet Supplies,28.99,17.87,2025-07-01
+2995,Pet-2995,Pet Supplies,16.99,11.83,2025-07-01
+2996,Pet-2996,Pet Supplies,21.99,12.8,2025-07-01
+2997,Pet-2997,Pet Supplies,21.99,14.83,2025-07-01
+2998,Pet-2998,Pet Supplies,67.99,40.14,2025-07-01
+2999,Pet-2999,Pet Supplies,30.99,20.35,2025-07-01
+3000,Pet-3000,Pet Supplies,31.99,21.55,2025-07-01

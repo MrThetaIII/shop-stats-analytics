@@ -1,0 +1,29 @@
+incident,start,end,days,flags,unexplained_flags,metrics,peak_z,signature,explained_by
+0,2025-02-18,2025-02-18,1,9,0,9,-10.03598929656668,product views · Electronics -31%; product views · Fashion -33%; product views · Beauty -32%; product views · Books & Media -36%,E01 Site outage (6 hours)
+1,2025-03-20,2025-03-26,7,112,0,18,9.490250229446806,product views · Electronics +39%; product views · Fashion +40%; product views · Home & Garden +42%; sessions · Email +85%,P02 Spring Sale 2025
+2,2025-04-01,2025-04-10,10,10,0,1,4.445059695541616,product views · Sports & Outdoors +33%,after P02 (pull-forward) | E21 Spring sports season 2025
+3,2025-04-12,2025-04-14,3,3,0,1,2.849051690020393,product views · Sports & Outdoors +28%,E21 Spring sports season 2025
+4,2025-04-16,2025-04-16,1,1,1,1,2.319397979499756,product views · Sports & Outdoors +25%,— unexplained —
+5,2025-05-05,2025-05-18,14,18,0,2,-4.774005066508741,view→cart · Electronics -23%; sessions · Paid Search -20%,E03 Competitor electronics campaign
+6,2025-05-20,2025-05-20,1,1,1,1,-2.456544557470721,view→cart · Electronics -17%,— unexplained —
+7,2025-06-10,2025-06-13,4,20,0,5,-9.472210036782666,payment→purchase · mobile -44%; payment success · wallet -37%; payment success · card -13%; conversion (visit→purchase) -18%,E04 Mobile checkout bug
+8,2025-07-01,2025-07-28,28,113,0,16,11.271497712734956,view→cart · Fashion +35%; sessions · Email +48%; sessions · Social +32%; product views · Sports & Outdoors -29%,P03 Summer Clearance 2025 | after P03 (pull-forward) | end of E21 Spring sports season 2025
+9,2025-08-05,2025-08-05,1,1,0,1,-3.011788567681341,view→cart · Books & Media -16%,end of P03 Summer Clearance 2025
+10,2025-08-09,2025-08-13,5,48,0,16,20.46597808288079,sessions · Social +461%; visit→view · mobile -14%; visit→view · desktop -12%; conversion (visit→purchase) -33%,end of P03 Summer Clearance 2025 | E06 Viral social media mention
+11,2025-08-20,2025-08-24,5,5,0,1,2.5231672225534174,view→cart · Electronics +14%,P04 Back to School 2025
+12,2025-09-18,2025-09-21,4,8,0,2,9.869657888291593,sessions · Email +125%; orders +31%,end of P04 Back to School 2025 | P05 LOYAL20 Member Flash Sale
+13,2025-10-05,2025-10-07,3,24,0,8,-29.058328574648666,view→cart · desktop -70%; view→cart · Fashion -31%; view→cart · Beauty -31%; view→cart · Home & Garden -31%,E08 Desktop add-to-cart tracking bug
+14,2025-10-24,2025-10-26,3,8,0,3,4.963698422036413,cart→checkout · mobile +13%; product views · Electronics +21%; sessions · Email +46%,P06 Free Shipping Weekend (Oct 2025)
+15,2025-10-28,2025-10-29,2,3,0,2,3.6738756528768532,product views · Electronics +15%; sessions · Email +24%,after P06 (pull-forward)
+16,2025-11-03,2025-11-10,8,32,12,7,-57.28267374401193,visit→view · desktop -50%; zero-engagement share +19967%; sessions · Direct +249%; conversion (visit→purchase) -28%,after P06 (pull-forward) | E09 Bot traffic wave
+17,2025-11-12,2025-11-12,1,1,1,1,2.367716307189062,product views · Fashion +13%,— unexplained —
+18,2025-11-15,2025-12-26,42,268,33,32,49.19191223990987,delivery days · DE +143%; product views · Electronics +119%; product views · Toys & Games +368%; product views · Fashion +116%,P07 Black Friday / Cyber Week 2025 | after P07 (pull-forward) | E20 Holiday toy season 2025 | E24 Peak-season carrier congestion 2025 | E10 Carrier strike (Germany) | end of E24 Peak-season carrier congestion 2025 | end of E10 Carrier strike (Germany)
+19,2026-01-02,2026-01-02,1,1,0,1,-5.148154923615339,delivery days · other countries -8%,end of E24 Peak-season carrier congestion 2025
+20,2026-01-15,2026-02-03,20,25,10,2,-4.942522297334362,sessions · Paid Search -55%; revenue -22%,E11 Paid search budget cut
+21,2026-02-08,2026-02-16,9,9,1,1,7.071509967035489,units per order +10%,P08 Beauty BOGO Week
+22,2026-03-16,2026-03-16,1,1,1,1,2.183222472289597,product views · Electronics +30%,— unexplained —
+23,2026-03-19,2026-03-25,7,122,0,18,7.481366295023912,sessions · Email +87%; view→cart · Fashion +21%; sessions · Social +42%; view→cart · Home & Garden +19%,P09 Spring Sale 2026
+24,2026-05-15,2026-05-19,5,11,0,3,4.650112000217626,cart→checkout · desktop +9%; conversion (visit→purchase) +16%; cart→checkout · mobile +10%,P10 Free Shipping Weekend (May 2026) | after P10 (pull-forward)
+25,2026-06-17,2026-06-17,1,2,0,2,-9.302813779797196,payment success · card -18%; payment→purchase · desktop -11%,"E16 Payment provider outage (cards, 4 hours)"
+26,2026-06-23,2026-07-20,28,179,33,19,15.01168314506536,product views · Home & Garden +113%; view→cart · Fashion +34%; sessions · Email +46%; view→cart · Home & Garden +26%,P11 Summer Clearance 2026 | E17 Heatwave | end of E17 Heatwave | end of E22 Spring sports season 2026
+27,2026-07-22,2026-07-24,3,3,0,1,-3.2884651127183067,view→cart · Fashion -14%,after P11 (pull-forward)

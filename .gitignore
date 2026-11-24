@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+.claude/
+~$*
+
+# 470 MB - over GitHub's 100 MB file limit; regenerate with: python src/generate_data.py
+data/sessions.parquet

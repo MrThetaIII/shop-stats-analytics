@@ -1,0 +1,25 @@
+event_id,name,start_date,end_date,origin,type,expected_signature
+E01,Site outage (6 hours),2025-02-18,2025-02-18,internal,incident,Traffic lost 10:00-16:00; sessions down ~30% for the day
+E02,Loyalty program launch,2025-04-01,2026-10-31,internal,product change,Members visit more often and convert better; gradual trend change (selection bias: high-intent users join)
+E03,Competitor electronics campaign,2025-05-05,2025-05-25,external,competition,Electronics add-to-cart rate down; paid and organic search traffic slightly down
+E04,Mobile checkout bug,2025-06-10,2025-06-13,internal,incident,Payment -> purchase conversion on mobile collapses; desktop unaffected
+E05,Pet Supplies category launch,2025-07-01,2026-10-31,internal,assortment,New category ramps to ~5% of product interest over 60 days
+E06,Viral social media mention,2025-08-09,2025-08-12,external,traffic shock,"Social traffic up to 5.5x, low intent: conversion rate falls while orders rise"
+E07,Electronics price increase (+8%),2025-09-01,2026-10-31,internal,pricing,"Electronics list prices +8%: AOV and margin up, add-to-cart rate down (level shift)"
+E08,Desktop add-to-cart tracking bug,2025-10-05,2025-10-07,internal,data quality,70% of desktop add-to-cart events not recorded; purchases unaffected (impossible funnel states)
+E09,Bot traffic wave,2025-11-03,2025-11-06,external,traffic shock,"Direct desktop traffic ~3x with single-page zero-duration sessions; conversion rate diluted, orders normal"
+E10,Carrier strike (Germany),2025-12-04,2025-12-19,external,logistics,"DE delivery times +5 days, cancellations and returns up, ratings down"
+E11,Paid search budget cut,2026-01-15,2026-02-28,internal,marketing,Paid search sessions -50%; blended conversion rate changes through channel mix only
+E12,Macro slowdown / weak consumer confidence,2026-01-05,2026-04-30,external,macro,"Higher price sensitivity: add-to-cart rate and AOV drift down, premium items hit hardest"
+E13,Defective batch of one electronics SKU,2026-02-01,2026-02-28,internal,product quality,Return rate of a single best-selling electronics product jumps to ~55%
+E14,A/B test 1: one-page checkout,2026-03-02,2026-04-12,internal,experiment,Treatment improves checkout completion on mobile (and half as much on tablet); no effect on desktop
+E15,One-page checkout rolled out to 100%,2026-05-04,2026-10-31,internal,product change,Permanent level shift in mobile checkout -> purchase conversion
+E16,"Payment provider outage (cards, 4 hours)",2026-06-17,2026-06-17,external,incident,Card payments fail 13:00-17:00; PayPal / wallet / BNPL unaffected
+E17,Heatwave,2026-06-23,2026-07-02,external,weather,Home & Garden demand (cooling) more than doubles
+E18,A/B test 2: social-proof badge,2026-09-07,2026-10-04,internal,experiment,True null effect (useful for false-positive / multiple-testing checks)
+E19,Holiday toy season 2024,2024-11-15,2024-12-24,external,seasonality,Toys & Games product interest x2.2 from mid-November until Christmas Eve
+E20,Holiday toy season 2025,2025-11-15,2025-12-24,external,seasonality,Toys & Games product interest x2.2 from mid-November until Christmas Eve
+E21,Spring sports season 2025,2025-04-01,2025-06-30,external,seasonality,Sports & Outdoors product interest x1.3 in April-June
+E22,Spring sports season 2026,2026-04-01,2026-06-30,external,seasonality,Sports & Outdoors product interest x1.3 in April-June
+E23,Peak-season carrier congestion 2024,2024-11-28,2024-12-12,external,seasonality,Delivery times +1 day in all countries during the holiday peak
+E24,Peak-season carrier congestion 2025,2025-11-28,2025-12-12,external,seasonality,Delivery times +1 day in all countries during the holiday peak
